@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Interfacing with Kernel](interfacing-with-kernel.md)
-  * [Hardware Interface](interfacing-with-kernel/eeee.md)
+  * [Hardware Interface](interfacing-with-kernel/hardware-interface.md)
     * [Kernel Port - 40 pin Side Port](interfacing-with-kernel/eeee/kernel-port-40-pin-side-port.md)
     * [Expansion Port - 60 pin Bottom Port](interfacing-with-kernel/eeee/expansion-port-60-pin-bottom-port.md)
   * [Software Interface](interfacing-with-kernel/software-interface.md)
