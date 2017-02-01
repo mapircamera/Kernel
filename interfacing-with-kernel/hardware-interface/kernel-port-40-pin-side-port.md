@@ -1,3 +1,6 @@
+Kernel Port - 40 pin Side Port
+
+
 | GROUP | SIGNAL | ROW 1 PIN | ROW 2 PIN | SIGNAL | GROUP |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Boot mode | BOOT\_MODE0 | 1 | 2 | GND | Power |
