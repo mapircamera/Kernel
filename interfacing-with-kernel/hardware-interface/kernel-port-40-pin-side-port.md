@@ -1,10 +1,10 @@
 +Kernel Port - 40 pin Side Port
  +
  +
-  | GROUP | SIGNAL | ROW 1 PIN | ROW 2 PIN | SIGNAL | GROUP |
-  | :---: | :---: | :---: | :---: | :---: | :---: |
-  | Boot mode | BOOT\_MODE0 | 1 | 2 | GND | Power |
- | Power | VCC\_SYS\_5V | 3 | 4 | VCC\_5V | Power |
+ | GROUP | SIGNAL | ROW 1 PIN | ROW 2 PIN | SIGNAL | GROUP 
+ | :---: | :---: | :---: | :---: | :---: | :---: 
+ | Boot mode | BOOT\_MODE0 | 1 | 2 | GND | Power 
+ | Power | VCC\_SYS\_5V | 3 | 4 | VCC\_5V | Power 
  | Boot mode | BOOT\_MODE1 | 5 | 6 | GND | Power |
  | Power | VCC\_SYS\_5V | 7 | 8 | HDMI\_DDC\_SCL | HDMI |
  | USB OTG | USB\_OTG\_ID | 9 | 10 | HDMI\_TX\_DDC\_SDA | HDMI |
