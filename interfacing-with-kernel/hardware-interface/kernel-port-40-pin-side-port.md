@@ -26,4 +26,3 @@
 | PWM | PWM4\_IN | 39 | 40 | GND | Power |
 
 
-
