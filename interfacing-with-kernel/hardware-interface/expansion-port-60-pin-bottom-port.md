@@ -99,3 +99,12 @@ Expansion Port
 | 58      | DISP0_DAT23  | 3.3 V           | AUD4_RXD ~success    | ECSPI1_SS0 ~warning  | GPIO4_IO17 ~active  | 
 | 59      | GND          |                 | **GROUND**           |                     |                     | 
 | 60      | GND          |                 | **GROUND**           |                     |                     | 
+
+
+#### Legend
+
+| Color    | Function                | Color    | Function             | Color    | Function | 
+|----------|-------------------------|----------|----------------------|----------|----------| 
+| ~danger  | Power                   | ~warning | SPI (Primary + Alt.) | *italic* | UART/CAN | 
+| ~active  | GPIO                    | ~info    | RGMII (Gig. Eth.)    | **BOLD** | GROUND   | 
+| ~success | 12S Audio input/outputs |          |                      |          |          | 
