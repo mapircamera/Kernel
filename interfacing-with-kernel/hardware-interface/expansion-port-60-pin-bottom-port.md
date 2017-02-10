@@ -1,5 +1,6 @@
 Expansion Port
 
+![](/assets/kernel_expansion_port.jpg)
 
 | **Pin** | **Label**    | **I/O Voltage** | **Default Function** | **Alt. Function 1** | **Alt. Function 2** |
 |---------|--------------|-----------------|----------------------|---------------------|---------------------| 
