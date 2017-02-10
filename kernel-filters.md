@@ -13,20 +13,15 @@ Filter Glass Thickness: 1.0mm
 |    F              | RGB          | OUT          | Power 5VDC               |
 
 
-TB475/550/850-25.4
-TB550/660/850-25.4
-DB395/870-25.4
-DB475/850-25.4
-DB548/850-25.4
-DB660/850-25.4
-Bi405-25.4
-Bi450-25.4
-Bi520-25.4
-Bi550-25.4
-Bi632-25.4
-Bi650-25.4
-Bi660-25.4
-Bi725-25.4
-Bi808-25.4
-Bi850-25.4
-SP644-25.4
+
+
+
+
+
+
+
+##Top Lens Protector
+
+The clear glass lens protector on Kernel is a 
+
+
