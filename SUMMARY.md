@@ -15,4 +15,6 @@
     * [Licenses](interfacing-with-kernel/software-interface/licenses.md)
 * [Kernel Filters](kernel-filters.md)
 * [Licenses](licenses.md)
+* [Downloads](downloads.md)
+  * [3D Kernel Models](downloads/3d-kernel-models.md)
 

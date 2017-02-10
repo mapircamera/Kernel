@@ -6,12 +6,12 @@ The connector on the Kernel camera stack bottom Connector Board is the [Hirose D
 
 Some examples may include:
 
--WIFI
--Bluetooth
--Cellular 4G
--GPS
--LCD
--Battery
+WIFI
+Bluetooth
+Cellular 4G
+GPS
+LCD
+Battery
 
 ![](/assets/kernel_expansion_port.jpg)
 
