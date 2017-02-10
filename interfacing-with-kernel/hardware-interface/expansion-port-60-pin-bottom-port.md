@@ -2,7 +2,7 @@ Expansion Port
 
 The bottom facing Expansion port is designed to allow accessory board development.
 
-The connector on the Kernel camera stack bottom Connector Board is the [Hirose DF40C-60DP-0.4V(51)](http://tinyurl.com/h3w6h66). An expansion board would require a [Hirose DF40HC(4.0)-60DS-0.4V(51)](https://www.hirose.com/product/en/products/DF40/DF40HC%284.0%29-60DS-0.4V%2851%29/).
+The connector on the Kernel camera stack bottom Connector Board is the [Hirose DF40C-60DP-0.4V(51)](http://tinyurl.com/h3w6h66). An expansion board would require the mating component [Hirose DF40HC(4.0)-60DS-0.4V(51)](https://www.hirose.com/product/en/products/DF40/DF40HC%284.0%29-60DS-0.4V%2851%29/).
 
 Some examples may include:
 
