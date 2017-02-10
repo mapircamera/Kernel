@@ -1,7 +1,7 @@
-UART/DAC/PWM Port
+UART/DAC/PWM Side Port
 
 Next to Kernel's side UAVCAN port is the 6-pin UART/DAC/PWM port which follows the same pin-out used by the Pixhawk 1 and Pixhawk 2 flight
-controllers. The 6-pin port supports existing and future drone GPS units for geo-referencing captured media if you do not want to connect
+controllers. The 6-pin port can support existing and future drone GPS units for geo-referencing captured media if you do not want to connect
 to the vehicle's main controller. Examples of some supported GPS units can be found on the [Pixhawk GPS page](https://pixhawk.org/peripherals/sensors/gps).
 
 ![](/assets/uart_dac_pwm.jpg)
