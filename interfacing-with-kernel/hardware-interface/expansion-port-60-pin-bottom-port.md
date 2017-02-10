@@ -1,4 +1,4 @@
-Expansion Port
+# Expansion Port
 
 The bottom facing Expansion port is designed to allow accessory board development.
 
