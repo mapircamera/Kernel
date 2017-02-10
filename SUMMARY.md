@@ -6,7 +6,7 @@
     * [Kernel Port - 40 pin Side Port](interfacing-with-kernel/hardware-interface/kernel-port-40-pin-side-port.md)
     * [Expansion Port - 60 pin Bottom Port](interfacing-with-kernel/hardware-interface/expansion-port-60-pin-bottom-port.md)
     * [UAVCAN Port](interfacing-with-kernel/hardware-interface/uavcan-port.md)
-    * [GPS Port](interfacing-with-kernel/hardware-interface/gps-port.md)
+    * [UART/DAC/PWM Port](interfacing-with-kernel/hardware-interface/gps-port.md)
   * [Software Interface](interfacing-with-kernel/software-interface.md)
     * [QGIS Plugin](interfacing-with-kernel/software-interface/qgis-plugin.md)
     * [UAVCAN](interfacing-with-kernel/software-interface/uavcan.md)
