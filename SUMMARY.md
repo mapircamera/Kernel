@@ -15,7 +15,7 @@
     * [Licenses](interfacing-with-kernel/software-interface/licenses.md)
 * [Kernel Filters](kernel-filters.md)
 * [Kernel Sensors](kernel-sensors.md)
-* Kernel Lenses
+* [Kernel Lenses](kernel-lenses.md)
 * [Downloads](downloads.md)
   * [3D Kernel Models](downloads/3d-kernel-models.md)
 * [Licenses](licenses.md)
