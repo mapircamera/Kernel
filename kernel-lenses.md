@@ -33,6 +33,4 @@ Hyperfocal (Infinity) Focus Distance: ? inches (? feet), ? cm (? m)
 Lens Construction: All Glass Elements
 Dimensions: 8.75mm Length, 12mm Diameter
 
-
-
 ##8.25mm f/2.5
