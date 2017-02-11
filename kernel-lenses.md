@@ -45,7 +45,7 @@ Optical Distortion: <-1.0%
 Back Focal Length (B.F.L): 5.86mm
 Flange Back Length (F.B.L.): 4.79mm
 Total Track Length (T.T.L.): 30.0mm
-Hyperfocal (Infinity) Focus Distance: ? inches (? feet), ? cm (? m)
+Hyperfocal (Infinity) Focus Distance: 171 inches (14.25 feet), 434.34 cm (4.34 m)
 Lens Construction: 10 Glass Elements
 Weight: 15g
 Dimensions: 25.21mm Length, 12mm Diameter
