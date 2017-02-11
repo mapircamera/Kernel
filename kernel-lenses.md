@@ -24,7 +24,7 @@ Kernel Sensor Board Support: 3.0MP
 Lens Focal Length: 9.6mm (   35mm Equivalent)
 Native Sensor Size Supported: 1/1.8"
 Aperture: f/3.0
-Field of View: 51 x ? x ? degrees (Diagonal, Horizontal, Vertical)
+Field of View: 51 x 40.8 x 30.6 degrees (Diagonal, Horizontal, Vertical)
 Megapixel Rating: 5.0MP
 Optical Distortion: <-2.0%
 Flange Back Length (F.B.L.): 7.40mm
@@ -33,4 +33,20 @@ Hyperfocal (Infinity) Focus Distance: ? inches (? feet), ? cm (? m)
 Lens Construction: All Glass Elements
 Dimensions: 8.75mm Length, 12mm Diameter
 
-##8.25mm f/2.5
+##8.25mm f/2.6
+
+Kernel Sensor Board Support: 14.0MP
+Lens Focal Length: 8.25mm (   35mm Equivalent)
+Native Sensor Size Supported: 1/2.3"
+Aperture: f/2.6
+Field of View: 50 x 40 x 30 degrees (Diagonal, Horizontal, Vertical)
+Megapixel Rating: 20.0MP
+Optical Distortion: <-1.0%
+Back Focal Length (B.F.L): 5.86mm
+Flange Back Length (F.B.L.): 4.79mm
+Total Track Length (T.T.L.): 30.0mm
+Hyperfocal (Infinity) Focus Distance: ? inches (? feet), ? cm (? m)
+Lens Construction: 10 Glass Elements
+Weight: 15g
+Dimensions: 25.21mm Length, 12mm Diameter
+
