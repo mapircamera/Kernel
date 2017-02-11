@@ -20,5 +20,6 @@
 * [Kernel Lenses](kernel-lenses.md)
 * [Downloads](downloads.md)
   * [3D Kernel Models](downloads/3d-kernel-models.md)
+  * 2D Kernel Drawings
 * [Licenses](licenses.md)
 
