@@ -25,7 +25,7 @@ Filter Glass Surface Quality: 40/20
 
 ##Top Lens Protector
 
-The clear glass lens protector on Kernel provides a sealed, clear, abrasion resistant aperture.
+The clear glass lens protector on Kernel provides a sealed, abrasion resistant aperture. You can thread additional filters on top of the LP but do not suggest it due to increased vignetting that may result.
 
 Outer Diameter: 24.0mm
 Threads: 22.5mm x 0.5mm pitch
