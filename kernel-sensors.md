@@ -23,7 +23,7 @@ Pixel Size: 3.45 um x 3.45 um
 Version Option: RGB (bayer), Mono
 Photo Mode: RAW
 
-##14 MP Sensor Board
+##14.0 MP Sensor Board
 
 Manufacturer: On Semiconductor
 Part Number: MT9F002
