@@ -13,7 +13,7 @@ Filter Glass Surface Quality: 40/20
 
 | Filter Model Name | Recommended Sensor Type | Peak Wavelength| Transmission Range (>1%) | Transmission Chart | Typical Uses |
 |-------------------|-------------------------|----------------|--------------------------|--------------------|--------------|
-| F                 | RGB                     |                |                          |                    |              |
+| F-                | RGB                     | X              |                          | [VIEW]()           | Visible light only |
 
 
 
