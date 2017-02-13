@@ -2,12 +2,12 @@
 
 Kernel uses a threaded internal glass filter to block certain wavelengths of light from reaching the sensor.
 
-**Outer Diameter Threads: 25.4mm x 1-32 UN 2A (C Mount) pitch**
-**Clear Aperture: 19.5mm**
-**Filter Mount Thickness: 3.0mm**
-**Mount Material:** Black Anodized Aluminum
-Filter Glass Thickness: 1.0mm
-Filter Glass Surface Quality: 40/20
+**Outer Diameter Threads:** 25.4mm x 1-32 UN 2A (C Mount) pitch  
+**Clear Aperture:** 19.5mm  
+**Filter Mount Thickness:** 3.0mm  
+**Mount Material:** Black Anodized Aluminum  
+**Filter Glass Thickness:** 1.0mm  
+**Filter Glass Surface Quality:** 40/20  
 
 ##Filter Options
 ![](/assets/all_single_bands.png)
