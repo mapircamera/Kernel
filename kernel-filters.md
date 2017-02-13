@@ -24,12 +24,12 @@ Filter Glass Surface Quality: 40/20
 | F725              | MONO                    | 725nm          | 717-732nm          | [VIEW](#f725)           | Red-edge: Deeper canopy penetration, earlier detection of reduction in photosynthesis |
 | F808              | MONO                    | 808nm          | 798-820nm          | [VIEW](#f808)           | NIR vegetative indices |
 | F850              | MONO                    | 850nm          | 845-860nm          | [VIEW](#f850)           | NIR vegetative indices |
-| F395-870          | RGB                     | 395nm & 870nm  | 375-425nm & 745-970nm          | [VIEW]()           | Atmospheric indices|
-| F475-850          | RGB                     | 475nm & 850nm  | 460-490nm & 830-870nm          | [VIEW]()           | BNDVI |
-| F550-850          | RGB                     | 550nm & 850nm  | 535-565nm & 830-870nm          | [VIEW]()           | GNDVI: general plant "green-ness" |
-| F660-850          | RGB                     | 660nm & 850nm  | 645-675nm & 830-870nm          | [VIEW]()           | NDVI: general plant "health" |
-| F475-550-850      | RGB                     | 475nm & 550nm & 850nm | 468-483nm & 543-558nm & 835-865nm          | [VIEW]()           | ENDVI/EVI, improved NDVI |
-| F550-660-850      | RGB                     | 550nm & 660nm & 850nm | 543-558nm & 653-668nm & 835-865nm          | [VIEW]()           | NDVI, GNDVI, CVI, NG, NNIR, NR, TVI |
+| F395-870          | RGB                     | 395nm & 870nm  | 375-425nm & 745-970nm          | [VIEW](#f396-870)           | Atmospheric indices|
+| F475-850          | RGB                     | 475nm & 850nm  | 460-490nm & 830-870nm          | [VIEW](#f475-850)           | BNDVI |
+| F550-850          | RGB                     | 550nm & 850nm  | 535-565nm & 830-870nm          | [VIEW](#f550-850)           | GNDVI: general plant "green-ness" |
+| F660-850          | RGB                     | 660nm & 850nm  | 645-675nm & 830-870nm          | [VIEW](#f660-850)           | NDVI: general plant "health" |
+| F475-550-850      | RGB                     | 475nm & 550nm & 850nm | 468-483nm & 543-558nm & 835-865nm          | [VIEW](#f475-550-850)           | ENDVI/EVI, improved NDVI |
+| F550-660-850      | RGB                     | 550nm & 660nm & 850nm | 543-558nm & 653-668nm & 835-865nm          | [VIEW](#f550-660-850)           | NDVI, GNDVI, CVI, NG, NNIR, NR, TVI |
 
 ##Top Lens Protector
 
@@ -73,13 +73,14 @@ Surface Quality: 40/20
 #### F850
 ![](/assets/f850.png)
 #### F395-870
-
+![](/assets/f395-870.png)
 #### F475-850
-
-#### F548-850
-
+![](/assets/f475-850.png)
+#### F550-850
+![](/assets/f550-850.png)
 #### F660-850
-
+![](/assets/f660-850.png)
 #### F475-550-850
-
+![](/assets/f475-550-850.png)
 #### F550-660-850
+![](/assets/f550-660-850.png)
