@@ -20,7 +20,6 @@ Filter Glass Surface Quality: 40/20
 | F550              | MONO                    | 550nm          | 535-558nm          | [VIEW](#f550)           | Green vegetative indices |
 | F632              | MONO                    | 632nm          | 625-640nm          | [VIEW](#f632)           | Red vegetative indices |
 | F650              | MONO                    | 650nm          | 643-665nm          | [VIEW](#f650)           | Red vegetative indices |
-| F660              | MONO                    | 660nm          | 650-665nm          | [VIEW](#f660)           | Red vegetative indices |
 | F725              | MONO                    | 725nm          | 717-732nm          | [VIEW](#f725)           | Red-edge: Deeper canopy penetration, earlier detection of reduction in photosynthesis |
 | F808              | MONO                    | 808nm          | 798-820nm          | [VIEW](#f808)           | NIR vegetative indices |
 | F850              | MONO                    | 850nm          | 845-860nm          | [VIEW](#f850)           | NIR vegetative indices |
@@ -67,8 +66,6 @@ Surface Quality: 40/20
 ![](/assets/f632.png)
 #### F650
 ![](/assets/f650.png)
-#### F660
-![](/assets/f660.png)
 #### F725
 ![](/assets/f720.png)
 #### F808
