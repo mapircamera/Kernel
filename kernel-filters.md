@@ -48,15 +48,14 @@ Tolerance: +/- 10nm
 Peak Transmission: >90%
 Surface Quality: 40/20
 
-###Transmission Chart
-
-![](/assets/lens_protector_chart.PNG)
+![](/assets/lp.png)
 
 ###Other Filter Charts
 
 ####F644
 
 ####F405
+![](/assets/f405.png)
 
 ####F450
 
