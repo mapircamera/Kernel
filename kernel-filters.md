@@ -26,8 +26,8 @@ Filter Glass Surface Quality: 40/20
 | F850              | MONO                    | 850nm          | 845-860nm          | [VIEW]()           | NIR vegetative indices |
 | F395-870          | RGB                     | 395nm & 870nm  | 375-425nm & 745-970nm          | [VIEW]()           | Atmospheric indices|
 | F475-850          | RGB                     | 475nm & 850nm  | 460-490nm & 830-870nm          | [VIEW]()           | BNDVI |
-| F550-850          | RGB                     | 550nm & 850nm  | 535-565nm & 830-870nm          | [VIEW]()           | GNDVI |
-| F660-850          | RGB                     | 660nm & 850nm  | 645-675nm & 830-870nm          | [VIEW]()           | NDVI |
+| F550-850          | RGB                     | 550nm & 850nm  | 535-565nm & 830-870nm          | [VIEW]()           | GNDVI: general plant "green-ness" |
+| F660-850          | RGB                     | 660nm & 850nm  | 645-675nm & 830-870nm          | [VIEW]()           | NDVI: general plant "health" |
 | F475-550-850      | RGB                     | 475nm & 550nm & 850nm | 468-483nm & 543-558nm & 835-865nm          | [VIEW]()           | ENDVI/EVI, improved NDVI |
 | F550-660-850      | RGB                     | 550nm & 660nm & 850nm | 543-558nm & 653-668nm & 835-865nm          | [VIEW]()           | NDVI, GNDVI, CVI, NG, NNIR, NR, TVI |
 
