@@ -9,7 +9,6 @@ Kernel uses a threaded internal glass filter to block certain wavelengths of lig
 **Filter Glass Thickness:** 1.0mm  
 **Filter Glass Surface Quality:** 40/20  
 
-##Filter Options
 ![](/assets/all_single_bands.png)
 
 | Filter Model Name | Recommended Sensor Type | Peak Wavelength| Transmission Range | Transmission Chart | Typical Uses |
