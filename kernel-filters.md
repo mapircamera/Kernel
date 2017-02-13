@@ -48,6 +48,7 @@ The clear glass lens protector on Kernel provides a sealed, abrasion resistant a
 **Surface Quality:** 40/20  
 
 ![](/assets/lp.png)
+[Download Data](http://docs.peauproductions.com/kernel/filters/lens_protector_chart.xlsx)
 
 ###Other Filter Charts
 
@@ -61,25 +62,25 @@ The clear glass lens protector on Kernel provides a sealed, abrasion resistant a
 [Download Data](http://docs.peauproductions.com/kernel/filters/F450.xlsx)
 ![](/assets/f450.png)
 #### F520
-[Download Data](http://docs.peauproductions.com/kernel/filters/f520.xlsx)
+[Download Data](http://docs.peauproductions.com/kernel/filters/F520.xlsx)
 ![](/assets/f520.png)
 #### F550
-[Download Data](http://docs.peauproductions.com/kernel/filters/f550.xlsx)
+[Download Data](http://docs.peauproductions.com/kernel/filters/F550.xlsx)
 ![](/assets/f550.png)
 #### F632
-[Download Data](http://docs.peauproductions.com/kernel/filters/f632.xlsx)
+[Download Data](http://docs.peauproductions.com/kernel/filters/F632.xlsx)
 ![](/assets/f632.png)
 #### F650
-[Download Data](http://docs.peauproductions.com/kernel/filters/f650.xlsx)
+[Download Data](http://docs.peauproductions.com/kernel/filters/F650.xlsx)
 ![](/assets/f650.png)
 #### F725
-[Download Data](http://docs.peauproductions.com/kernel/filters/f725.xlsx)
+[Download Data](http://docs.peauproductions.com/kernel/filters/F725.xlsx)
 ![](/assets/f720.png)
 #### F808
-[Download Data](http://docs.peauproductions.com/kernel/filters/f808.xlsx)
+[Download Data](http://docs.peauproductions.com/kernel/filters/F808.xlsx)
 ![](/assets/f808.png)
 #### F850
-[Download Data](http://docs.peauproductions.com/kernel/filters/f850.xlsx)
+[Download Data](http://docs.peauproductions.com/kernel/filters/F850.xlsx)
 ![](/assets/f850.png)
 #### F395-870
 [Download Data]()
