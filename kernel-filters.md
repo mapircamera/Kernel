@@ -10,6 +10,7 @@ Filter Glass Thickness: 1.0mm
 Filter Glass Surface Quality: 40/20
 
 ##Filter Options
+![](/assets/all_single_bands.png)
 
 | Filter Model Name | Recommended Sensor Type | Peak Wavelength| Transmission Range | Transmission Chart | Typical Uses |
 |-------------------|-------------------------|----------------|--------------------|--------------------|--------------|
@@ -29,7 +30,6 @@ Filter Glass Surface Quality: 40/20
 | F660-850          | RGB                     | 660nm & 850nm  | 645-675nm & 830-870nm          | [VIEW]()           | NDVI: general plant "health" |
 | F475-550-850      | RGB                     | 475nm & 550nm & 850nm | 468-483nm & 543-558nm & 835-865nm          | [VIEW]()           | ENDVI/EVI, improved NDVI |
 | F550-660-850      | RGB                     | 550nm & 660nm & 850nm | 543-558nm & 653-668nm & 835-865nm          | [VIEW]()           | NDVI, GNDVI, CVI, NG, NNIR, NR, TVI |
-![](/assets/all_single_bands.png)
 
 ##Top Lens Protector
 
