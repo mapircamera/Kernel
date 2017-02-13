@@ -41,3 +41,5 @@ Peak Transmission: >90%
 Surface Quality: 40/20
 
 ###Transmission Chart
+
+![](/assets/lens_protector_chart.PNG)
