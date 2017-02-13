@@ -14,22 +14,22 @@ Filter Glass Surface Quality: 40/20
 | Filter Model Name | Recommended Sensor Type | Peak Wavelength| Transmission Range | Transmission Chart | Typical Uses |
 |-------------------|-------------------------|----------------|--------------------|--------------------|--------------|
 | F644              | RGB                     | X              | 395-638nm          | [VIEW]()           | Visible light only (Cut-off 648nm) |
-| F405              | MONO                    | 405nm          | 395-638nm          | [VIEW]()           |  |
-| F450              | MONO                    | 450nm          | 395-638nm          | [VIEW]()           |  |
-| F520              | MONO                    | 520nm          | 395-638nm          | [VIEW]()           |  |
-| F550              | MONO                    | 550nm          | 395-638nm          | [VIEW]()           |  |
-| F632              | MONO                    | 632nm          | 395-638nm          | [VIEW]()           |  |
-| F650              | MONO                    | 650nm          | 395-638nm          | [VIEW]()           |  |
-| F660              | MONO                    | 660nm          | 395-638nm          | [VIEW]()           |  |
-| F725              | MONO                    | 725nm          | 395-638nm          | [VIEW]()           |  |
-| F808              | MONO                    | 808nm          | 395-638nm          | [VIEW]()           |  |
-| F850              | MONO                    | 850nm          | 395-638nm          | [VIEW]()           |  |
-| F395-870          | RGB                     | 395nm & 870nm  | 395-638nm          | [VIEW]()           |  |
-| F475-850          | RGB                     | 475nm & 850nm  | 395-638nm          | [VIEW]()           |  |
-| F548-850          | RGB                     | 548nm & 850nm  | 395-638nm          | [VIEW]()           |  |
-| F660-850          | RGB                     | 660nm & 850nm  | 395-638nm          | [VIEW]()           |  |
-| F475-550-850      | RGB                     | 475nm & 550nm & 850nm | 395-638nm          | [VIEW]()           |  |
-| F550-660-850      | RGB                     | 550nm & 660nm & 850nm | 395-638nm          | [VIEW]()           |  |
+| F405              | MONO                    | 405nm          | 400-415nm          | [VIEW]()           |  |
+| F450              | MONO                    | 450nm          | 445-465nm          | [VIEW]()           |  |
+| F520              | MONO                    | 520nm          | 515-525nm          | [VIEW]()           |  |
+| F550              | MONO                    | 550nm          | 535-558nm          | [VIEW]()           |  |
+| F632              | MONO                    | 632nm          | 625-640nm          | [VIEW]()           |  |
+| F650              | MONO                    | 650nm          | 643-665nm          | [VIEW]()           |  |
+| F660              | MONO                    | 660nm          | 650-665nm          | [VIEW]()           |  |
+| F725              | MONO                    | 725nm          | 717-732nm          | [VIEW]()           |  |
+| F808              | MONO                    | 808nm          | 798-820nm          | [VIEW]()           |  |
+| F850              | MONO                    | 850nm          | 845-860nm          | [VIEW]()           |  |
+| F395-870          | RGB                     | 395nm & 870nm  | 375-425nm & 745-970nm          | [VIEW]()           |  |
+| F475-850          | RGB                     | 475nm & 850nm  | 460-490nm & 830-870nm          | [VIEW]()           |  |
+| F550-850          | RGB                     | 550nm & 850nm  | 535-565nm & 830-870nm          | [VIEW]()           |  |
+| F660-850          | RGB                     | 660nm & 850nm  | 645-675nm & 830-870nm          | [VIEW]()           |  |
+| F475-550-850      | RGB                     | 475nm & 550nm & 850nm | 468-483nm & 543-558nm & 835-865nm          | [VIEW]()           |  |
+| F550-660-850      | RGB                     | 550nm & 660nm & 850nm | 543-558nm & 653-668nm & 835-865nm          | [VIEW]()           |  |
 
 ##Top Lens Protector
 
