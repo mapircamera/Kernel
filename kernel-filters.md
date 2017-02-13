@@ -11,9 +11,9 @@ Filter Glass Surface Quality: 40/20
 
 ##Filter Options
 
-| Filter Model Name | Recommended Sensor Type | Peak Wavelength| Transmission Range (>1%) | Transmission Chart | Typical Uses |
-|-------------------|-------------------------|----------------|--------------------------|--------------------|--------------|
-| F-                | RGB                     | X              |                          | [VIEW]()           | Visible light only |
+| Filter Model Name | Recommended Sensor Type | Peak Wavelength| Transmission Range | Transmission Chart | Typical Uses |
+|-------------------|-------------------------|----------------|--------------------|--------------------|--------------|
+| F644              | RGB                     | X              | 395-638nm          | [VIEW]()           | Visible light only (Cut-off 648nm) |
 
 
 
