@@ -1,5 +1,6 @@
 #3D Kernel Models
 
+Use the below files to help you design your own housings and accessories for the Kernel product line.
 
 | **Number of Kernels** | **Number of Link Boards**    | **Included Components**  | **View Model** |**Download Link** | **Comments** |
 |-----------------------|------------------------------|--------------------------|----------------|------------------|--------------|
