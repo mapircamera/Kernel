@@ -13,6 +13,27 @@
 | 4                     | 2                            | Cameras, Link Boards, Housing, External Plugs  | [OBJ](http://docs.peauproductions.com/kernel/3d_models/array_4_housing_plugs.obj) |  |
 | 4                     | 2                            | Cameras, Link Boards, Housing | [OBJ](http://docs.peauproductions.com/kernel/3d_models/array_4_housing.obj)|   |
 | 4                     | 2                            | Cameras, Link Boards, No Housing | [OBJ](http://docs.peauproductions.com/kernel/3d_models/array_4_no_housing.obj) |   |
+| 6                     | 3                            | Cameras, Link Boards, Housing, External Plugs  | [OBJ](http://docs.peauproductions.com/kernel/3d_models/array_6_housing_plugs.obj) |  |
+| 6                     | 3                            | Cameras, Link Boards, Housing | [OBJ](http://docs.peauproductions.com/kernel/3d_models/array_6_housing.obj)|   |
+| 6                     | 3                            | Cameras, Link Boards, No Housing | [OBJ](http://docs.peauproductions.com/kernel/3d_models/array_6_no_housing.obj) |   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
