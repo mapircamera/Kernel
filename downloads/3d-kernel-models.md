@@ -4,8 +4,7 @@ Use the below files to help you design your own housings and accessories for the
 
 | **Number of Kernels** | **Number of Link Boards**    | **Included Components**  | **View Model** |**Download Link** | **Comments** |
 |-----------------------|------------------------------|--------------------------|----------------|------------------|--------------|
-| 1                     | 0                            | Camera, Housing         |  [VIEW]()      | [OBJ](http://docs.peauproductions.com/kernel/3d_models/kernel_housing_plugs.obj)                 |              |
-| 1                     | 0                            | Camera                  |  [VIEW]()      | [OBJ](http://docs.peauproductions.com/kernel/3d_models/kernel.obj)                 ||
+| 1                     | 0                            | Camera                   |  [VIEW](https://sketchfab.com/models/f7ef771dd7374b0ea622a018df0a0af1)      | [OBJ](http://docs.peauproductions.com/kernel/3d_models/kernel_housing.obj)                 |              |
 | 2                     | 1                            | Cameras, Link Board, Housing, External Plugs  | [VIEW](https://sketchfab.com/models/0c1e03536b69449593d5e1f9e61d29a0)        |[OBJ](http://docs.peauproductions.com/kernel/3d_models/array_2_housing_plugs.obj)     |              |
 | 2                     | 1                            | Cameras, Link Board, Housing | [VIEW](https://sketchfab.com/models/1b6cdfa2161e4f9db5ed77f5c501c6bd)                |[OBJ](http://docs.peauproductions.com/kernel/3d_models/array_2_housing.obj)|   |
 | 2                     | 1                            | Cameras, Link Board, No Housing |[VIEW](https://sketchfab.com/models/a47dec2f5ae34b618c92afcdd6584bad)                    | [OBJ](http://docs.peauproductions.com/kernel/3d_models/array_2_no_housing.obj) | |
