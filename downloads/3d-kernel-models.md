@@ -14,7 +14,7 @@ Use the below files to help you design your own housings and accessories for the
 | 4                     | 2                            | Cameras, Link Boards, No Housing |[VIEW](https://sketchfab.com/models/885bc83e7b53485bbdc20e21cc203f4c)                     |[OBJ](http://docs.peauproductions.com/kernel/3d_models/array_4_no_housing.obj) |   |
 | 6                     | 3                            | Cameras, Link Boards, Housing, External Plugs  | [VIEW](https://sketchfab.com/models/7816a9544ecb41f8bda8d7af31d8866d)                    |[OBJ](http://docs.peauproductions.com/kernel/3d_models/array_6_housing_plugs.obj) |  |
 | 6                     | 3                            | Cameras, Link Boards, Housing |[VIEW](https://sketchfab.com/models/b454926fd3324f2fbabe543b51f67e2d)                     |[OBJ](http://docs.peauproductions.com/kernel/3d_models/array_6_housing.obj)|   |
-| 6                     | 3                            | Cameras, Link Boards, No Housing |[VIEW](https://sketchfab.com/models/0c1e03536b69449593d5e1f9e61d29a0)                     |[OBJ](http://docs.peauproductions.com/kernel/3d_models/array_6_no_housing.obj) |   |
+| 6                     | 3                            | Cameras, Link Boards, No Housing |[VIEW](https://sketchfab.com/models/f5c47bc95a5c4cc5842ca0d50cc6214f)                     |[OBJ](http://docs.peauproductions.com/kernel/3d_models/array_6_no_housing.obj) |   |
   
 
 
