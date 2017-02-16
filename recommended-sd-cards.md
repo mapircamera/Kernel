@@ -4,13 +4,14 @@ Kernel cameras were designed to allow for max continuous RAW image capture. To a
 
 | Card Capacity | Card Brand | Card Model Number                      | Kernel Sensor | Kernel Image Mode | Photos Per Second | Image Size | Card Capacity | Card Capture Length |
 |---------------|------------|----------------------------------------|---------------|-------------------|-------------------|------------|---------------|---------------------|
-| 64GB          | Lexar      | 1000x                                  | 1.2MP         | .mapir (RAW)      |  3.50             | 1.75MB     | ~34,057 photos| 2 hours 42 minutes  |
+| 64GB          | Lexar      | 1000x                                  | 1.2MP         | MAPIR (RAW)       |  3.50             | 1.75MB     | ~34,057 photos| 2 hours 42 minutes  |
 | 64GB          | Lexar      | 1000x                                  | 1.2MP         | TIFF              |                   |            |               |                     |
-| 128GB         | SanDisk    | Extreme Plus 95MB/s SDSQXVF-128G-GN6MA | 1.2MP         | .mapir (RAW)      |                   |            |               |                     |
+| 128GB         | SanDisk    | Extreme Plus 95MB/s SDSQXVF-128G-GN6MA | 1.2MP         | MAPIR (RAW)       |                   |            |               |                     |
+| 128GB         | SanDisk    | Extreme Plus 95MB/s SDSQXVF-128G-GN6MA | 1.2MP         | TIFF              |                   |            |               |                     |
+| 64GB          | Lexar      | 1000x                                  | 1.2MP         | MAPIR (RAW)       |                   |            |               |                     |
+| 64GB          | Lexar      | 1000x                                  | 1.2MP         | TIFF              |                   |            |               |                     |
 | 64GB          | Lexar      | 1000x                                  | 1.2MP         | .mapir (RAW)      |                   |            |               |                     |
-| 64GB          | Lexar      | 1000x                                  | 1.2MP         | .mapir (RAW)      |                   |            |               |                     |
-| 64GB          | Lexar      | 1000x                                  | 1.2MP         | .mapir (RAW)      |                   |            |               |                     |
-| 64GB          | Lexar      | 1000x                                  | 1.2MP         | .mapir (RAW)      |                   |            |               |                     |
+| 64GB          | Lexar      | 1000x                                  | 1.2MP         | TIFF              |                   |            |               |                     |
 
 
 
