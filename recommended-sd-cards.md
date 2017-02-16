@@ -2,15 +2,15 @@
 
 Kernel cameras were designed to allow for max continuous RAW image capture. To allow for these capture speeds it is important to use a memory card capable of keeping up with the required write speeds. While any microSD card up to 128GB can be used, we recommended the ones tested below for optimal results:
 
-| Card Capacity | Card Brand | Card Model Number                      | Kernel Sensor | Kernel Image Mode | Photos Per Second | Image Size | Card Capacity | Card Capture Length (HOUR:MIN) |
-|---------------|------------|----------------------------------------|---------------|-------------------|-------------------|------------|---------------|--------------------------------|
-| 64GB          | Lexar      | 1000x                                  | 1.2MP         | .mapir (RAW)      |  3.50             | 1.75MB     | ~34,057 photos|                                |
-| 64GB          | Lexar      | 1000x                                  | 1.2MP         | TIFF              |                   |            |               |                                |
-| 128GB         | SanDisk    | Extreme Plus 95MB/s SDSQXVF-128G-GN6MA | 1.2MP         | .mapir (RAW)      |                   |            |               |                                |
-| 64GB          | Lexar      | 1000x                                  | 1.2MP         | .mapir (RAW)      |                   |            |               |                                |
-| 64GB          | Lexar      | 1000x                                  | 1.2MP         | .mapir (RAW)      |                   |            |               |                                |
-| 64GB          | Lexar      | 1000x                                  | 1.2MP         | .mapir (RAW)      |                   |            |               |                                |
-| 64GB          | Lexar      | 1000x                                  | 1.2MP         | .mapir (RAW)      |                   |            |               |                                |
+| Card Capacity | Card Brand | Card Model Number                      | Kernel Sensor | Kernel Image Mode | Photos Per Second | Image Size | Card Capacity | Card Capture Length |
+|---------------|------------|----------------------------------------|---------------|-------------------|-------------------|------------|---------------|---------------------|
+| 64GB          | Lexar      | 1000x                                  | 1.2MP         | .mapir (RAW)      |  3.50             | 1.75MB     | ~34,057 photos| 2 hours 42 minutes  |
+| 64GB          | Lexar      | 1000x                                  | 1.2MP         | TIFF              |                   |            |               |                     |
+| 128GB         | SanDisk    | Extreme Plus 95MB/s SDSQXVF-128G-GN6MA | 1.2MP         | .mapir (RAW)      |                   |            |               |                     |
+| 64GB          | Lexar      | 1000x                                  | 1.2MP         | .mapir (RAW)      |                   |            |               |                     |
+| 64GB          | Lexar      | 1000x                                  | 1.2MP         | .mapir (RAW)      |                   |            |               |                     |
+| 64GB          | Lexar      | 1000x                                  | 1.2MP         | .mapir (RAW)      |                   |            |               |                     |
+| 64GB          | Lexar      | 1000x                                  | 1.2MP         | .mapir (RAW)      |                   |            |               |                     |
 
 
 
