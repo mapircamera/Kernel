@@ -16,4 +16,4 @@ Kernel cameras were designed to allow for max continuous RAW image capture. To a
 
 ###How We Test Capture Speeds
 
-We put the camera in the configuration and image mode listed above with a new formatted SD card. We then capture 1000 photos and divide by the time it takes to capture them to determine the photos per second (fps).
+We put the camera in the configuration and image mode listed above with a formatted SD card. We then capture 1000 photos and divide by the time it takes to capture them to determine the photos per second (fps).
