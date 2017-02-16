@@ -4,11 +4,11 @@ Kernel cameras were designed to allow for max continuous RAW image capture. To a
 
 | Card Capacity | Card Brand | Card Model Number                      | Kernel Sensor | Kernel Image Mode | Photos Per Second | Image Size | Card Capacity | Card Capture Length |
 |---------------|------------|----------------------------------------|---------------|-------------------|-------------------|------------|---------------|---------------------|
-| 64GB          | Lexar      | 1000x                                  | 1.2MP         | MAPIR (RAW)       |  3.50             | 1.75MB     | ~34,057 photos| 2 hours 42 minutes  |
-| 64GB          | Lexar      | 1000x                                  | 1.2MP         | TIFF              |  2.44             | 2.34MB     | ~25,470 photos| 2 hours 54 minutes  |
+| 64GB          | Lexar      | 1000x                                  | 1.2MP         | MAPIR (RAW)       |  3.50fps          | 1.75MB     | ~34,057 photos| 2 hours 42 minutes  |
+| 64GB          | Lexar      | 1000x                                  | 1.2MP         | TIFF              |  2.44fps          | 2.34MB     | ~25,470 photos| 2 hours 54 minutes  |
 | 128GB         | SanDisk    | Extreme Plus 95MB/s SDSQXVF-128G-GN6MA | 1.2MP         | MAPIR (RAW)       |                   |            |               |                     |
 | 128GB         | SanDisk    | Extreme Plus 95MB/s SDSQXVF-128G-GN6MA | 1.2MP         | TIFF              |                   |            |               |                     |
-| 128GB         | SanDisk    | Extreme 90MB/s SDSQXVF-128G-GN6MA      | 1.2MP         | MAPIR (RAW)       |                   |            |               |                     |
+| 128GB         | SanDisk    | Extreme 90MB/s SDSQXVF-128G-GN6MA      | 1.2MP         | MAPIR (RAW)       |  5.95fps          | 1.75MB     | ~68,000 photos| 3 hours 10 minutes  |
 | 128GB         | SanDisk    | Extreme 90MB/s SDSQXVF-128G-GN6MA      | 1.2MP         | TIFF              |                   |            |               |                     |
 | 64GB          | SanDisk    | 1000x                                  | 1.2MP         | .mapir (RAW)      |                   |            |               |                     |
 | 64GB          | SanDisk    | 1000x                                  | 1.2MP         | TIFF              |                   |            |               |                     |
