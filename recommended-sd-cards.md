@@ -10,14 +10,14 @@ Kernel cameras were designed to allow for max continuous RAW image capture. To a
 | 128GB         | SanDisk    | Extreme Plus 95MB/s SDSQXVF-128G-GN6MA | 1.2MP         | TIFF              | **3.42fps**       | 2.34MB     | ~50,854 photos| 4 hours 7 minutes   |
 | 128GB         | SanDisk    | Extreme 90MB/s SDSQXVF-128G-GN6MA      | 1.2MP         | MAPIR (RAW)       | **5.95fps**       | 1.75MB     | ~68,000 photos| 3 hours 10 minutes  |
 | 128GB         | SanDisk    | Extreme 90MB/s SDSQXVF-128G-GN6MA      | 1.2MP         | TIFF              | **3.69fps**       | 2.34MB     | ~50,854 photos| 3 hours 49 minutes  |
-| 64GB          | SanDisk    | Extreme 90MB/s SDSQXVF-064G-GN6MA      | 1.2MP         | .mapir (RAW)      | ****              | 1.75MB     |               |                     |
-| 64GB          | SanDisk    | Extreme 90MB/s SDSQXVF-064G-GN6MA      | 1.2MP         | TIFF              | ****              | 2.34MB     |               |                     |
-| 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXSG-064G-GN6MA| 1.2MP         | .mapir (RAW)      | ****              | 1.75MB     |               |                     |
-| 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXSG-064G-GN6MA| 1.2MP         | TIFF              | ****              | 2.34MB     |               |                     |
-| 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXWG-064G-ANCMA| 1.2MP         | .mapir (RAW)      | ****              | 1.75MB     |               |                     |
-| 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXWG-064G-ANCMA| 1.2MP         | TIFF              | ****              | 2.34MB     |               |                     |
-| 128GB         | Lexar      | 1800x                                  | 1.2MP         | .mapir (RAW)      | ****              | 1.75MB     |               |                     |
-| 128GB         | Lexar      | 1800x                                  | 1.2MP         | TIFF              | ****              | 2.34MB     |               |                     |
+| 64GB          | SanDisk    | Extreme 90MB/s SDSQXVF-064G-GN6MA      | 1.2MP         | .mapir (RAW)      | ****              | 1.75MB     | ~34,057 photos|                     |
+| 64GB          | SanDisk    | Extreme 90MB/s SDSQXVF-064G-GN6MA      | 1.2MP         | TIFF              | ****              | 2.34MB     | ~25,470 photos|                     |
+| 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXSG-064G-GN6MA| 1.2MP         | .mapir (RAW)      | ****              | 1.75MB     | ~34,057 photos|                     |
+| 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXSG-064G-GN6MA| 1.2MP         | TIFF              | ****              | 2.34MB     | ~25,470 photos|                     |
+| 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXWG-064G-ANCMA| 1.2MP         | .mapir (RAW)      | **h**              | 1.75MB    | ~34,057 photos|                     |
+| 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXWG-064G-ANCMA| 1.2MP         | TIFF              | ****              | 2.34MB     | ~25,470 photos|                     |
+| 128GB         | Lexar      | 1800x                                  | 1.2MP         | .mapir (RAW)      | ****              | 1.75MB     | ~34,057 photos|                     |
+| 128GB         | Lexar      | 1800x                                  | 1.2MP         | TIFF              | ****              | 2.34MB     | ~25,470 photos|                     |
 
 
 
