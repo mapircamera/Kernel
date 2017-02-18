@@ -1,5 +1,7 @@
 #Recommended microSD Storage for Kernel Cameras
 
+##*Results below are not final. Current issues using continuous mode with unknown pause happening, lowering fps*
+
 Kernel cameras were designed to allow for max continuous RAW image capture. To allow for these capture speeds it is important to use a memory card capable of keeping up with the required write speeds. While any microSD card up to 128GB can be used, we recommended the ones tested below for optimal results:
 
 | Card Capacity | Card Brand | Card Model Number                      | Kernel Sensor | Kernel Image Mode | Photos Per Second | Image Size | Card Capacity | Card Capture Length |
