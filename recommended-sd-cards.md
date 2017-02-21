@@ -1,6 +1,6 @@
 #Recommended microSD Storage for Kernel Cameras
 
-##*Results below are not final. Current issues using continuous mode with unknown pause happening, lowering fps*
+##*Results below are not final.*
 
 Kernel cameras were designed to allow for max continuous RAW image capture. To allow for these capture speeds it is important to use a memory card capable of keeping up with the required write speeds. While any microSD card up to 128GB can be used, we recommended the ones tested below for optimal results:
 
@@ -16,7 +16,7 @@ Kernel cameras were designed to allow for max continuous RAW image capture. To a
 | 64GB          | SanDisk    | Extreme 90MB/s SDSQXVF-064G-GN6MA      | 1.2MP         | TIFF              | ****              | 2.34MB     | ~25,470 photos|                     |
 | 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXSG-064G-GN6MA| 1.2MP         | .mapir (RAW)      | ****              | 1.75MB     | ~34,057 photos|                     |
 | 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXSG-064G-GN6MA| 1.2MP         | TIFF              | ****              | 2.34MB     | ~25,470 photos|                     |
-| 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXWG-064G-ANCMA| 1.2MP         | .mapir (RAW)      | **6.28fps**       | 1.75MB     | ~34,057 photos|                     |
+| 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXWG-064G-ANCMA| 1.2MP         | .mapir (RAW)      | **7.63fps**       | 1.75MB     | ~34,057 photos|                     |
 | 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXWG-064G-ANCMA| 1.2MP         | TIFF              | ****              | 2.34MB     | ~25,470 photos|                     |
 | 128GB         | Lexar      | 1800x                                  | 1.2MP         | .mapir (RAW)      | ****              | 1.75MB     | ~34,057 photos|                     |
 | 128GB         | Lexar      | 1800x                                  | 1.2MP         | TIFF              | ****              | 2.34MB     | ~25,470 photos|                     |
