@@ -14,7 +14,7 @@ Kernel cameras were designed to allow for max continuous RAW image capture. To a
 | 128GB         | SanDisk    | Extreme 90MB/s SDSQXVF-128G-GN6MA      | 1.2MP         | TIFF              | **3.69fps**       | 2.34MB     | ~50,854 photos| 3 hours 49 minutes  |
 | 64GB          | SanDisk    | Extreme 90MB/s SDSQXVF-064G-GN6MA      | 1.2MP         | .mapir (RAW)      | ****              | 1.75MB     | ~34,057 photos|                     |
 | 64GB          | SanDisk    | Extreme 90MB/s SDSQXVF-064G-GN6MA      | 1.2MP         | TIFF              | ****              | 2.34MB     | ~25,470 photos|                     |
-| 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXSG-064G-GN6MA| 1.2MP         | .mapir (RAW)      | ****              | 1.75MB     | ~34,057 photos|                     |
+| 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXSG-064G-GN6MA| 1.2MP         | .mapir (RAW)      | **7.09fps**       | 1.75MB     | ~34,057 photos|                     |
 | 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXSG-064G-GN6MA| 1.2MP         | TIFF              | ****              | 2.34MB     | ~25,470 photos|                     |
 | 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXWG-064G-ANCMA| 1.2MP         | .mapir (RAW)      | **7.63fps**       | 1.75MB     | ~34,057 photos|                     |
 | 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXWG-064G-ANCMA| 1.2MP         | TIFF              | **5.92fps**       | 2.34MB     | ~25,470 photos|                     |
