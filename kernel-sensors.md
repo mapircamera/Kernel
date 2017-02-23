@@ -4,7 +4,7 @@
 
 ##1.2 MP Sensor Board
 
-Manufacturer: ON Semiconductor 
+Manufacturer: ON Semiconductor  
 Part Number: AR0134CS 
 Sensor Dimension: 1/3” (6 mm) 
 Active Pixels: 1280 x 960 (1.2 MP) 
