@@ -6,7 +6,7 @@
 
 Manufacturer: ON Semiconductor  
 Part Number: AR0134CS  
-Sensor Dimension: 1/3” (6 mm)  
+Sensor Dimension: 4.80 x 3.60mm (Diagonal 6mm (1/3”))  
 Active Pixels: 1280 x 960 (1.2 MP)  
 Pixel Size: 3.75 um x 3.75 um  
 Version Option: RGB (bayer), Mono  
