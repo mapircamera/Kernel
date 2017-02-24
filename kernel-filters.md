@@ -18,6 +18,7 @@
 | F450              | MONO                    | 450nm          | 445-465nm          | [VIEW](#f450)           | Blue vegetative indices |
 | F520              | MONO                    | 520nm          | 515-525nm          | [VIEW](#f520)           | Green vegetative indices |
 | F550              | MONO                    | 550nm          | 535-558nm          | [VIEW](#f550)           | Green vegetative indices |
+| F590              | MONO                    | 590nm          | 564-615nm          | [VIEW](#f590)           | Green vegetative indices |
 | F632              | MONO                    | 632nm          | 625-640nm          | [VIEW](#f632)           | Red vegetative indices |
 | F650              | MONO                    | 650nm          | 643-665nm          | [VIEW](#f650)           | Red vegetative indices |
 | F725              | MONO                    | 725nm          | 717-732nm          | [VIEW](#f725)           | Red-edge: Deeper canopy penetration, earlier detection of reduction in photosynthesis |
