@@ -9,14 +9,14 @@
 Manufacturer: ON Semiconductor  
 Part Number: AR0134CS  
 Sensor Dimension: 4.80 x 3.60mm (Diagonal 6mm (1/3”))  
-Active Pixels: 1280 x 960 (1.2 MP)  
+Active Pixels: 1280 x 960 (1.20 MP)  
 Pixel Size: 3.75 um x 3.75 um  
 Version Option: RGB (bayer), Mono  
 Photo Mode: RAW (.mapir), TIFF  
 Max Measured FPS: ?  
 Datasheet: [PDF](http://www.onsemi.com/pub_link/Collateral/AR0134CS-D.PDF)  
 
-##3.0 MP Sensor Board
+##3.2 MP Sensor Board
 
 Manufacturer: Sony  
 Part Number: IMX265LQR-C (RGB), IMX265LLR-C (Mono)  
@@ -27,7 +27,7 @@ Version Option: RGB (bayer), Mono
 Photo Mode: RAW (.mapir), TIFF  
 Max Measured FPS: ?  
 
-##14.0 MP Sensor Board
+##14.4 MP Sensor Board
 
 Manufacturer: On Semiconductor  
 Part Number: MT9F002  
