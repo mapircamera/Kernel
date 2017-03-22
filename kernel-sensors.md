@@ -13,7 +13,7 @@ Active Pixels: 1280 x 960 (1.20 MP)
 Pixel Size: 3.75 um x 3.75 um  
 Version Option: Mono, RGB (bayer)  
 Photo Mode: 12bit RAW (.mapir), 16bit TIFF  
-Max Measured FPS: ?  
+Max Measured FPS: 15fps  
 Datasheet: [PDF](http://www.onsemi.com/pub_link/Collateral/AR0134CS-D.PDF)  
 
 ##3.2 MP Sensor Board
