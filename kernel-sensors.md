@@ -11,7 +11,7 @@ Part Number: AR0134CS
 Sensor Dimension: 4.80 x 3.60mm (Diagonal 6mm (1/3”))  
 Active Pixels: 1280 x 960 (1.20 MP)  
 Pixel Size: 3.75 um x 3.75 um  
-Version Option: Mono, RGB (bayer)
+Version Option: Mono, RGB (bayer)  
 Photo Mode: 12bit RAW (.mapir), 16bit TIFF  
 Max Measured FPS: ?  
 Datasheet: [PDF](http://www.onsemi.com/pub_link/Collateral/AR0134CS-D.PDF)  
@@ -23,8 +23,8 @@ Part Number: IMX265LQR-C (RGB), IMX265LLR-C (Mono)
 Sensor Dimension: 1/1.8” (8.9 mm)  
 Active Pixels: 2064 x 1544 (3.19 MP)  
 Pixel Size: 3.45 um x 3.45 um  
-Version Option: Mono, RGB (bayer)
-Photo Mode: 12bit RAW (.mapir), 16bit TIFF
+Version Option: Mono, RGB (bayer)  
+Photo Mode: 12bit RAW (.mapir), 16bit TIFF  
 Max Measured FPS: ?  
 
 ##14.4 MP Sensor Board
