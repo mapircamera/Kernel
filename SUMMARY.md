@@ -18,6 +18,7 @@
 * [Kernel Filters](kernel-filters.md)
   * [Multi-Spectral Camera Indices](kernel-filters/filter-index-list.md)
 * [Kernel Sensors](kernel-sensors.md)
+  * [Sensor Rotation](kernel-sensors/sensor-rotation.md)
 * [Kernel Lenses](kernel-lenses.md)
 * [Downloads](downloads.md)
   * [3D Kernel Models](downloads/3d-kernel-models.md)
