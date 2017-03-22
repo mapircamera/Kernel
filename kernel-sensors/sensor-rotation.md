@@ -1,6 +1,6 @@
 # Sensor Rotation
 
-We offer two FPC ribbons to connect the Kernel sensor board to the main camera stack: "straight" and 90 degrees "rotated". This allows the sensor board to be rotated 90 degrees if desired.
+We offer two different FPC ribbons to connect the Kernel sensor board to the main camera stack: "straight" and 90 degrees "rotated". This allows the sensor board to be rotated 90 degrees if desired.
 
 [INSERT PHOTOS OF FPC RIBBONS]
 
