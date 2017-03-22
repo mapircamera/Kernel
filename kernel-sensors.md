@@ -1,5 +1,7 @@
 #Kernel Sensors
 
+![](/assets/kernel_sensor_boards.jpg)
+
 ###The sensor boards on Kernel can be easily swapped. Simply flip up the sensor ribbon connector on the sensor board and exchange it with a different board. Then connect the camera to your computer to configure the software.
 
 ##1.2 MP Sensor Board
