@@ -1,2 +1,2 @@
-QGIS Plugin
+Desktop Python Program
 
