@@ -20,8 +20,8 @@ Datasheet: [PDF](http://www.onsemi.com/pub_link/Collateral/AR0134CS-D.PDF)
 
 Manufacturer: Sony  
 Part Number: IMX265LQR-C (RGB), IMX265LLR-C (Mono)  
-Sensor Dimension: 1/1.8” (8.9 mm)  
-Active Pixels: 2064 x 1544 (3.19 MP)  
+Sensor Dimension: 7.06 x 5.30mm (Diagonal 8.9mm (1/1.8”))  
+Active Pixels: 2048 x 1536 (3.15 MP)  
 Pixel Size: 3.45 um x 3.45 um  
 Version Option: Mono, RGB (bayer)  
 Photo Mode: 12bit RAW (.mapir), 16bit TIFF  
@@ -31,7 +31,7 @@ Max Measured FPS: ?
 
 Manufacturer: On Semiconductor  
 Part Number: MT9F002  
-Sensor Dimension: 1/2.3” (7.93 mm)  
+Sensor Dimension: 6.14 x 4.60mm (Diagonal 7.67mm (1/2.3”))  
 Active Pixels: 4384 x 3288 (14.4 MP)  
 Pixel Size: 1.4 um x 1.4 um  
 Version Option: RGB (bayer)  
