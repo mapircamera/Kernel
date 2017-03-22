@@ -35,5 +35,5 @@ Sensor Dimension: 1/2.3” (7.93 mm)
 Active Pixels: 4384 x 3288 (14.4 MP)  
 Pixel Size: 1.4 um x 1.4 um  
 Version Option: RGB (bayer)  
-Photo Mode: 12bit RAW (.mapir), 16bit TIFF
+Photo Mode: 12bit RAW (.mapir), 16bit TIFF  
 Max Measured FPS: ?  
