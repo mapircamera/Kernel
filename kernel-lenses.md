@@ -1,6 +1,6 @@
 #Kernel Lenses
 
-###Each lens has been matched to a particular Kernel sensor board to provide optimal optical results. You may install other lenses following these guidelines but there is no post processing assistance available at this time for them (vignette correction, etc).
+###Each m12 lens has been matched to a particular Kernel sensor board to provide optimal optical results. You may install other lenses (such as the CS/C mount Kernel) following these guidelines but there is no post processing assistance available at this time for them (vignette correction, etc).
 
 ##6.0mm f/2.0 (1.2MP Sensor)
 
