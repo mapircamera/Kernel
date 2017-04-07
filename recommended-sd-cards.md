@@ -19,7 +19,7 @@ Kernel cameras were designed to allow for max continuous RAW image capture. To a
 | 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXWG-064G-ANCMA| 1.2MP         | .mapir (RAW)      | **7.63fps**       | 1.75MB     | ~34,057 photos|                     |
 | 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXWG-064G-ANCMA| 1.2MP         | TIFF              | **5.92fps**       | 2.34MB     | ~25,470 photos|                     |
 | 128GB         | Lexar      | 1800x                                  | 1.2MP         | .mapir (RAW)      | **7.46fps**              | 1.75MB     | ~34,057 photos|                     |
-| 128GB         | Lexar      | 1800x                                  | 1.2MP         | TIFF              | **?fps**              | 2.34MB     | ~25,470 photos|                     |
+| 128GB         | Lexar      | 1800x                                  | 1.2MP         | TIFF              | **4.98fps**              | 2.34MB     | ~25,470 photos|                     |
 
 
 
