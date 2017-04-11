@@ -14,7 +14,7 @@ Kernel cameras were designed to allow for max continuous RAW image capture. To a
 | 64GB          | SanDisk    | Extreme 90MB/s SDSQXVF-064G-GN6MA      | 1.2MP         | TIFF              | **?fps**              | 2.34MB     | ~25,470 photos|                     |
 | 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXSG-064G-GN6MA| 1.2MP         | .mapir (RAW)      | **9.26fps**       | 1.75MB     | ~34,057 photos|                     |
 | 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXSG-064G-GN6MA| 1.2MP         | TIFF              | **?fps**              | 2.34MB     | ~25,470 photos|                     |
-| 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXWG-064G-ANCMA| 1.2MP         | .mapir (RAW)      | **9.17fps**       | 1.75MB     | ~34,057 photos|                     |
+| 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXWG-064G-ANCMA| 1.2MP         | .mapir (RAW)      | **9.43fps**       | 1.75MB     | ~34,057 photos|                     |
 | 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXWG-064G-ANCMA| 1.2MP         | TIFF              | **?fps**       | 2.34MB     | ~25,470 photos|                     |
 | 128GB         | Lexar      | 1800x                                  | 1.2MP         | .mapir (RAW)      | **8.26fps**              | 1.75MB     | ~34,057 photos|                     |
 | 128GB         | Lexar      | 1800x                                  | 1.2MP         | TIFF              | **?fps**              | 2.34MB     | ~25,470 photos|                     |
@@ -23,4 +23,4 @@ Kernel cameras were designed to allow for max continuous RAW image capture. To a
 
 ###How We Test Capture Speeds
 
-We put the camera in the configuration and image mode listed above with a formatted SD card. We then capture 1000 photos and divide by the time it takes to capture them to determine the photos per second (fps).
+We put the camera in the image mode listed above with a formatted SD card. We then capture 1000 photos and divide by the time it takes to capture them to determine the photos per second (fps).
