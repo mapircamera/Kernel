@@ -22,8 +22,10 @@ Kernel cameras were designed to allow for max continuous RAW image capture. To a
 | 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXWG-064G-ANCMA| 1.2MP         | TIFF              | **?fps**       | 2.34MB     | ~25,470 photos| 
 | 64GB          | Samsung| Pro+ MB-MD64DA/AM | 1.2MP         | .mapir (RAW) | **8.38fps**       | 2.34MB     | ~25,470 photos|                     |
 | 64GB          | Samsung| Pro+ MB-MD64DA/AM | 1.2MP         | TIFF | **?fps**       | 2.34MB     | ~25,470 photos|                     |
-
-
+| 64GB          | PNY | U3 PRO Elite P-SDUX64U395PROE-GE | 1.2MP         | .mapir (RAW) | **8.62fps**       | 2.34MB     | ~25,470 photos|                     |
+| 64GB          | PNY | U3 PRO Elite P-SDUX64U395PROE-GE | 1.2MP         | TIFF | **?fps**       | 2.34MB     | ~25,470 photos|                     |
+| 64GB          | Transcend | Ultimate 633x TS64GUSDU3 | 1.2MP         | .mapir (RAW) | **8.30fps**       | 2.34MB     | ~25,470 photos|                     |
+| 64GB          | Transcend | Ultimate 633x TS64GUSDU3 | 1.2MP         | TIFF | **?fps**       | 2.34MB     | ~25,470 photos|                     |
 
 
 
