@@ -1,4 +1,4 @@
-# UAVCAN Side PORT
+# UAVCAN/POWER Side PORT
 
 ###The UAVCAN port is used to add telemetry data to the images as they are captured. The port is a [JST SM04B-GHS-TB](http://tinyurl.com/jjkkat2) and mates with a plug [JST GHR-04V-S](http://www.digikey.com/product-detail/en/jst-sales-america-inc/GHR-04V-S/455-1594-ND/807816)
 
