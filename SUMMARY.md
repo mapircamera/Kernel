@@ -14,6 +14,7 @@
     * [Mavlink](interfacing-with-kernel/software-interface/mavlink.md)
     * [Create Your Own](interfacing-with-kernel/software-interface/create-your-own.md)
     * [Licenses](interfacing-with-kernel/software-interface/licenses.md)
+* [Kernel Link Boards](kernel-link-boards.md)
 * [Recommended SD Cards](recommended-sd-cards.md)
 * [Kernel Filters](kernel-filters.md)
   * [Multi-Spectral Camera Indices](kernel-filters/filter-index-list.md)
