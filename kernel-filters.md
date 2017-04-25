@@ -11,7 +11,7 @@
 
 ![](/assets/all_single_bands.png)
 
-| Filter Model Name | Recommended Sensor Type | Peak Wavelength| Transmission Range | Transmission Chart | Typical Uses |
+| Filter Model Name | Recommended Sensor Type | Peak Wavelength| Transmission Range (50%) | Transmission Chart | Typical Uses |
 |-------------------|-------------------------|----------------|--------------------|--------------------|--------------|
 | F644              | RGB                     | X              | 395-638nm          | [VIEW](#f644)      | Visible light RGB only (Cut-off 648nm) |
 | F405              | MONO                    | 405nm          | 400-415nm          | [VIEW](#f405)           | Ultraviolet (UV) light detection |
@@ -26,8 +26,8 @@
 | F650              | MONO                    | 650nm          | 643-665nm          | [VIEW](#f650)           | Red light indices |
 | F725              | MONO                    | 725nm          | 717-732nm          | [VIEW](#f725)           | Red-edge: Deeper canopy penetration, earlier detection of reduction in photosynthesis |
 | F780              | MONO                    | 780nm          | 750-810nm          | [VIEW](#f780)           | NIR light indices |
-| F808              | MONO                    | 808nm          | 798-820nm          | [VIEW](#f808)           | NIR light indices |
-| F850              | MONO                    | 850nm          | 845-860nm          | [VIEW](#f850)           | NIR light indices |
+| F808              | MONO                    | 808nm          | 800-818nm          | [VIEW](#f808)           | NIR light indices |
+| F850              | MONO                    | 850nm          | 835-865nm          | [VIEW](#f850)           | NIR light indices |
 | F880              | MONO                    | 880nm          | 852-906nm          | [VIEW](#f880)           | NIR light indices |
 | F395-870          | RGB                     | 395nm & 870nm  | 375-425nm & 745-970nm          | [VIEW](#f395-870)           | Atmospheric indices|
 | F475-850          | RGB                     | 475nm & 850nm  | 460-490nm & 830-870nm          | [VIEW](#f475-850)           | BNDVI |
