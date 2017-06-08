@@ -40,15 +40,15 @@ Dimensions: 8.75mm Length, 12mm Diameter
 Lens Focal Length: 8.25mm  
 35mm Equivalent Focal Length: 46.53mm  
 Native Sensor Size Supported: 1/2.3"  
-Aperture: f/2.6  
-Field of View: 50 x 40 x 30 degrees (Diagonal, Horizontal, Vertical)  
+Aperture: f/2.8  
+Field of View: 50.7 x 41.3 x 31.8 degrees (Diagonal, Horizontal, Vertical)  
 Megapixel Rating: 20.0MP  
 Optical Distortion: <-1.0%  
 Back Focal Length (B.F.L): 5.86mm  
 Flange Back Length (F.B.L.): 4.79mm  
-Total Track Length (T.T.L.): 30.0mm  
+Total Track Length (T.T.L.): 30.09mm  
 Hyperfocal (Infinity) Focus Distance: 206.45 inches (17.20 feet), 524.38 cm (5.24 m)  
 Lens Construction: 10 Glass Elements  
 Weight: 15g  
-Dimensions: 25.21mm Length, 12mm Diameter  
+Dimensions: 25.53mm Length, 15mm Max Diameter  
 
