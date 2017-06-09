@@ -46,7 +46,7 @@ RED = [F650](https://www.mapir.camera/collections/kernel-camera-filters/products
 
 ###Leaf Area Index (LAI)
 This index is used to estimate foliage cover and to forecast crop growth and yield. Where EVI is the Enhanced Vegetation Index value.  
-![](/assets/SpectralIndexFormulaLAI.gif)
+![](/assets/SpectralIndexFormulaLAI.gif)  
 ![](/assets/SpectralIndexFormulaEVI.gif)  
 
 Suggested Kernel Filters:  
