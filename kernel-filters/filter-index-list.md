@@ -50,7 +50,7 @@ RED = [F650](https://www.mapir.camera/collections/kernel-camera-filters/products
 BLUE = [F450](https://www.mapir.camera/collections/kernel-camera-filters/products/f450)
 
 ###Green Normalized Difference Vegetation Index (GNDVI)
-This index is similar to NDVI except that it measures the green spectrum from 540 to 570 nm instead of the red spectrum. This index is more sensitive to chlorophyll concentration than NDVI.
+This index is similar to NDVI except that it measures the green spectrum from 540 to 570 nm instead of the red spectrum. It is sometimes called the "greeness" index. This index is more sensitive to chlorophyll concentration than NDVI.
 ![](/assets/SpectralIndexFormulaGNDVI.gif)
 Suggested Kernel Filters:
 NIR = [F850](https://www.mapir.camera/collections/kernel-camera-filters/products/f850)
