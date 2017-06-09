@@ -7,6 +7,9 @@ Below are various indices commonly used for processing lower altitude (UAS/drone
 ###Normalized Difference Vegetation Index (NDVI)
 This index is a measure of healthy, green vegetation. The combination of its normalized difference formulation and use of the highest absorption and reflectance regions of chlorophyll make it robust over a wide range of conditions. It can, however, saturate in dense vegetation conditions when leaf area index (LAI) becomes high.
 ![](/assets/SpectralIndexFormulaNDVI.gif)
+Suggested Kernel Filters:
+NIR = [F850](https://www.mapir.camera/collections/kernel-camera-filters/products/f850)
+RED = [F650](https://www.mapir.camera/collections/kernel-camera-filters/products/f650)
 
 ###Enhanced Vegetation Index (EVI)
 This index was developed as a standard MODIS product to improve the NDVI by optimizing the vegetation signal in LAI regions. It uses the blue reflectance region to correct for soil background signals and to reduce atmospheric influences, including aerosol scattering. It is most useful in LAI regions where the NDVI may saturate.
@@ -35,14 +38,27 @@ This index is similar to NDVI except that it measures the green spectrum from 54
 ***************************************************************
 ##Mineral Indices
 
+###Iron Oxide Ratio
+This band ratio highlights hydrothermally altered rocks that have been subjected to oxidation of iron-bearing sulphides.
+![](/assets/SpectralIndexFormulaIronOxide.gif)
+Where:
+Red: 0.63-0.69 µm
+Blue: 0.45-0.52 µm
+
 ###WorldView New Iron Index (WV-II)
 This index uses WorldView-2 bands to identify pixels rich in iron oxide.
 ![](/assets/SpectralIndexFormulaWV-II.gif)
 
-
 ###WorldView Soil Index (WV-SI)
 This index uses WorldView-2 bands to identify pixels that primarily consist of soil.
 ![](/assets/SpectralIndexFormulaWV-SI.gif)
+
+***************************************************************
+##Fire/Burn Region Indices
+
+###Burn Area Index (BAI)
+This index highlights burned land in the red to near-infrared spectrum, by emphasizing the charcoal signal in post-fire images. The index is computed from the spectral distance from each pixel to a reference spectral point, where recently burned areas converge. Brighter pixels indicate burned areas.
+![](/assets/SpectralIndexFormulaBAI.gif)
 
 
 
