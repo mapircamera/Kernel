@@ -86,7 +86,9 @@ YELLOW = [F615](https://www.mapir.camera/collections/kernel-camera-filters/produ
 ###Burn Area Index (BAI)
 This index highlights burned land in the red to near-infrared spectrum, by emphasizing the charcoal signal in post-fire images. The index is computed from the spectral distance from each pixel to a reference spectral point, where recently burned areas converge. Brighter pixels indicate burned areas.
 ![](/assets/SpectralIndexFormulaBAI.gif)
-
+Suggested Kernel Filters:
+NIR = [F850](https://www.mapir.camera/collections/kernel-camera-filters/products/f850)
+RED = [F550](https://www.mapir.camera/collections/kernel-camera-filters/products/f550)
 
 
 ***************************************************************
