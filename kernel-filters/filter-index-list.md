@@ -1,6 +1,8 @@
 #Multi-Spectral Camera Indices
 
-Below are indices commonly used for processing lower altitude (UAS/drone) multi-spectral imagery that often does not need to correct for higher altitude (satellite) atmospheric influences such as aerosol.
+Below are various indices commonly used for processing lower altitude (UAS/drone) multi-spectral imagery that often does not need to correct for higher altitude (satellite) atmospheric influences such as aerosol.
+***************************************************************
+##Vegetation Indices
 
 ###Normalized Difference Vegetation Index (NDVI)
 This index is a measure of healthy, green vegetation. The combination of its normalized difference formulation and use of the highest absorption and reflectance regions of chlorophyll make it robust over a wide range of conditions. It can, however, saturate in dense vegetation conditions when leaf area index (LAI) becomes high.
@@ -30,11 +32,21 @@ This index is used to estimate foliage cover and to forecast crop growth and yie
 This index is similar to NDVI except that it measures the green spectrum from 540 to 570 nm instead of the red spectrum. This index is more sensitive to chlorophyll concentration than NDVI.
 ![](/assets/SpectralIndexFormulaGNDVI.gif)
 
+***************************************************************
+##Mineral Indices
+
+###WorldView New Iron Index (WV-II)
+This index uses WorldView-2 bands to identify pixels rich in iron oxide.
+![](/assets/SpectralIndexFormulaWV-II.gif)
+
+
+###WorldView Soil Index (WV-SI)
+This index uses WorldView-2 bands to identify pixels that primarily consist of soil.
+![](/assets/SpectralIndexFormulaWV-SI.gif)
 
 
 
-
-
+***************************************************************
 #####References:
 _Please browse the sites below which refer to their own further references:_
 
