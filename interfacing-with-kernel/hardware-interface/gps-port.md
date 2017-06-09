@@ -1,8 +1,6 @@
 #PWM/UART/DAC Side Port
 
-###The 6-pin PWM/UART/DAC port allows you to interface with a UAS GPS (and other UART) components, provides SD video out, and the necessary power and ground pins to power a 5VDC device.  The port is a [JST SM06B-GHS-TB](http://tinyurl.com/hrlfyu8) and mates with a plug [JST GHR-06V-S](http://www.digikey.com/product-detail/en/jst-sales-america-inc/GHR-06V-S/455-1596-ND/807818).
-
-###The 6-pin port can support existing and future drone GPS units for geo-referencing captured media if you do not want to connect to the vehicle's main controller. Examples of some supported GPS units can be found on the [Pixhawk GPS page](https://pixhawk.org/peripherals/sensors/gps). In theory, any GPS that can plug into a Pixhawk 2/1 (or similar flight controller) should be supported, but please match the pins up to confirm.
+The 6-pin PWM/UART/DAC port allows you to interface with UART components, provides SD video out, and the necessary power and ground pins to power a 5VDC device.  The port is a [JST SM06B-GHS-TB](http://tinyurl.com/hrlfyu8) and mates with a plug [JST GHR-06V-S](http://www.digikey.com/product-detail/en/jst-sales-america-inc/GHR-06V-S/455-1596-ND/807818).
 
 ![](/assets/uart_dac_pwm.jpg)
 
