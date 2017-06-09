@@ -2,7 +2,7 @@
 
 Below are various indices commonly used for processing lower altitude (UAS/drone) multi-spectral imagery that often does not need to correct for higher altitude (satellite) atmospheric influences such as aerosol.
 ***************************************************************
-##Vegetation Indices
+##Broadband Vegetation Indices
 
 ###Normalized Difference Vegetation Index (NDVI)
 This index is a measure of healthy, green vegetation. The combination of its normalized difference formulation and use of the highest absorption and reflectance regions of chlorophyll make it robust over a wide range of conditions. It can, however, saturate in dense vegetation conditions when leaf area index (LAI) becomes high.
