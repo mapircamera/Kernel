@@ -8,8 +8,8 @@ Below are various indices commonly used for processing lower altitude (UAS/drone
 This index is a measure of healthy, green vegetation. The combination of its normalized difference formulation and use of the highest absorption and reflectance regions of chlorophyll make it robust over a wide range of conditions. It can, however, saturate in dense vegetation conditions when leaf area index (LAI) becomes high.  
 ![](/assets/SpectralIndexFormulaNDVI.gif)  
 
-Suggested Kernel Filters:
-NIR = [F850](https://www.mapir.camera/collections/kernel-camera-filters/products/f850)
+Suggested Kernel Filters:  
+NIR = [F850](https://www.mapir.camera/collections/kernel-camera-filters/products/f850)  
 RED = [F650](https://www.mapir.camera/collections/kernel-camera-filters/products/f650)
 
 ###Enhanced Vegetation Index (EVI)
