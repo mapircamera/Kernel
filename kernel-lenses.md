@@ -16,7 +16,6 @@ Flange Back Length (F.B.L.): 6.19mm
 Total Track Length (T.T.L.): 23.22mm  
 Hyperfocal (Infinity) Focus Distance: 177.40 inches (14.78 feet), 450.60 cm (4.51 m)  
 Lens Construction: 7 Glass Elements  
-Camera Weight: 66.30g  
 Dimensions: 17mm Length, 15mm Diameter  
 
 ##9.6mm f/3.0 (3.0MP Sensor)
@@ -32,7 +31,7 @@ Flange Back Length (F.B.L.): 7.40mm
 Total Track Length (T.T.L.): 16.15mm  
 Hyperfocal (Infinity) Focus Distance: 201.95 inches (16.83 feet), 512.96 cm (5.13 m)  
 Lens Construction: All Glass Elements  
-Weight: ?  
+Weight: 2.13g  
 Dimensions: 8.75mm Length, 12mm Diameter  
 
 ##8.25mm f/2.6 (14.0MP Sensor)
