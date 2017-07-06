@@ -1,1 +1,1 @@
-##Capturing Images
+![](/assets/SingleCaptureSnip.PNG)##Capturing Images
