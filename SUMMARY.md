@@ -10,11 +10,11 @@
     * [Power Requirements](interfacing-with-kernel/hardware-interface/powering-kernel.md)
   * [Software Interface](interfacing-with-kernel/software-interface.md)
     * [Kernel Control Application](interfacing-with-kernel/software-interface/qgis-plugin.md)
-      * Connecting to Kernel
-      * Capturing Images
-      * Capturing Video
-      * Changing Camera Settings
-      * Transferring Media
+      * [Connecting to Kernel](interfacing-with-kernel/software-interface/qgis-plugin/connecting-to-kernel.md)
+      * [Capturing Images](interfacing-with-kernel/software-interface/qgis-plugin/capturing-images.md)
+      * [Capturing Video](interfacing-with-kernel/software-interface/qgis-plugin/capturing-video.md)
+      * [Changing Camera Settings](interfacing-with-kernel/software-interface/qgis-plugin/changing-camera-settings.md)
+      * [Transferring Media](interfacing-with-kernel/software-interface/qgis-plugin/transferring-media.md)
     * [UAVCAN](interfacing-with-kernel/software-interface/uavcan.md)
     * [Licenses](interfacing-with-kernel/software-interface/licenses.md)
 * [Kernel Link Boards](kernel-link-boards.md)
