@@ -19,6 +19,17 @@
       * [Capturing Video](interfacing-with-kernel/software-interface/qgis-plugin/capturing-video.md)
         * Video Modes
       * [Changing Camera Settings](interfacing-with-kernel/software-interface/qgis-plugin/changing-camera-settings.md)
+        * Exposure Mode
+        * Shutter Speed and ISO
+        * Video Output
+        * Setting Real Time Clock
+        * Changing CAN setings
+        * Enabling capture beep indicator
+        * External Trigger Settings
+        * Adjusting Media Folder Size
+        * Photo Formats \(Expanded\)
+        * 3-Letter Identifier \(Camera Name\)
+        * Restoring Factory Settings
       * [Transferring Media](interfacing-with-kernel/software-interface/qgis-plugin/transferring-media.md)
     * [UAVCAN](interfacing-with-kernel/software-interface/uavcan.md)
     * [Licenses](interfacing-with-kernel/software-interface/licenses.md)
