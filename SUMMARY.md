@@ -14,7 +14,7 @@
       * [Capturing Images](interfacing-with-kernel/software-interface/qgis-plugin/capturing-images.md)
         * [Capture Modes](interfacing-with-kernel/software-interface/qgis-plugin/capturing-images/capture-modes.md)
         * [Photo Formats](interfacing-with-kernel/software-interface/qgis-plugin/capturing-images/photo-formats.md)
-        * Looping Intervals
+        * [Loop Intervals](interfacing-with-kernel/software-interface/qgis-plugin/capturing-images/loop-intervals.md)
         * [Capturing Images With An Array](interfacing-with-kernel/software-interface/qgis-plugin/capturing-images/capturing-images-with-an-array.md)
       * [Capturing Video](interfacing-with-kernel/software-interface/qgis-plugin/capturing-video.md)
         * Video Modes
