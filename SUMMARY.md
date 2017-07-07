@@ -31,6 +31,7 @@
         * 3-Letter Identifier \(Camera Name\)
         * Restoring Factory Settings
       * [Transferring Media](interfacing-with-kernel/software-interface/qgis-plugin/transferring-media.md)
+        * Mounting And Un-Mounting Cameras
     * [UAVCAN](interfacing-with-kernel/software-interface/uavcan.md)
     * [Licenses](interfacing-with-kernel/software-interface/licenses.md)
 * [Kernel Link Boards](kernel-link-boards.md)
