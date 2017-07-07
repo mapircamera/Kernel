@@ -14,8 +14,10 @@
       * [Capturing Images](interfacing-with-kernel/software-interface/qgis-plugin/capturing-images.md)
         * [Capture Modes](interfacing-with-kernel/software-interface/qgis-plugin/capturing-images/capture-modes.md)
         * [Photo Formats](interfacing-with-kernel/software-interface/qgis-plugin/capturing-images/photo-formats.md)
+        * Looping Intervals
         * [Capturing Images With An Array](interfacing-with-kernel/software-interface/qgis-plugin/capturing-images/capturing-images-with-an-array.md)
       * [Capturing Video](interfacing-with-kernel/software-interface/qgis-plugin/capturing-video.md)
+        * Video Modes
       * [Changing Camera Settings](interfacing-with-kernel/software-interface/qgis-plugin/changing-camera-settings.md)
       * [Transferring Media](interfacing-with-kernel/software-interface/qgis-plugin/transferring-media.md)
     * [UAVCAN](interfacing-with-kernel/software-interface/uavcan.md)
