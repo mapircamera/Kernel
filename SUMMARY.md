@@ -41,8 +41,9 @@
 * [Kernel Sensors](kernel-sensors.md)
   * [Sensor Rotation](kernel-sensors/sensor-rotation.md)
 * [Kernel Lenses](kernel-lenses.md)
+* [Kernel GPS \(Zubax GNSS 2\)](kernel-gps-zubax-gnss-2.md)
 * [Downloads](downloads.md)
   * [3D Kernel Models](downloads/3d-kernel-models.md)
   * 2D Kernel Drawings
-* [Licenses](licenses.md)
+* Kernel GPS \(Zubax GNSS 2\)
 
