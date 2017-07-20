@@ -22,7 +22,7 @@ When you purchase the Zubax GNSS 2 from our MAPIR store, we have already changed
 ###Step 3: Start PuTTY. Under "Connection Type" select the Serial button on the right. Enter the COM port identified in the previous step. Change speed to 115200 if it isn't already. It should look like this:
 ![](/assets/put.PNG)
 
-###Step 4: Click the Open button, and a command window will pop up. (A list of the available parameters can be found in page 13 of the Zubax GNSS 2 datasheet.)
+###Step 4: Click the Open button, and a command window will pop up. (A list of the available parameters can be found in page 13 of the [Zubax GNSS 2 datasheet](https://files.zubax.com/products/com.zubax.gnss/Zubax_GNSS_2_Datasheet.pdf).)
 
 ###Step 5: Type the following and hit enter:
 ```
