@@ -4,9 +4,9 @@
 
 While any UAVCAN supporting GPS/GNSS can be used, we offer the reliable and high quality Zubax GNSS 2 as an optional accessory on our store. With this GPS unit plugged into Kernel (individual cameras and arrays) you will get automatic geo-tagging to each captured image.
 
-Purchase Zubax GNSSS 2 on MAPIR store  
-[Zubax GNSS 2 DATASHEET](https://files.zubax.com/products/com.zubax.gnss/Zubax_GNSS_2_Datasheet.pdf)  
-[Zubax manufacturer website for GNSS 2 part](https://shop.titaneliteinc.com/index.php?route=product/product&search=zubax%20gnss&product_id=987)  
+###Purchase Zubax GNSSS 2 on MAPIR store  
+###[Zubax GNSS 2 DATASHEET](https://files.zubax.com/products/com.zubax.gnss/Zubax_GNSS_2_Datasheet.pdf)  
+###[Zubax manufacturer website for GNSS 2 part](https://shop.titaneliteinc.com/index.php?route=product/product&search=zubax%20gnss&product_id=987)  
 
 
 ##Configuring Zubax GNSS 2 For Direct Kernel Camera Geo-Tagging
