@@ -4,4 +4,10 @@
     Installation on Windows is easy, simply download the .exe file on our github and run it.
     
     
+###Mac
 
+    Instructions Pending
+    
+###Linux
+
+    
