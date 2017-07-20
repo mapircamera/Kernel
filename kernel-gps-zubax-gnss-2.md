@@ -28,7 +28,7 @@ When you purchase the Zubax GNSS 2 from our MAPIR store, we have already changed
 ```
 cfg list
 ```
-###Step 6: Find the value uavcan.node_id and check the value. If it is something other than 0, then the GNSS should work fine when connected directly to the Kernel cameras. If you are using it with an autopilot, leave it on 0 as the autopilot will dynamically assign a node ID to the GNSS.
+###Step 6: Find the value uavcan.node_id and check the value. If it is something other than 0 or 16, then the GNSS should work fine when connected directly to the Kernel cameras. If you are using it with an autopilot, leave it on 0 as the autopilot will dynamically assign a node ID to the GNSS.
 
 ###Step 7: If the value is 0, then enter the following text and hit enter:
 ```
