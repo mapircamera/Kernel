@@ -1,4 +1,5 @@
 #Kernel GPS (Zubax GNSS 2)
+
 ![](/assets/Zubax GNSS 2 - Titan Elite 3 copy-500x500.jpg)
 
 While any UAVCAN supporting GPS/GNSS can be used, we offer the reliable and high quality Zubax GNSS 2 as an optional accessory on our store. With this GPS unit plugged into Kernel (individual cameras and arrays) you will get automatic geo-tagging to each captured image.
@@ -25,13 +26,7 @@ When you purchase the Zubax GNSS 2 from our MAPIR store, we have already changed
 
 ###Step 5: Type the following and hit enter:
 
-
-
-```
 cfg list
-```
-
-
 
 ###Step 6: Download and install PuTTY
 
