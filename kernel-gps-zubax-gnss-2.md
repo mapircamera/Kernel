@@ -30,7 +30,7 @@ cfg list
 ```
 ###Step 6: Find the value uavcan.node_id and check the value. If it is something other than 0 or 16, then the GNSS should work fine when connected directly to the Kernel cameras. If you are using it with an autopilot (for example a Pixhawk 2/1), leave it on 0 as the autopilot will dynamically assign a node ID to the GNSS.
 
-###Step 7: If the value is 0, then enter the following text and hit enter:
+###Step 7: To change the value enter the following text and hit enter.This will change the value to 5:
 ```
 cfg set uavcan.node_id 5
 ```
