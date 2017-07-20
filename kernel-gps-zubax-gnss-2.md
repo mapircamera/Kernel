@@ -32,7 +32,9 @@ cfg list
 
 ###Step 7: If the value is 0, then enter the following text and hit enter:
 ```
-cfg uavcan.node_id 5
+cfg set uavcan.node_id 5
 ```
 ###Step 8: Type cfg list again to verify the node_id value has been changed.
+
+###Step 9:  Your Zubax GNSS 2 is now setup to connect directly to Kernel and provide automatic geo-tagging to the captured images.
 
