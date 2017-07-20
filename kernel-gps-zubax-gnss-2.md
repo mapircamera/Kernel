@@ -16,13 +16,22 @@ When you purchase the Zubax GNSS 2 from our MAPIR store, we have already changed
 
 ###Step 1: [Download and install PuTTY](https://kb.zubax.com/download/attachments/2195531/putty-0.70-installer.msi?version=1&modificationDate=1500123860744&api=v2)
 
-###Step 2: Download and install PuTTY
+###Step 2: Plug a micro USB cable into the Zubax GNSS 2 unit and into your computer. Verify that the RED Status LED begins to blink. Make note of which COM port the device is plugged into. To find the COM port, go to Device Manager and look in the Ports (COM & LPT) for the USB Serial Device, followed by (COM4), or whatever COM it lists.
 
-###Step 3: Download and install PuTTY
+###Step 3: Start PuTTY. Under "Connection Type" select the Serial button on the right. Enter the COM port identified in the previous step. Change speed to 115200 if it isn't already. It should look like this:
+![](/assets/put.PNG)
 
-###Step 4: Download and install PuTTY
+###Step 4: Click the Open button, and a command window will pop up. (A list of the available parameters can be found in page 13 of the Zubax GNSS 2 datasheet.)
 
-###Step 5: Download and install PuTTY
+###Step 5: Type the following and hit enter:
+
+
+
+```
+cfg list
+```
+
+
 
 ###Step 6: Download and install PuTTY
 
