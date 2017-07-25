@@ -4,28 +4,14 @@ Kernel cameras were designed to allow for max continuous RAW image capture. To a
 
 | Card Capacity | Card Brand | Card Model Number                      | Kernel Sensor | Kernel Image Mode | Photos Per Second | Image Size | Card Capacity | Card Capture Length |
 |---------------|------------|----------------------------------------|---------------|-------------------|-------------------|------------|---------------|---------------------|
-| 64GB          | Lexar      | 1000x                                  | 1.2MP         | MAPIR (RAW)       | **8.67fps**       | 1.75MB     | ~34,057 photos| 2 hours 42 minutes  |
-| 64GB          | Lexar      | 1000x                                  | 1.2MP         | TIFF              | **5.74fps**       | 2.34MB     | ~25,470 photos| 2 hours 54 minutes  |
-| 64GB         | Lexar      | 1800x                                  | 1.2MP         | .mapir (RAW)      | **8.76fps**              | 1.75MB     | ~34,057 photos|                     |
-| 64GB         | Lexar      | 1800x                                  | 1.2MP         | TIFF              | **?fps**              | 2.34MB     | ~25,470 photos|                     |
-| 128GB         | Lexar      | 1800x                                  | 1.2MP         | .mapir (RAW)      | **8.27fps**              | 1.75MB     | ~34,057 photos|                     |
-| 128GB         | Lexar      | 1800x                                  | 1.2MP         | TIFF              | **5.32fps**              | 2.34MB     | ~25,470 photos|                     |
-| 128GB         | SanDisk    | Extreme Plus 95MB/s SDSQXVF-128G-GN6MA | 1.2MP         | MAPIR (RAW)       | **8.94fps**       | 1.75MB     | ~68,000 photos| 3 hours 19 minutes  |
-| 128GB         | SanDisk    | Extreme Plus 95MB/s SDSQXVF-128G-GN6MA | 1.2MP         | TIFF              | **5.21fps**       | 2.34MB     | ~50,854 photos| 4 hours 7 minutes   |
+      |
 | 128GB         | SanDisk    | Extreme 90MB/s SDSQXVF-128G-GN6MA      | 1.2MP         | MAPIR (RAW)       | **8.27fps**       | 1.75MB     | ~68,000 photos| 3 hours 10 minutes  |
 | 128GB         | SanDisk    | Extreme 90MB/s SDSQXVF-128G-GN6MA      | 1.2MP         | TIFF              | **5.76fps**       | 2.34MB     | ~50,854 photos| 3 hours 49 minutes  |
-| 64GB          | SanDisk    | Extreme 90MB/s SDSQXVF-064G-GN6MA      | 1.2MP         | .mapir (RAW)      | **9.36fops**              | 1.75MB     | ~34,057 photos|                     |
-| 64GB          | SanDisk    | Extreme 90MB/s SDSQXVF-064G-GN6MA      | 1.2MP         | TIFF              | **?fps**              | 2.34MB     | ~25,470 photos|                     |
-| 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXSG-064G-GN6MA| 1.2MP         | .mapir (RAW)      | **9.27fps**       | 1.75MB     | ~34,057 photos|                     |
-| 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXSG-064G-GN6MA| 1.2MP         | TIFF              | **?fps**              | 2.34MB     | ~25,470 photos|                     |
-| 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXWG-064G-ANCMA| 1.2MP         | .mapir (RAW)      | **9.44fps**       | 1.75MB     | ~34,057 photos|                     |
-| 64GB          | SanDisk    | Extreme Plus 95MB/s SDSSQXWG-064G-ANCMA| 1.2MP         | TIFF              | **?fps**       | 2.34MB     | ~25,470 photos| 
-| 64GB          | Samsung| Pro+ MB-MD64DA/AM | 1.2MP         | .mapir (RAW) | **8.38fps**       | 2.34MB     | ~25,470 photos|                     |
-| 64GB          | Samsung| Pro+ MB-MD64DA/AM | 1.2MP         | TIFF | **?fps**       | 2.34MB     | ~25,470 photos|                     |
-| 64GB          | PNY | U3 PRO Elite P-SDUX64U395PROE-GE | 1.2MP         | .mapir (RAW) | **8.62fps**       | 2.34MB     | ~25,470 photos|                     |
-| 64GB          | PNY | U3 PRO Elite P-SDUX64U395PROE-GE | 1.2MP         | TIFF | **?fps**       | 2.34MB     | ~25,470 photos|                     |
-| 64GB          | Transcend | Ultimate 633x TS64GUSDU3 | 1.2MP         | .mapir (RAW) | **8.30fps**       | 2.34MB     | ~25,470 photos|                     |
-| 64GB          | Transcend | Ultimate 633x TS64GUSDU3 | 1.2MP         | TIFF | **?fps**       | 2.34MB     | ~25,470 photos|                     |
+| 64GB          | SanDisk    | Extreme 90MB/s SDSQXVF-064G-GN6MA      | 1.2MP         | MAPIR (RAW)      | **9.36fps**              | 1.75MB     | ~34,057 photos|3 hours 49 minutes |
+| 64GB          | SanDisk    | Extreme 90MB/s SDSQXVF-064G-GN6MA      | 1.2MP         | TIFF                    | **5.54fps**              | 1.75MB     | ~34,057 photos|3 hours 49 minutes |
+
+
+
 
 
 
