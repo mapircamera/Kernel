@@ -4,18 +4,6 @@
 
 ### The sensor boards on Kernel can be easily swapped. Simply flip up the sensor ribbon connector on the sensor board and exchange it with a different board. Then connect the camera to your computer to configure the software.
 
-## 1.2 MP Sensor Board
-
-Manufacturer: ON Semiconductor  
-Part Number: AR0134CS  
-Sensor Dimension: 4.80 x 3.60mm \(Diagonal 6mm \(1/3”\)\)  
-Active Pixels: 1280 x 960 \(1.20 MP\)  
-Pixel Size: 3.75 um x 3.75 um  
-Version Option: Mono, RGB \(bayer\)  
-Photo Mode: 12bit RAW \(.mapir\), 16bit TIFF  
-Max Measured FPS: 9fps  
-Datasheet: [PDF](http://www.onsemi.com/pub_link/Collateral/AR0134CS-D.PDF)
-
 ## 3.2 MP Sensor Board
 
 Manufacturer: Sony  
