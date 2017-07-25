@@ -24,4 +24,4 @@ Due to the fact that each Kernel is essentially a small yet powerful Linux compu
 
 **3-5 Cameras: Power from 1.65mm Barrel Plug Required**
 
-**6 Cameras: Power from both Kernel Port and 1.65mm Barrel Plug**
+**6 Cameras: Power from both Kernel Port and 1.65mm Barrel Plug Required**
