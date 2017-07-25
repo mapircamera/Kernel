@@ -30,9 +30,6 @@
 | F850              | MONO                    | 850nm          | 835-865nm          | [VIEW](#f850)           | NIR light indices |
 | F880              | MONO                    | 880nm          | 852-906nm          | [VIEW](#f880)           | NIR light indices |
 | F395-870          | RGB                     | 395nm & 870nm  | 375-425nm & 745-970nm          | [VIEW](#f395-870)           | Atmospheric indices|
-| F475-850          | RGB                     | 475nm & 850nm  | 460-490nm & 830-870nm          | [VIEW](#f475-850)           | BNDVI |
-| F550-850          | RGB                     | 550nm & 850nm  | 535-565nm & 830-870nm          | [VIEW](#f550-850)           | GNDVI: general plant "green-ness" |
-| F660-850          | RGB                     | 660nm & 850nm  | 645-675nm & 830-870nm          | [VIEW](#f660-850)           | NDVI: general plant "health" |
 | F475-550-850      | RGB                     | 475nm & 550nm & 850nm | 468-483nm & 543-558nm & 835-865nm          | [VIEW](#f475-550-850)           | ENDVI/EVI, improved NDVI |
 | F550-660-850      | RGB                     | 550nm & 660nm & 850nm | 543-558nm & 653-668nm & 835-865nm          | [VIEW](#f550-660-850)           | NDVI, GNDVI, CVI, NG, NNIR, NR, TVI |
 
@@ -109,15 +106,6 @@
 #### F395-870
 [Download Data](http://docs.peauproductions.com/kernel/filters/F395-870.xlsx)
 ![](/assets/f395-870.png)
-#### F475-850
-[Download Data](http://docs.peauproductions.com/kernel/filters/F475-850.xlsx)
-![](/assets/f475-850.png)
-#### F550-850
-[Download Data](http://docs.peauproductions.com/kernel/filters/F550-850.xlsx)
-![](/assets/f550-850.png)
-#### F660-850
-[Download Data](http://docs.peauproductions.com/kernel/filters/F660-850.xlsx)
-![](/assets/f660-850.png)
 #### F475-550-850
 [Download Data](http://docs.peauproductions.com/kernel/filters/F475-550-850.xlsx)
 ![](/assets/f475-550-850.png)
