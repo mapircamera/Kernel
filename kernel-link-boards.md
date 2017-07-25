@@ -20,8 +20,8 @@ To connect more than two Kernels to the LinkM you’ll need to plug in one LinkS
 
 Due to the fact that each Kernel is essentially a small yet powerful Linux computer, the power draw of 3.25 watts (max) per Kernel at 5.0 VDC is a bit much to distribute across the theoretical 6 link boards limit mentioned above. The power options are as followed based on the number of cameras connected:
 
-1-2 Cameras: Power from Kernel Port or 1.65mm Barrel Plug (on Master Link Board)
+**1-2 Cameras: Power from Kernel Port or 1.65mm Barrel Plug (on Master Link Board)**
 
-3-5 Cameras: Power from 1.65mm Barrel Plug Required
+**3-5 Cameras: Power from 1.65mm Barrel Plug Required**
 
-6 Cameras: Power from both Kernel Port and 1.65mm Barrel Plug
+**6 Cameras: Power from both Kernel Port and 1.65mm Barrel Plug**
