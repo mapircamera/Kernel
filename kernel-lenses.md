@@ -1,22 +1,6 @@
 #Kernel Lenses
 
-###Each m12 lens has been matched to a particular Kernel sensor board to provide optimal optical results. You may install other lenses (such as the CS/C mount Kernel) following these guidelines but there is no post processing assistance available at this time for them (vignette correction, etc).
-
-##6.0mm f/2.0 (1.2MP Sensor)
-
-Lens Focal Length: 6.0mm  
-35mm Equivalent Focal Length: 43.26mm  
-Native Sensor Size Supported: 1/3"  
-Aperture: f/2.0  
-Field of View: 58 x 47 x 38 degrees (Diagonal, Horizontal, Vertical)  
-Megapixel Rating: 3.0MP  
-Optical Distortion: <2.5%  
-Back Focal Length (B.F.L): 6.34mm  
-Flange Back Length (F.B.L.): 6.19mm  
-Total Track Length (T.T.L.): 23.22mm  
-Hyperfocal (Infinity) Focus Distance: 177.40 inches (14.78 feet), 450.60 cm (4.51 m)  
-Lens Construction: 7 Glass Elements  
-Dimensions: 17mm Length, 15mm Diameter  
+###Each m12 lens has been matched to a particular Kernel sensor board to provide optimal optical results. You may install other lenses (such as the CS/C mount Kernel) following these guidelines but there is no post processing assistance available at this time for them (vignette correction, etc). 
 
 ##9.6mm f/3.0 (3.0MP Sensor)
 
