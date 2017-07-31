@@ -1,26 +1,15 @@
-##Installation
+#Installation
 
-###Windows
-    Installation on Windows is easy, simply download the .exe file on our github and run it.
-    
-    
-###Mac
+Download the package for your OS below, extract, and run the MAPIR_Camera_Control program from within the extracted folder.
 
-    Instructions Pending
-    
-###Linux
+### Windows
 
-####External Dependencies (using aptitude or other linux installers):
+[Download](http://www.docs.peauproductions.com/MCC/MAPIR_Camera_Control_WINDOWS.zip)
 
-    PyQt4
-    Gdal
-    Exiftool
-    DCRaw
-    Python 3
-    
-####Python Libraries (using pip):
+### Mac
+[Download](http://www.docs.peauproductions.com/MCC/MAPIR_Camera_Control_MAC.zip)
 
-    Opencv (and its dependencies)
-    hidapi (and its dependencies)
-    
-After the above dependencies are installed, simply download the code from our github and run stary.py from the terminal.
+
+### Linux
+[Download](http://www.docs.peauproductions.com/MCC/MAPIR_Camera_Control_LINUX.tar.gz)
+
