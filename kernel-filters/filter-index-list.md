@@ -97,7 +97,7 @@ This index highlights burned land in the red to near-infrared spectrum, by empha
 ![](/assets/SpectralIndexFormulaBAI.gif)  
 Suggested Kernel Filters:  
 NIR = [F850](https://www.mapir.camera/collections/kernel-camera-filters/products/f850)  
-RED = [F550](https://www.mapir.camera/collections/kernel-camera-filters/products/f550)
+RED = [F650](https://www.mapir.camera/collections/kernel-camera-filters/products/f650)
 
 
 ***************************************************************
