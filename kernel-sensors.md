@@ -26,5 +26,5 @@ Pixel Size: 1.4 um x 1.4 um
 Version Option: RGB \(bayer\)  
 Photo Mode: 12bit RAW \(.mapir\) 
 Photo Sizes: RAW(.mapir) = 20.6MB 
-Max Measured FPS: ?
+Max Measured FPS: 0.95fps (1.05 seconds between frames)
 
