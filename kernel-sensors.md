@@ -13,7 +13,7 @@ Active Pixels: 2048 x 1536 \(3.15 MP\)
 Pixel Size: 3.45 um x 3.45 um  
 Version Option: Mono, RGB \(bayer\)  
 Photo Mode: 12bit RAW \(.mapir\), 16bit TIFF  
-Photo Sizes: RAW(.mapir) = 4.609MB , TIFF = 6.148MB
+Photo Sizes: RAW(.mapir) = 4.61 MB , TIFF = 6.14 8MB
 Max Measured FPS: ?
 
 ## 14.4 MP Sensor Board
@@ -24,6 +24,7 @@ Sensor Dimension: 6.14 x 4.60mm \(Diagonal 7.67mm \(1/2.3”\)\)
 Active Pixels: 4384 x 3288 \(14.4 MP\)  
 Pixel Size: 1.4 um x 1.4 um  
 Version Option: RGB \(bayer\)  
-Photo Mode: 12bit RAW \(.mapir\), 16bit TIFF  
+Photo Mode: 12bit RAW \(.mapir\) 
+Photo Sizes: RAW(.mapir) = 20.6MB 
 Max Measured FPS: ?
 
