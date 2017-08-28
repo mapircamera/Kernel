@@ -36,7 +36,6 @@
     * [UAVCAN](interfacing-with-kernel/software-interface/uavcan.md)
     * [Licenses](interfacing-with-kernel/software-interface/licenses.md)
 * [Kernel Link Boards](kernel-link-boards.md)
-* [Recommended SD Cards](recommended-sd-cards.md)
 * [Kernel Filters](kernel-filters.md)
   * [Multi-Spectral Camera Indices](kernel-filters/filter-index-list.md)
 * [Kernel Sensors](kernel-sensors.md)
