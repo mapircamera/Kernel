@@ -21,6 +21,15 @@ NIR = [F850](https://www.mapir.camera/collections/kernel-camera-filters/products
 RED = [F650](https://www.mapir.camera/collections/kernel-camera-filters/products/f650)  
 BLUE = [F450](https://www.mapir.camera/collections/kernel-camera-filters/products/f450)
 
+###Chlorophyll Vegetation Index (CVI)
+This index is a broad-band VI specifically sensitive to leaf chlorophyll concentration at the canopy scale. (1)
+![](/assets/cvi-01.png)
+
+Suggested Kernel Filters:  
+NIR = [F850](https://www.mapir.camera/collections/kernel-camera-filters/products/f850)  
+RED = [F650](https://www.mapir.camera/collections/kernel-camera-filters/products/f650)  
+GREEN = [F550](https://www.mapir.camera/collections/kernel-camera-filters/products/f550) 
+
 ###Modified Simple Ratio (MSR)
 This index was developed an an improvement over RDVI by combining the Simple Ratio into the formula. The RDVI index uses the difference between near-infrared and red wavelengths, along with the NDVI, to highlight healthy vegetation. It is insensitive to the effects of soil and sun viewing geometry. The MSR index has increased sensitivity to vegetation biophysical parameters.  
 ![](/assets/SpectralIndexFormulaMSR.gif)  
@@ -102,6 +111,8 @@ RED = [F650](https://www.mapir.camera/collections/kernel-camera-filters/products
 
 ***************************************************************
 #####References:
+(1) https://www.researchgate.net/publication/225681715_A_broad-band_leaf_chlorophyll_vegetation_index_at_the_canopy_scale
+
 _Please browse the sites below which refer to their own further references:_
 
 Harris Geospatial Solutions: https://www.harrisgeospatial.com
