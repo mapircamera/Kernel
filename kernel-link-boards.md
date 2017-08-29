@@ -7,10 +7,6 @@ At the start of an array you’ll find the LinkM. On the vehicle connection end 
 
 Since HDMI is difficult to pass between boards without signal issues, and would require essentially a dedicated HDMI switch to function properly, the master slot is reserved for the camera you would like to output an HD video feed. The rest of the link slots support SD analog video out, which can be switched to see the video feeds from each camera.
 
-The master slot of the LinkM also allows some unique control of the array. Since each Kernel supports both PWM in and out, the master Kernel can be setup to trigger the rest of the array. It can also be used to check exposure and adjust other camera settings of the other Kernels in the array accordingly.
-
-We’re excited to see what interesting use cases you’ll come up with using this control layout.
-
 ###LinkS: Slave Link Board
 
 To connect more than two Kernels to the LinkM you’ll need to plug in one LinkS for each pair of Kernels you wish to add. Since LinkS boards easily connect to each other, you can build arrays of up to 6 total Kernels. If you need to connect more than 6 Kernels you can combine two LinkM arrays.
