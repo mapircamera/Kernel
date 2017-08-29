@@ -1,8 +1,8 @@
 #Kernel Lenses
 
-###Each m12 lens has been matched to a particular Kernel sensor board to provide optimal optical results. You may install other lenses (such as the CS/C mount Kernel) following these guidelines but there is no post processing assistance available at this time for them (vignette correction, etc). 
+###Each m12 lens has been matched to a particular Kernel sensor board to provide optimal optical results. You may install other lenses following these guidelines but there is no post processing assistance available at this time for them (vignette correction, etc). 
 
-##9.6mm f/3.0 (3.0MP Sensor)
+##9.6mm f/3.0 (3.2MP Sensor)
 
 Lens Focal Length: 9.6mm  
 35mm Equivalent Focal Length: 46.08mm  
@@ -18,7 +18,7 @@ Lens Construction: All Glass Elements
 Weight: 2.13g  
 Dimensions: 8.75mm Length, 12mm Diameter  
 
-##8.25mm f/2.6 (14.0MP Sensor)
+##8.25mm f/2.6 (14.4MP Sensor)
 
 Lens Focal Length: 8.25mm  
 35mm Equivalent Focal Length: 46.53mm  
