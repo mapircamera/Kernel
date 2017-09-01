@@ -22,7 +22,7 @@ RED = [F650](https://www.mapir.camera/collections/kernel-camera-filters/products
 BLUE = [F450](https://www.mapir.camera/collections/kernel-camera-filters/products/f450)
 
 ###Chlorophyll Vegetation Index (CVI)
-This index is a broad-band VI specifically sensitive to leaf chlorophyll concentration at the canopy scale. (1)
+This index is a broad-band VI specifically sensitive to leaf chlorophyll concentration at the canopy scale. (1)  
 ![](/assets/cvi-01.png)
 
 Suggested Kernel Filters:  
