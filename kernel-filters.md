@@ -15,7 +15,6 @@
 |-------------------|-------------------------|----------------|--------------------|--------------------|--------------|
 | F644              | RGB                     | X              | 395-638nm          | [VIEW](#f644)      | Visible light RGB only (Cut-off 648nm) |
 | F405              | MONO                    | 405nm          | 400-415nm          | [VIEW](#f405)           | Ultraviolet (UV) light detection |
-| F440              | MONO                    | 440nm          | 416-464nm          | [VIEW](#f440)           | Blue light detection |
 | F450              | MONO                    | 450nm          | 445-465nm          | [VIEW](#f450)           | Blue light indices |
 | F490              | MONO                    | 490nm          | 450-532nm          | [VIEW](#f490)           | Blue light indices |
 | F518              | MONO                    | 518nm          | 498-536nm          | [VIEW](#f518)           | Green light indices |
@@ -61,9 +60,6 @@
 #### F405
 [Download Data](http://docs.peauproductions.com/kernel/filters/F405.xlsx)
 ![](/assets/f405.png)
-#### F440
-[Download Data](http://docs.peauproductions.com/kernel/filters/F440.xlsx)
-![](/assets/f440.png)
 #### F450
 [Download Data](http://docs.peauproductions.com/kernel/filters/F450.xlsx)
 ![](/assets/f450.png)
