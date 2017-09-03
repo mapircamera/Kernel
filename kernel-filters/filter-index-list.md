@@ -31,7 +31,7 @@ RED = [F650](https://www.mapir.camera/collections/kernel-camera-filters/products
 GREEN = [F550](https://www.mapir.camera/collections/kernel-camera-filters/products/f550) 
 
 ###Modified Simple Ratio (MSR)
-This index was developed an an improvement over RDVI by combining the Simple Ratio into the formula. The RDVI index uses the difference between near-infrared and red wavelengths, along with the NDVI, to highlight healthy vegetation. It is insensitive to the effects of soil and sun viewing geometry. The MSR index has increased sensitivity to vegetation biophysical parameters.  
+This index was developed as an improvement over RDVI by combining the Simple Ratio into the formula. The RDVI index uses the difference between near-infrared and red wavelengths, along with the NDVI, to highlight healthy vegetation. It is insensitive to the effects of soil and sun viewing geometry. The MSR index has increased sensitivity to vegetation biophysical parameters.  
 ![](/assets/SpectralIndexFormulaMSR.gif)  
 
 Suggested Kernel Filters:  
