@@ -28,6 +28,8 @@
 | F808              | MONO                    | 808nm          | 800-818nm          | [VIEW](#f808)           | NIR light indices |
 | F850              | MONO                    | 850nm          | 835-865nm          | [VIEW](#f850)           | NIR light indices |
 | F880              | MONO                    | 880nm          | 852-906nm          | [VIEW](#f880)           | NIR light indices |
+| F940              | MONO                    | 940nm          | 870-1020nm          | [VIEW](#f940)           | NIR light indices |
+| F945              | MONO                    | 945nm          | 932-958nm          | [VIEW](#f945)           | NIR light indices |
 | F395-870          | RGB                     | 395nm & 870nm  | 375-425nm & 745-970nm          | [VIEW](#f395-870)           | Atmospheric indices|
 | F475-550-850      | RGB                     | 475nm & 550nm & 850nm | 468-483nm & 543-558nm & 835-865nm          | [VIEW](#f475-550-850)           | ENDVI/EVI, improved NDVI |
 | F550-660-850      | RGB                     | 550nm & 660nm & 850nm | 543-558nm & 653-668nm & 835-865nm          | [VIEW](#f550-660-850)           | NDVI, GNDVI, CVI, NG, NNIR, NR, TVI |
@@ -99,6 +101,12 @@
 #### F880
 [Download Data](http://docs.peauproductions.com/kernel/filters/F880.xlsx)
 ![](/assets/f880.png)
+#### F940
+[Download Data](http://docs.peauproductions.com/kernel/filters/F940.xlsx)
+![](/assets/F940.PNG)
+#### F945
+[Download Data](http://docs.peauproductions.com/kernel/filters/F945.xlsx)
+![](/assets/F945.PNG)
 #### F395-870
 [Download Data](http://docs.peauproductions.com/kernel/filters/F395-870.xlsx)
 ![](/assets/f395-870.png)
