@@ -31,7 +31,7 @@
 | F940              | MONO                    | 940nm          | 870-1020nm          | [VIEW](#f940)           | NIR light indices |
 | F945              | MONO                    | 945nm          | 932-958nm          | [VIEW](#f945)           | NIR light indices |
 | F395-870          | RGB                     | 395nm & 870nm  | 375-425nm & 745-970nm          | [VIEW](#f395-870)           | Atmospheric indices|
-| F475-550-850      | RGB                     | 475nm & 550nm & 850nm | 468-483nm & 543-558nm & 835-865nm          | [VIEW](#f475-550-850)           | ENDVI/EVI, improved NDVI |
+| F475-550-850      | RGB                     | 475nm & 550nm & 850nm | 468-483nm & 543-558nm & 835-865nm          | [VIEW](#f475-550-850)           | ENDVI, improved NDVI |
 | F550-660-850      | RGB                     | 550nm & 660nm & 850nm | 543-558nm & 653-668nm & 835-865nm          | [VIEW](#f550-660-850)           | NDVI, GNDVI, CVI, NG, NNIR, NR, TVI |
 
 ##Top Lens Protector
