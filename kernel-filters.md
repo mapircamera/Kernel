@@ -9,7 +9,7 @@
 **Filter Glass Thickness:** 1.0mm  
 **Filter Glass Surface Quality:** 40/20  
 
-![https://www.mapir.camera/pages/kernel-filters](/assets/all_single_bands.png)
+![](/assets/all_single_bands.png)
 
 | Filter Model Name | Recommended Sensor Type | Peak Wavelength| Transmission Range (50%) | Transmission Chart | Typical Uses |
 |-------------------|-------------------------|----------------|--------------------|--------------------|--------------|
