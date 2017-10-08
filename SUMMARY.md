@@ -10,20 +10,20 @@
     * [Power Requirements](interfacing-with-kernel/hardware-interface/powering-kernel.md)
   * [Software Interface](interfacing-with-kernel/software-interface.md)
     * [MCC: MAPIR Camera Control Application](interfacing-with-kernel/software-interface/mcc.md)
-      * [Installation](interfacing-with-kernel/software-interface/qgis-plugin/installation.md)
-      * [Connecting to Kernel](interfacing-with-kernel/software-interface/qgis-plugin/connecting-to-kernel.md)
-      * [Capturing Images](interfacing-with-kernel/software-interface/qgis-plugin/capturing-images.md)
-        * [Capture Modes](interfacing-with-kernel/software-interface/qgis-plugin/capturing-images/capture-modes.md)
-        * [Photo Formats](interfacing-with-kernel/software-interface/qgis-plugin/capturing-images/photo-formats.md)
-        * [Loop Intervals](interfacing-with-kernel/software-interface/qgis-plugin/capturing-images/loop-intervals.md)
-        * [Capturing Images With An Array](interfacing-with-kernel/software-interface/qgis-plugin/capturing-images/capturing-images-with-an-array.md)
-      * [Capturing Video](interfacing-with-kernel/software-interface/qgis-plugin/capturing-video.md)
-        * [Video Modes](interfacing-with-kernel/software-interface/qgis-plugin/capturing-video/video-modes.md)
-      * [Changing Camera Settings](interfacing-with-kernel/software-interface/qgis-plugin/changing-camera-settings.md)
+      * [Installation](interfacing-with-kernel/software-interface/mcc/installation.md)
+      * [Connecting to Kernel](interfacing-with-kernel/software-interface/mcc/connecting-to-kernel.md)
+      * [Capturing Images](interfacing-with-kernel/software-interface/mcc/capturing-images.md)
+        * [Capture Modes](interfacing-with-kernel/software-interface/mcc/capturing-images/capture-modes.md)
+        * [Photo Formats](interfacing-with-kernel/software-interface/mcc/capturing-images/photo-formats.md)
+        * [Loop Intervals](interfacing-with-kernel/software-interface/mcc/capturing-images/loop-intervals.md)
+        * [Capturing Images With An Array](interfacing-with-kernel/software-interface/mcc/capturing-images/capturing-images-with-an-array.md)
+      * [Capturing Video](interfacing-with-kernel/software-interface/mcc/capturing-video.md)
+        * [Video Modes](interfacing-with-kernel/software-interface/mcc/capturing-video/video-modes.md)
+      * [Changing Camera Settings](interfacing-with-kernel/software-interface/mcc/changing-camera-settings.md)
         * Exposure Mode
-        * Shutter Speed and ISO
+        * [Shutter Speed and ISO](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/shutter-speed-and-iso.md)
         * Video Output
-        * Setting Real Time Clock
+        * [Setting Real Time Clock](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/setting-real-time-clock.md)
         * Changing CAN setings
         * Enabling capture beep indicator
         * External Trigger Settings
@@ -31,7 +31,7 @@
         * Photo Formats \(Expanded\)
         * 3-Letter Identifier \(Camera Name\)
         * Restoring Factory Settings
-      * [Transferring Media](interfacing-with-kernel/software-interface/qgis-plugin/transferring-media.md)
+      * [Transferring Media](interfacing-with-kernel/software-interface/mcc/transferring-media.md)
         * Mounting And Un-Mounting Cameras
     * [UAVCAN](interfacing-with-kernel/software-interface/uavcan.md)
     * [Licenses](interfacing-with-kernel/software-interface/licenses.md)
