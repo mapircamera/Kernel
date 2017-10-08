@@ -9,7 +9,7 @@
     * [PWM/UART/DAC Port - 6 pin Side Port](interfacing-with-kernel/hardware-interface/gps-port.md)
     * [Power Requirements](interfacing-with-kernel/hardware-interface/powering-kernel.md)
   * [Software Interface](interfacing-with-kernel/software-interface.md)
-    * [Kernel Control Application](interfacing-with-kernel/software-interface/qgis-plugin.md)
+    * [MCC: MAPIR Camera Control Application](interfacing-with-kernel/software-interface/qgis-plugin.md)
       * [Installation](interfacing-with-kernel/software-interface/qgis-plugin/installation.md)
       * [Connecting to Kernel](interfacing-with-kernel/software-interface/qgis-plugin/connecting-to-kernel.md)
       * [Capturing Images](interfacing-with-kernel/software-interface/qgis-plugin/capturing-images.md)
