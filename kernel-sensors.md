@@ -7,7 +7,7 @@
 ## 3.2 MP Sensor Board
 
 Manufacturer: Sony  
-Part Number: IMX265LQR-C \(RGB\), IMX265LLR-C \(Mono\)  
+Part Number: IMX265LLR-C \(Mono\)  
 Sensor Dimension: 7.06 x 5.30mm \(Diagonal 8.9mm \(1/1.8”\)\)  
 Active Pixels: 2048 x 1536 \(3.15 MP\)  
 Pixel Size: 3.45 um x 3.45 um  
