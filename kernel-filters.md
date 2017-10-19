@@ -15,21 +15,23 @@
 |-------------------|-------------------------|----------------|--------------------|--------------------|--------------|
 | F644              | RGB                     | X              | 395-638nm          | [VIEW](#f644)      | Visible light RGB only (Cut-off 648nm) |
 | F405              | MONO                    | 405nm          | 400-415nm          | [VIEW](#f405)           | Ultraviolet (UV) light detection |
-| F450              | MONO                    | 450nm          | 445-465nm          | [VIEW](#f450)           | Blue light indices |
-| F490              | MONO                    | 490nm          | 450-532nm          | [VIEW](#f490)           | Blue light indices |
-| F518              | MONO                    | 518nm          | 498-536nm          | [VIEW](#f518)           | Green light indices |
-| F550              | MONO                    | 550nm          | 535-558nm          | [VIEW](#f550)           | Green light indices |
-| F590              | MONO                    | 590nm          | 564-615nm          | [VIEW](#f590)           | Green light indices |
-| F615              | MONO                    | 615nm          | 576-674nm          | [VIEW](#f615)           | Green light indices |
-| F632              | MONO                    | 632nm          | 625-640nm          | [VIEW](#f632)           | Red light indices |
-| F650              | MONO                    | 650nm          | 643-665nm          | [VIEW](#f650)           | Red light indices |
-| F725              | MONO                    | 725nm          | 717-732nm          | [VIEW](#f725)           | Red-edge: Deeper canopy penetration, earlier detection of reduction in photosynthesis |
-| F780              | MONO                    | 780nm          | 750-810nm          | [VIEW](#f780)           | NIR light indices |
-| F808              | MONO                    | 808nm          | 800-818nm          | [VIEW](#f808)           | NIR light indices |
+| F440              | MONO                    | 440nm          | 423-456nm          | [VIEW](#f440)           | Blue light indices |
+| F450              | MONO                    | 450nm          | 429-459nm          | [VIEW](#f450)           | Blue light indices |
+| F490              | MONO                    | 490nm          | 468-506nm          | [VIEW](#f490)           | Blue light indices |
+| F518              | MONO                    | 518nm          | 507-527nm          | [VIEW](#f518)           | Green light indices |
+| F550              | MONO                    | 550nm          | 535-565nm          | [VIEW](#f550)           | Green light indices |
+| F590              | MONO                    | 590nm          | 574-606nm          | [VIEW](#f590)           | Green light indices |
+| F615              | MONO                    | 615nm          | 603-624nm          | [VIEW](#f615)           | Green light indices |
+| F632              | MONO                    | 632nm          | 625-655nm          | [VIEW](#f632)           | Red light indices |
+| F650              | MONO                    | 650nm          | 641-672nm          | [VIEW](#f650)           | Red light indices |
+| F685              | MONO                    | 685nm          | 674-698nm          | [VIEW](#f685)           | Red light indices |
+| F725              | MONO                    | 725nm          | 712-735nm          | [VIEW](#f725)           | Red-edge: Deeper canopy penetration, earlier detection of reduction in photosynthesis |
+| F780              | MONO                    | 780nm          | 762-796nm          | [VIEW](#f780)           | NIR light indices |
+| F808              | MONO                    | 808nm          | 801-815nm          | [VIEW](#f808)           | NIR light indices |
 | F850              | MONO                    | 850nm          | 835-865nm          | [VIEW](#f850)           | NIR light indices |
-| F880              | MONO                    | 880nm          | 852-906nm          | [VIEW](#f880)           | NIR light indices |
-| F940              | MONO                    | 940nm          | 870-1020nm          | [VIEW](#f940)           | NIR light indices |
-| F945              | MONO                    | 945nm          | 932-958nm          | [VIEW](#f945)           | NIR light indices |
+| F880              | MONO                    | 880nm          | 867-893nm          | [VIEW](#f880)           | NIR light indices |
+| F940              | MONO                    | 940nm          | 905-965nm          | [VIEW](#f940)           | NIR light indices |
+| F945              | MONO                    | 945nm          | 941-949nm          | [VIEW](#f945)           | NIR light indices |
 | F395-870          | RGB                     | 395nm & 870nm  | 375-425nm & 745-970nm          | [VIEW](#f395-870)           | Atmospheric indices|
 | F475-550-850      | RGB                     | 475nm & 550nm & 850nm | 468-483nm & 543-558nm & 835-865nm          | [VIEW](#f475-550-850)           | ENDVI, improved NDVI |
 | F550-660-850      | RGB                     | 550nm & 660nm & 850nm | 543-558nm & 653-668nm & 835-865nm          | [VIEW](#f550-660-850)           | NDVI, GNDVI, CVI, NG, NNIR, NR, TVI |
