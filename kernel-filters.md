@@ -15,7 +15,6 @@
 |-------------------|-------------------------|----------------|--------------------|--------------------|--------------|
 | F644              | RGB                     | X              | 395-638nm          | [VIEW](#f644)      | Visible light RGB only (Cut-off 648nm) |
 | F405              | MONO                    | 405nm          | 400-415nm          | [VIEW](#f405)           | Ultraviolet (UV) light detection |
-| F440              | MONO                    | 440nm          | 423-456nm          | [VIEW](#f440)           | Blue light indices |
 | F450              | MONO                    | 450nm          | 429-459nm          | [VIEW](#f450)           | Blue light indices |
 | F490              | MONO                    | 490nm          | 468-506nm          | [VIEW](#f490)           | Blue light indices |
 | F518              | MONO                    | 518nm          | 507-527nm          | [VIEW](#f518)           | Green light indices |
