@@ -5,7 +5,7 @@
 
 At the start of an array you’ll find the LinkM. On the vehicle connection end it has the same Kernel port found on the Kernel, so all cables and breakout boards work in both port locations. When a Kernel is plugged into the “master” slot of the LinkM it gains special abilities different than the other array locations.
 
-Since HDMI is difficult to pass between boards without signal issues, and would require essentially a dedicated HDMI switch to function properly, the master slot is reserved for the camera you would like to output an HD video feed. The rest of the link slots support SD analog video out, which can be switched to see the video feeds from each camera. See how to toggle SD feeds in MCC [here](https://mapircamera.gitbooks.io/kernel-development-guide/content/interfacing-with-kernel/software-interface/mcc/capturing-video.html).
+Since HDMI is difficult to pass between boards without signal issues, and would require essentially a dedicated HDMI switch to function properly, the master slot is reserved for the camera you would like to output an HD video feed. The rest of the link slots support SD analog video out, which can be switched to see the video feeds from each camera. See how to toggle SD feeds in MCC [here](../content/interfacing-with-kernel/software-interface/mcc/capturing-video.html).
 
 ###LinkS: Slave Link Board
 
