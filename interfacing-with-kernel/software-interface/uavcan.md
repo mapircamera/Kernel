@@ -1,6 +1,6 @@
 #UAVCAN
 
-UAVCAN is a lightweight protocol designed for reliable communication in aerospace and robotic applications via CAN bus.  Please browse the UAVCAN.org website for more information.
+UAVCAN is a lightweight protocol designed for reliable communication in aerospace and robotic applications via CAN bus.  Please browse the [UAVCAN.org](http://uavcan.org/) website for more information.
 
 * Democratic network - no single point of failure.  
 * Publish/subscribe or request/response exchange semantics.  
