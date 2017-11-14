@@ -6,4 +6,4 @@
 ##[Kernel Filter Transmission Data](https://mapircamera.gitbooks.io/kernel-development-guide/content/kernel-filters/filter-transmission-data.html)
 ##[Common Multi-spectral Indices](https://mapircamera.gitbooks.io/kernel-development-guide/content/kernel-filters/filter-index-list.html)
 
-##[How to Install a Kernel Filter](../kernel-filter-installation.md)
+##[How to Install a Kernel Filter2](../kernel-filter-installation.md)
