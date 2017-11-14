@@ -37,6 +37,8 @@
     * [Licenses](interfacing-with-kernel/software-interface/licenses.md)
 * [Kernel Link Boards](kernel-link-boards.md)
 * [Kernel Filters](kernel-filters.md)
+  * [Kernel Filter Installation](kernel-filters/kernel-filter-installation.md)
+  * [Filter Transmission Data](kernel-filters/filter-transmission-data.md)
   * [Multi-Spectral Camera Indices](kernel-filters/filter-index-list.md)
 * [Kernel Sensors](kernel-sensors.md)
   * [Sensor Rotation](kernel-sensors/sensor-rotation.md)
