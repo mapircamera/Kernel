@@ -1,6 +1,14 @@
 ##Kernel Triggering
 
-####For the most reliable triggering of a Kernel camera we recommend a 1fps or slower trigger duration.
+####For the most reliable triggering of a Kernel camera we recommend the following or slower frame-rates:
+
+| **Kernel Sensor** | **Image Format**| **Configuration**    |**Frame-rate** |**Seconds Between Triggers** |
+|-----------------------|-----------------|-----------------|-----------------|
+| 3.2MP                | TIFF | Single Camera    | 2.00 fps    | 0.50 seconds|
+| 3.2MP                | TIFF | Array Camera    | 1.11 fps    | 0.90 seconds|
+| 14.4MP                | RAW | Single Camera    | 1.00 fps | 1.00 seconds|
+| 14.4MP                | RAW | Array Camera    | 1.50 fps*| --- seconds*|
+_*New 14.4MP firmware coming soon to more align arrays with a mixture of sensors_
 
 The Kernel cameras can be used in two main configurations: **separate** or **in an array with the link boards**. How they are arranged may affect the rate at which they can be triggered. The SD card speed as well as some camera settings can also affect the trigger response.
 
