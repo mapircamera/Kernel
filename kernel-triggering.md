@@ -10,7 +10,6 @@ In the Kernel tab of [MAPIR Camera Control (MCC)](../content/interfacing-with-ke
 
 **Relay (Voltage) Trigger (RECOMMENDED):** sending a voltage spike of 3.3 volts for 2ms is the best way to trigger the Kernel camera. The camera has less chance to miss a trigger because it's looking for any voltage spike for at least 2ms duration.
 
-
 **PWM Trigger:** This method of triggering requires the camera to measure the pulse width and thus has a slightly higher chance of the camera missing a trigger event if the duration between triggers is too short. Since it is measuring the width, it does allow you to send different duration signals, and thus perform more than just the one trigger function.
 
 | **PWM Signal Length** | **Function**    |
@@ -33,7 +32,6 @@ This is important to make sure that no camera is still capturing the previous im
 ###Kernel micoSD Memory Speed
 
 The speed that the memory card can save the image directly affects the capture rate. We recommend only using the fastest memory cards available to have the most reliable triggering with Kernel. We sell the fastest cards we have found on our store [here](https://www.mapir.camera/collections/kernel-accessories).
-
 
 ###Kernel Settings that Affect Capture Speed
 
