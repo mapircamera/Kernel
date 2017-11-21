@@ -36,6 +36,7 @@
     * [UAVCAN](interfacing-with-kernel/software-interface/uavcan.md)
     * [Licenses](interfacing-with-kernel/software-interface/licenses.md)
 * [Kernel Link Boards](kernel-link-boards.md)
+* [Kernel Triggering](kernel-triggering.md)
 * [Kernel Filters](kernel-filters.md)
   * [Kernel Filter Installation](kernel-filters/kernel-filter-installation.md)
   * [Filter Transmission Data](kernel-filters/filter-transmission-data.md)
