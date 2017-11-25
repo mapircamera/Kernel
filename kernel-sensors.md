@@ -14,7 +14,8 @@ Pixel Size: 3.45 um x 3.45 um
 Version Option: Mono
 Photo Mode: 12bit RAW \(.mapir\), 16bit TIFF  
 Photo Sizes: RAW(.mapir) = 4.61 MB , TIFF = 6.14 MB  
-Max Measured FPS: ?
+Max Measured FPS: 2fps (0.5 seconds between frames)
+
 
 ## 14.4 MP Sensor Board
 
