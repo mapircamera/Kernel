@@ -1,5 +1,5 @@
 ####Each Kernel module can be customized with various sensors, lenses, and filters as you choose. This allows you to custom build each Kernel and swap them into your array depending on your current project’s requirements.
-####Instead of connecting each camera together with bulky cable harnesses, we’ve designed a unique (patent pending) link board system:
+####Instead of connecting each camera together with bulky cable harnesses, we’ve designed a unique (patent pending) link board system which connect together with [JAE DD2 plugs](http://www.jae.com/jccom/en/connectors/detail/DD2):
 
 ###LinkM: Master Link Board
 
