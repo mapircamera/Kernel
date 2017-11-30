@@ -34,6 +34,7 @@
       * [Transferring Media](interfacing-with-kernel/software-interface/mcc/transferring-media.md)
         * Mounting And Un-Mounting Cameras
     * [UAVCAN](interfacing-with-kernel/software-interface/uavcan.md)
+    * [Updating Kernel Camera Stack Firmware](interfacing-with-kernel/software-interface/updating-kernel-stack-firmware.md)
     * [Licenses](interfacing-with-kernel/software-interface/licenses.md)
 * [Kernel Link Boards](kernel-link-boards.md)
 * [Kernel Triggering](kernel-triggering.md)
