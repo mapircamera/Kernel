@@ -23,7 +23,7 @@ Connect the camera to a 5 volt power source and it will be ready to load new fir
     
 2: Extract the contents of the downloaded folder.
 
-3: Power the camera on with 5VDC and plug the camera's USB cable into your computer.
+3: Power the camera on with 5VDC and plug the camera's USB cable into your computer. The camera should not have any of its LEDs on, and you should immediately hear your computer make the tone when a new USB device is connected. If the red LED turns on, disconnect the 40pin connector and re-insert it.
 
 4: Launch the MfgTool2.exe program
 
