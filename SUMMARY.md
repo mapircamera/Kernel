@@ -48,5 +48,5 @@
 * [Kernel GPS \(Zubax GNSS 2\)](kernel-gps-zubax-gnss-2.md)
 * [Downloads](downloads.md)
   * [3D Kernel Models](downloads/3d-kernel-models.md)
-  * 2D Kernel Drawings
+  * [2D Kernel Drawings](downloads/2d-kernel-drawings.md)
 
