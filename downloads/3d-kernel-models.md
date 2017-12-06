@@ -12,7 +12,7 @@ Use the below files to help you design your own housings and accessories for the
 | 4 Array Housing (BOTTOM)| 4                     | 2                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uWYM)      | [STL](http://docs.peauproductions.com/kernel/3d_models/4_kernel_bottom.STL)                 |   
 |
 | 6 Array Housing (TOP + BOTTOM)| 6                     | 3                            | Housing, Threaded Inserts|  [VIEW]()      | [STL](http://docs.peauproductions.com/kernel/3d_models/6_kernel_housing_assem.STL), [DRAWING]( http://docs.peauproductions.com/kernel/3d_models/6_kernel_housing_assem.PDF)                |              |
-| 6 Array Housing (TOP)| 6                     | 3                            | Housing, Threaded Inserts|  [VIEW]()      | [STL](http://docs.peauproductions.com/kernel/3d_models/6_kernel_top.STL)                 |              |
+| 6 Array Housing (TOP)| 6                     | 3                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uXnU)      | [STL](http://docs.peauproductions.com/kernel/3d_models/6_kernel_top.STL)                 |              |
 | 6 Array Housing (BOTTOM)| 6                     | 3                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uXnN)      | [STL](http://docs.peauproductions.com/kernel/3d_models/6_kernel_bottom.STL)                 |   
 |
 
