@@ -22,7 +22,7 @@ In the Kernel tab of [MAPIR Camera Control (MCC)](../content/interfacing-with-ke
 | **PWM Signal Length** | **Function**    |
 |-----------------------|-----------------|
 | 1000ms                | Stop Shutter    |
-| 1350ms                | Nuetral (No Function)    |
+| 1350ms                | Neutral (No Function)    |
 | 1650ms                | Change Capture Mode  |
 | 2000ms                | Start Shutter    |
 
