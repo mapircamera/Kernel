@@ -2,7 +2,7 @@
 
 Use the below files to help you design your own housings and accessories for the Kernel product line.
 
-|    **Model Name**    | **Number of Kernels** | **Number of Link Boards**    | **Included Components**  | **View Model** |**Download Link** | **Comments** |
+|            **Model Name**            | **Number of Kernels** | **Number of Link Boards** | **Included Components**  |    **View Model**    |    **Download Link**    | **Comments** |
 |----------------------|-----------------------|------------------------------|--------------------------|----------------|------------------|--------------|
 | Single Kernel Housing (TOP + BOTTOM)| 1                     | 0                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uXpz)      | [STL](http://docs.peauproductions.com/kernel/3d_models/1_kernel_housing_assem.STL), [DRAWING]( http://docs.peauproductions.com/kernel/3d_models/1_kernel_housing_assem.PDF)                |              |
 | Single Kernel Housing (TOP)| 1                     | 0                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uXpu)      | [STL](http://docs.peauproductions.com/kernel/3d_models/1_kernel_top.STL)                 |              |
