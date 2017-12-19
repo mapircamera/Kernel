@@ -20,11 +20,11 @@
       * [Capturing Video](interfacing-with-kernel/software-interface/mcc/capturing-video.md)
         * [Video Modes](interfacing-with-kernel/software-interface/mcc/capturing-video/video-modes.md)
       * [Changing Camera Settings](interfacing-with-kernel/software-interface/mcc/changing-camera-settings.md)
-        * Exposure Mode
+        * [Exposure Mode](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/exposure-mode.md)
         * [Shutter Speed and ISO](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/shutter-speed-and-iso.md)
-        * Video Output
+        * [Video Output](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/video-output.md)
         * [Setting Real Time Clock](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/setting-real-time-clock.md)
-        * Changing CAN setings
+        * [Changing CAN setings](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/changing-can-setings.md)
         * Enabling capture beep indicator
         * External Trigger Settings
         * Adjusting Media Folder Size
@@ -32,7 +32,7 @@
         * 3-Letter Identifier \(Camera Name\)
         * Restoring Factory Settings
       * [Transferring Media](interfacing-with-kernel/software-interface/mcc/transferring-media.md)
-        * Mounting And Un-Mounting Cameras
+        * [Mounting And Un-Mounting Cameras](interfacing-with-kernel/software-interface/mcc/transferring-media/mounting-and-un-mounting-cameras.md)
     * [UAVCAN](interfacing-with-kernel/software-interface/uavcan.md)
     * [Updating Kernel Firmware](interfacing-with-kernel/software-interface/updating-kernel-stack-firmware.md)
     * [Licenses](interfacing-with-kernel/software-interface/licenses.md)
