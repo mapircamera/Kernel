@@ -36,7 +36,7 @@ One of the main features of the link boards is to ensure that the various camera
 
 This is important to make sure that no camera is still capturing the previous image before having all the cameras in the array capture the next image. The one issue with this is that since we do not queue the trigger events (to ensure exposure sync) that there is a chance to miss a trigger if a new trigger signal arrives while one or more of the cameras are still saving the previous images. So be mindful of how you plan your triggering to reduce the chances that a trigger will be missed.
 
-###Kernel micoSD Memory Speed
+###Kernel MicoSD Memory Speed
 
 The speed that the memory card can save the image directly affects the capture rate. We recommend only using the fastest memory cards available to have the most reliable triggering with Kernel. We sell the fastest cards we have found on our store [here](https://www.mapir.camera/collections/kernel-accessories).
 
@@ -46,6 +46,6 @@ With Kernel you have a lot of settings that you can adjust, but some of them wil
 
 **SD Card Unmount Time:** in order to save the image to the memory card the Kernel OS has to unmount it in software. So that the camera is able to save a new image as quickly as possible to the card we delay the re-mounting of the card. This setting adjusts the seconds after the image is saved that the camera re-mounts the card. We typically set a value longer than you expect the duration between triggers to be, but know that if it's been longer than this time since the last trigger the cameras will have a slight delay in capturing the new photo.  
 
-If the card is physically removed from the camera while the memory is unmounted, your computer may warn you that there are issues with the card. This typically doesn't affect the stored images, unless the camera was trying to save an image when the card was ejected.
+If the card is physically removed from the camera while the memory is unmounted, or you send it into Transfer mode, your computer may warn you that there are issues with the card. This typically doesn't affect the stored images, unless the camera was trying to save an image when the card was ejected.
 
 **Video Delay Time:** this is the time after the last trigger that the live video feed will come back on. This is also set to a duration longer than you are expecting to have between triggering to ensure that the cameras respond as quickly to the trigger signal as possible.
