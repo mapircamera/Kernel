@@ -6,21 +6,33 @@ Each filter should come with a small, flat, black, metal key, which is used to i
 
 Unscrew the 4 screws holding the top yellow lens mount (the metal part the lens is threaded into).
 
+![](/assets/kernel_filter_1.JPG)
+
 Turn the lens mount over to reveal the filter.
 
+![](/assets/kernel_filter_2_w.JPG)
+
 Using the black key, use the two knubs on the end and insert them into the two holes on the filter's black, metal surface.
+
+![](/assets/kernel_filter_3_w.JPG)
 
 Turn the filter counter-clockwise to unthread it. Be very careful to apply a lite pressure to the filter such that the knubs stay in the holes and you don't accidentally scratch the filter with the key.
 
 Continue to unthread the filter until it is loose.
 
+![](/assets/kernel_filter_4_w.JPG)
+
 ##Installing a Kernel Filter
 
 Unscrew the 4 screws holding the top yellow lens mount (the metal part the lens is threaded into).
 
+![](/assets/kernel_filter_1.JPG)
+
 Turn the lens mount over to reveal the filter threading. If a filter is already installed, please see above on how to remove it.
 
 Place the filter onto the lens mount with the MAPIR logo and filter name towards you (so you can read the writing).
+
+![](/assets/kernel_filter_3_w.JPG)
 
 Using the black filter key, use the two knubs on the end and insert them into the two holes on the filter's black, metal surface.
 
