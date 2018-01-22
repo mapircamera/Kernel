@@ -5,3 +5,7 @@
 ##[How to Install a Kernel Filter](../content/kernel-filters/kernel-filter-installation.html)
 ##[Kernel Filter Transmission Data](../content/kernel-filters/filter-transmission-data.html)
 ##[Common Multi-spectral Indices](../content/kernel-filters/filter-index-list.html)
+
+
+![](/assets/kernel_filter_2_w.JPG)
+
