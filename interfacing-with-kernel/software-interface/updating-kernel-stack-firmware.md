@@ -18,7 +18,7 @@ Connect the camera to a 5 volt power source and it will be ready to load new fir
 
 1: Download the following package:
 
-[3.2MP Sony IMX265LLR-C](http://mapir.peauproductions.com/kernel_firmware/kernel_firmware.zip)
+[DOWNLOAD HERE](http://mapir.peauproductions.com/kernel_firmware/kernel_firmware.zip)
     
 2: Extract the contents of the downloaded folder.
 
