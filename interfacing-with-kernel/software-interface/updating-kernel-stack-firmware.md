@@ -16,10 +16,9 @@ Connect the camera to a 5 volt power source and it will be ready to load new fir
 
 ##Loading New Firmware Onto the Camera
 
-1: Download the following package that corresponds to the sensor you are using:
+1: Download the following package:
 
-[3.2MP Sony IMX265LLR-C](http://mapir.peauproductions.com/kernel_firmware/kernel_firmware_imx265.zip)  
-[14.4MP On Semiconductor MT9F002](http://mapir.peauproductions.com/kernel_firmware/kernel_firmware_mt9f.zip)
+[3.2MP Sony IMX265LLR-C](http://mapir.peauproductions.com/kernel_firmware/kernel_firmware.zip)
     
 2: Extract the contents of the downloaded folder.
 
