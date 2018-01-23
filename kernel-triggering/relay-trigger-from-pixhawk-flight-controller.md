@@ -24,3 +24,17 @@ On the Pixhawk we recommend setting up relay triggering. To do this we suggest t
 
 Sending a relay (voltage) spike of 3.3 volts for 2ms is the best way to trigger the Kernel camera. The camera has less chance to miss a trigger because it's looking for any voltage spike for at least 2ms duration.
 
+Using Mission Planner (or similar software), make the following setting changes:
+
+Under Config/Tuning > Full Parameter List
+
+###CAM_FEEDBACK_PIN = 53
+###CAM_FEEDBACK_POL = 1
+###CAM_RELAY_ON = 1
+###CAM_SERVO_OFF = 1000
+###CAM_SERVO_ON = 2000
+###CAM_TRIGG_TIME = 0.002
+###CAM_TRIGG_TYPE = 1
+###CH7_OPT = 9
+###RELAY_DEFAULT = 0
+###RELAY_PIN = 54
