@@ -27,7 +27,7 @@ Sending a relay (voltage) spike of 3.3 volts for 2ms is the best way to trigger 
 
 ##Using Mission Planner (or similar software), make the following setting changes:
 
-##Under Config/Tuning > Full Parameter List
+##Under: Config/Tuning > Full Parameter List
 
 ####CAM_FEEDBACK_PIN = 53
 ####CAM_FEEDBACK_POL = 1
