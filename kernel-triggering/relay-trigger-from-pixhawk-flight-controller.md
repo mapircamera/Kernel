@@ -13,6 +13,7 @@ On the Pixhawk we recommend setting up relay triggering. To do this we suggest t
 ![](/assets/pixhawk2.jpg)
 
 ###Example on Pixhawk2.1:
+Note that on the Pixhawk, there are 3 pin rails, labeled as "-" = ground, "+" = power, "S" = signal. You want to connect the Kernel PWM pins to the S signal pins.
 
 ####Purple Wire = PWM_IN
 ####Green Wire = PWM_OUT
