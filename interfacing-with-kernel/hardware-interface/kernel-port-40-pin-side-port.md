@@ -30,3 +30,4 @@ The Kernel port is the main interface between the camera module and the link boa
 | PWM | PWM4\_IN | 39 | 40 | GND | Power |
 
 
+![](/assets/kernel_port_plug_lbl_c_9ce75ee3-b64c-4984-9548-5b1666dc0508.png)

@@ -13,3 +13,4 @@ The 6-pin PWM/UART/DAC port allows you to interface with UART components, provid
 |    5     | PWM3_IN             | IN           | PWM|
 |    6     | GND                 | -            | Ground |
 
+![](/assets/kernel_side_plugs_bottom_lbl2.png)

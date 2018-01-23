@@ -10,3 +10,6 @@ The UAVCAN port is used to add telemetry data to the images as they are captured
 | 2        |CAN1_H   | UAVCAN     | 
 | 3        |CAN1_L   | UAVCAN      |
 | 4        |GND   | GROUND     |  
+
+
+![](/assets/kernel_side_plugs_bottom_lbl2.png)
