@@ -26,8 +26,8 @@ The Kernel port is the main interface between the camera module and the link boa
 | Power | VCC3V3 | 31 | 32 | OUT\_TMDS\_D1\_P | HDMI |
 | Analog Video Out | DAC1 | 33 | 34 | GND | Power |
 | Power | GND | 35 | 36 | OUT\_TMDS\_D2\_N | HDMI |
-| PWM | PWM3\_OUT | 37 | 38 | OUT\_TMDS\_D2\_P | HDMI |
-| PWM | PWM4\_IN | 39 | 40 | GND | Power |
+| PWM | PWM3\_IN | 37 | 38 | OUT\_TMDS\_D2\_P | HDMI |
+| PWM | PWM4\_OUT | 39 | 40 | GND | Power |
 
 
 ![](/assets/kernel_port_plug_lbl_c_9ce75ee3-b64c-4984-9548-5b1666dc0508.png)
