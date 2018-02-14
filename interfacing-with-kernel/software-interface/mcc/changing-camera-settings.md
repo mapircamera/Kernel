@@ -2,11 +2,7 @@
 
 ![](/assets/kernel_settings.png)
 
-#### The Basics
-Any setting you want to change, simply select the camera you want to change setting for, and then modify the other fields and they will be saved automatically.
-
-
-
+To adjust a camera's settings, simply select the camera from the top drop-down and then adjust the setting fields within the red box labeled above. As you make changes they are saved to the camera automatically.
 
 ##[Exposure Mode](../exposure-mode.html)
 
