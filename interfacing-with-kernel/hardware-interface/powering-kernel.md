@@ -1,7 +1,7 @@
 # Powering Kernel Camera Modules & Arrays
 
-Each Kernel camera module requires a measured peak 790mA of power at 5VDC.
-Please see below for the total power requirements based on the number of cameras in your array.
+Each Kernel camera module requires a measured peak 790mA of power at 5VDC. When in doubt, please provide 5V1A **for each Kernel you are using**.
+Please see below for the typical total power requirements based on the number of cameras in your array.
 
 | Number of Cameras | Required Power \(IDLE\) | Required Power \(PEAK\) |
 | --- | --- | --- | --- |
