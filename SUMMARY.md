@@ -14,18 +14,17 @@
     * [MCC: MAPIR Camera Control Application](interfacing-with-kernel/software-interface/mcc.md)
       * [Installation](interfacing-with-kernel/software-interface/mcc/installation.md)
       * [Connecting to Kernel](interfacing-with-kernel/software-interface/mcc/connecting-to-kernel.md)
+        * Auto Exposure Settings
       * [Changing Camera Settings](interfacing-with-kernel/software-interface/mcc/changing-camera-settings.md)
         * [Exposure Mode](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/exposure-mode.md)
-        * [Shutter Speed and ISO](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/shutter-speed-and-iso.md)
+        * Auto Exposure Settings
+        * Manual Exposure Settings
         * [Video Output](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/video-output.md)
-        * [Setting Real Time Clock](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/setting-real-time-clock.md)
-        * [Changing CAN setings](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/changing-can-setings.md)
+        * [Set Camera Time](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/setting-real-time-clock.md)
+        * [Adjust CAN Settings](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/changing-can-setings.md)
         * Enabling capture beep indicator
         * External Trigger Settings
-        * Adjusting Media Folder Size
-        * Photo Formats \(Expanded\)
-        * 3-Letter Identifier \(Camera Name\)
-        * Restoring Factory Settings
+        * Manual Exposure Settings
       * [Capturing Images](interfacing-with-kernel/software-interface/mcc/capturing-images.md)
         * [Capture Modes](interfacing-with-kernel/software-interface/mcc/capturing-images/capture-modes.md)
         * [Photo Formats](interfacing-with-kernel/software-interface/mcc/capturing-images/photo-formats.md)
