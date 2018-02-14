@@ -16,7 +16,7 @@
       * [Connecting to Kernel](interfacing-with-kernel/software-interface/mcc/connecting-to-kernel.md)
       * [Changing Camera Settings](interfacing-with-kernel/software-interface/mcc/changing-camera-settings.md)
         * [Exposure Mode](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/exposure-mode.md)
-        * Auto Exposure Settings
+        * [Auto Exposure Settings](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/auto-exposure-settings.md)
         * Manual Exposure Settings
         * [Set Camera Time](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/setting-real-time-clock.md)
         * [Adjust CAN Settings](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/changing-can-setings.md)

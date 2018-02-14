@@ -8,34 +8,34 @@ Any setting you want to change, simply select the camera you want to change sett
 
 
 
-##[Exposure Mode](../)
+##[Exposure Mode](../exposure-mode.html)
 
-##[Auto Exposure Settings](../)
+##[Auto Exposure Settings](../auto-exposure-settings.html)
 
-##[Manual Exposure Settings](../)
+##[Manual Exposure Settings](../manual-exposure-settings.html)
 
-##[Setting Camera Time](../)
+##[Setting Camera Time](../set-camera-time.html)
 
-##[Adjust CAN Settings](../)
+##[Adjust CAN Settings](../adjust-can-settings.html)
 
-##[Video Output](../)
+##[Video Output](../video-output.html)
 
-##[Apply RGB White Balance](../)
+##[Apply RGB White Balance](../apply-rgb-white-balance.html)
 
-##[Enable Beeps](../)
+##[Enable Beeps](../enable-beeps.html)
 
-##[External Trigger is PWM](../)
+##[External Trigger is PWM](../external-trigger-is-pwm.html)
 
-##[External Trigger Mode](../)
+##[External Trigger Mode](../external-trigger-mode.html)
 
-##[Media Per Folder](../)
+##[Media Per Folder](../media-per-folder.html)
 
-##[Capture Mode](../)
+##[Capture Mode](../capture-mode.html)
 
-##[Set Interval](../)
+##[Set Interval](../set-interval.html)
 
-##[Filter Drop-Down](../)
+##[Filter Drop-Down](../filter-drop-down.html)
 
-##[Lens Drop-Down](../)
+##[Lens Drop-Down](../lens-drop-down.html)
 
-##[Advanced Options](../)
+##[Advanced Options](../advanced-options.html)
