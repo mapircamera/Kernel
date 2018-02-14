@@ -4,7 +4,7 @@ Download the package for your OS below, extract, and run the MAPIR\_Camera\_Cont
 
 ### Windows
 
-[Download](http://www.docs.peauproductions.com/MCC/MAPIR_Camera_Control_WINDOWS.zip)
+[Download HERE](http://www.docs.peauproductions.com/MCC/MAPIR_Camera_Control_WINDOWS.zip)
 
 
 
