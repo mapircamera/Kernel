@@ -11,4 +11,3 @@
 
 Once connected you will see the highlighted "Camera:" drop-down populate with the camera name. As well as some information about the camera in the panel on the right. 
 
-![](/assets/ConnectSnip.PNG)

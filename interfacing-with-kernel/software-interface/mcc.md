@@ -15,4 +15,4 @@ Our MAPIR Camera Control (MCC) software is what you'll use to interact with Kern
 ##[Transferring Media Via USB](../interfacing-with-kernel/software-interface/mcc/transferring-media.html)
 
 
-![](/assets/KernelTabSnip.PNG)
+![](/assets/blank_kernel_tab.PNG)
