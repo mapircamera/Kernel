@@ -24,7 +24,6 @@
         * [Adjust CAN Settings](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/changing-can-setings.md)
         * Enabling capture beep indicator
         * External Trigger Settings
-        * Manual Exposure Settings
       * [Capturing Images](interfacing-with-kernel/software-interface/mcc/capturing-images.md)
         * [Capture Modes](interfacing-with-kernel/software-interface/mcc/capturing-images/capture-modes.md)
         * [Photo Formats](interfacing-with-kernel/software-interface/mcc/capturing-images/photo-formats.md)
