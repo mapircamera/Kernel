@@ -14,18 +14,28 @@ Any setting you want to change, simply select the camera you want to change sett
 
 ##[Manual Exposure Settings](../)
 
-##[Video Output](../)
-
 ##[Setting Camera Time](../)
 
-##[Exposure Mode](../)
+##[Adjust CAN Settings](../)
 
-##[Exposure Mode](../)
+##[Video Output](../)
 
-##[Exposure Mode](../)
+##[Apply RGB White Balance](../)
 
-##[Exposure Mode](../)
+##[Enable Beeps](../)
 
-##[Exposure Mode](../)
+##[External Trigger is PWM](../)
 
-##[Exposure Mode](../)
+##[External Trigger Mode](../)
+
+##[Media Per Folder](../)
+
+##[Capture Mode](../)
+
+##[Set Interval](../)
+
+##[Filter Drop-Down](../)
+
+##[Lens Drop-Down](../)
+
+##[Advanced Options](../)

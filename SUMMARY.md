@@ -14,7 +14,6 @@
     * [MCC: MAPIR Camera Control Application](interfacing-with-kernel/software-interface/mcc.md)
       * [Installation](interfacing-with-kernel/software-interface/mcc/installation.md)
       * [Connecting to Kernel](interfacing-with-kernel/software-interface/mcc/connecting-to-kernel.md)
-        * Auto Exposure Settings
       * [Changing Camera Settings](interfacing-with-kernel/software-interface/mcc/changing-camera-settings.md)
         * [Exposure Mode](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/exposure-mode.md)
         * Auto Exposure Settings
