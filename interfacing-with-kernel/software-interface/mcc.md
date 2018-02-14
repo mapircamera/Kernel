@@ -4,12 +4,12 @@ Our MAPIR Camera Control software is what you'll use to interact with Kernel, as
 
 ![](/assets/KernelTabSnip.PNG)
 
-##[Connecting to Kernel](../content/interfacing-with-kernel/software-interface/mcc/connecting-to-kernel.html)
+##[Connecting to Kernel](../interfacing-with-kernel/software-interface/mcc/connecting-to-kernel.html)
 
-##[Capturing Images](../content/interfacing-with-kernel/software-interface/mcc/capturing-images.html)
+##[Capturing Images](../interfacing-with-kernel/software-interface/mcc/capturing-images.html)
 
-##[Capturing Video](../content/interfacing-with-kernel/software-interface/mcc/capturing-video.html)
+##[Capturing Video](../interfacing-with-kernel/software-interface/mcc/capturing-video.html)
 
-##[Changing Camera Settings](../content/interfacing-with-kernel/software-interface/mcc/changing-camera-settings.html)
+##[Changing Camera Settings](../interfacing-with-kernel/software-interface/mcc/changing-camera-settings.html)
 
-##[Transferring Media](../content/interfacing-with-kernel/software-interface/mcc/transferring-media.html)
+##[Transferring Media](../interfacing-with-kernel/software-interface/mcc/transferring-media.html)
