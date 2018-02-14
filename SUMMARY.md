@@ -23,11 +23,8 @@
         * [Adjust CAN Settings](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/changing-can-setings.md)
         * [Video Output](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/video-output.md)
         * Apply RGB WB
-        * External Trigger is PWM
-        * [External Trigger Mode](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/external-trigger-settings.md)
-        * Media Per Folder
-        * Apply RGB WB
-        * Media Per Folder
+        * [Enable Beeps](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/media-per-folder.md)
+        * [Media Per Folder](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/media-per-folder.md)
       * [Capturing Images](interfacing-with-kernel/software-interface/mcc/capturing-images.md)
         * [Capture Modes](interfacing-with-kernel/software-interface/mcc/capturing-images/capture-modes.md)
         * [Photo Formats](interfacing-with-kernel/software-interface/mcc/capturing-images/photo-formats.md)
