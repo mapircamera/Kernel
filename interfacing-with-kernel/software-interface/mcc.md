@@ -4,6 +4,10 @@ Our MAPIR Camera Control software is what you'll use to interact with Kernel, as
 
 ![](/assets/KernelTabSnip.PNG)
 
+CHAPTERS:
+
+##[Installing MAPIR Camera Control](../interfacing-with-kernel/software-interface/mcc/installation.html)
+
 ##[Connecting to Kernel](../interfacing-with-kernel/software-interface/mcc/connecting-to-kernel.html)
 
 ##[Capturing Images](../interfacing-with-kernel/software-interface/mcc/capturing-images.html)
@@ -12,4 +16,4 @@ Our MAPIR Camera Control software is what you'll use to interact with Kernel, as
 
 ##[Changing Camera Settings](../interfacing-with-kernel/software-interface/mcc/changing-camera-settings.html)
 
-##[Transferring Media](../interfacing-with-kernel/software-interface/mcc/transferring-media.html)
+##[Transferring Media Via USB](../interfacing-with-kernel/software-interface/mcc/transferring-media.html)
