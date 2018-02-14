@@ -24,7 +24,14 @@
         * [Video Output](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/video-output.md)
         * Apply RGB WB
         * [Enable Beeps](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/media-per-folder.md)
-        * [Media Per Folder](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/media-per-folder.md)
+        * [External Trigger is PWM](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/external-trigger-is-pwm.md)
+        * External Trigger Mode
+        * Media Per Folder
+        * Capture Mode
+        * Set Interval
+        * Filter Drop-Down
+        * Lens Drop-Down
+        * Advanced Options
       * [Capturing Images](interfacing-with-kernel/software-interface/mcc/capturing-images.md)
         * [Capture Modes](interfacing-with-kernel/software-interface/mcc/capturing-images/capture-modes.md)
         * [Photo Formats](interfacing-with-kernel/software-interface/mcc/capturing-images/photo-formats.md)
