@@ -19,11 +19,15 @@
         * [Exposure Mode](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/exposure-mode.md)
         * Auto Exposure Settings
         * Manual Exposure Settings
-        * [Video Output](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/video-output.md)
         * [Set Camera Time](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/setting-real-time-clock.md)
         * [Adjust CAN Settings](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/changing-can-setings.md)
-        * Enabling capture beep indicator
-        * External Trigger Settings
+        * [Video Output](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/video-output.md)
+        * Apply RGB WB
+        * External Trigger is PWM
+        * [External Trigger Mode](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/external-trigger-settings.md)
+        * Media Per Folder
+        * Apply RGB WB
+        * Media Per Folder
       * [Capturing Images](interfacing-with-kernel/software-interface/mcc/capturing-images.md)
         * [Capture Modes](interfacing-with-kernel/software-interface/mcc/capturing-images/capture-modes.md)
         * [Photo Formats](interfacing-with-kernel/software-interface/mcc/capturing-images/photo-formats.md)
