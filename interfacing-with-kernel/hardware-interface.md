@@ -7,6 +7,3 @@
 ##[UAVCAN Port - 4 pin Side Port](../interfacing-with-kernel/hardware-interface/uavcan-port.html)
 
 ##[UART/DAC/PWM Port - 6 pin Side Port](../interfacing-with-kernel/hardware-interface/gps-port.html)
-
-
-yy
