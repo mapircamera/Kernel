@@ -1,6 +1,8 @@
 #MCC: MAPIR Camera Control Application
+
+Our MAPIR Camera Control software is what you'll use to interact with Kernel, as well as process images. In the following sections, we'll go over how to use the interface we've designed and also show the code behind the scenes for those that need lighter weight scripts or want to control our cameras from their own application.
+
 ![](/assets/KernelTabSnip.PNG)
-The image above is from our Kernel Control Application. In the following sections, we'll go over how to use the interface we've designed and also show the code behind the scenes for those that need lighter weight scripts or want to control our cameras from their own application.
 
 ##[Connecting to Kernel](../content/interfacing-with-kernel/software-interface/mcc/connecting-to-kernel.html)
 

@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [Kernel Triggering](kernel-triggering.md)
+  * [Relay Trigger From Pixhawk Flight Controller](kernel-triggering/relay-trigger-from-pixhawk-flight-controller.md)
 * [Interfacing with Kernel](interfacing-with-kernel.md)
   * [Hardware Interface](interfacing-with-kernel/hardware-interface.md)
     * [Kernel Port - 40 pin Side Port](interfacing-with-kernel/hardware-interface/kernel-port-40-pin-side-port.md)
@@ -36,8 +38,6 @@
     * [UAVCAN](interfacing-with-kernel/software-interface/uavcan.md)
     * [Updating Kernel Firmware](interfacing-with-kernel/software-interface/updating-kernel-stack-firmware.md)
     * [Licenses](interfacing-with-kernel/software-interface/licenses.md)
-* [Kernel Triggering](kernel-triggering.md)
-  * [Relay Trigger From Pixhawk Flight Controller](kernel-triggering/relay-trigger-from-pixhawk-flight-controller.md)
 * [Kernel Filters](kernel-filters.md)
   * [Kernel Filter Installation](kernel-filters/kernel-filter-installation.md)
   * [Filter Transmission Data](kernel-filters/filter-transmission-data.md)
