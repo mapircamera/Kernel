@@ -26,11 +26,11 @@
         * [External Trigger is PWM](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/external-trigger-is-pwm.md)
         * [External Trigger Mode](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/external-trigger-mode.md)
         * [Media Per Folder](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/media-per-folder.md)
-        * Capture Mode
-        * Set Interval
-        * Filter Drop-Down
-        * Lens Drop-Down
-        * Advanced Options
+        * [Capture Mode](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/capture-mode.md)
+        * [Set Interval](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/set-interval.md)
+        * [Filter Drop-Down](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/filter-drop-down.md)
+        * [Lens Drop-Down](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/lens-drop-down.md)
+        * [Advanced Options](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/advanced-options.md)
       * [Capturing Images](interfacing-with-kernel/software-interface/mcc/capturing-images.md)
         * [Capture Modes](interfacing-with-kernel/software-interface/mcc/capturing-images/capture-modes.md)
         * [Photo Formats](interfacing-with-kernel/software-interface/mcc/capturing-images/photo-formats.md)
