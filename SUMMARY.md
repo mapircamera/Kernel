@@ -21,7 +21,7 @@
         * [Set Camera Time](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/setting-real-time-clock.md)
         * [Adjust CAN Settings](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/changing-can-setings.md)
         * [Video Output](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/video-output.md)
-        * Apply RGB WB
+        * [Apply RGB WB](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/apply-rgb-wb.md)
         * [Enable Beeps](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/media-per-folder.md)
         * [External Trigger is PWM](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/external-trigger-is-pwm.md)
         * External Trigger Mode

@@ -10,9 +10,9 @@ To adjust a camera's settings, simply select the camera from the top drop-down a
 
 ##[Manual Exposure Settings](../mcc/changing-camera-settings/manual-exposure-settings.html)
 
-##[Setting Camera Time](../mcc/changing-camera-settings/set-camera-time.html)
+##[Setting Camera Time](../mcc/changing-camera-settings/setting-real-time-clock.html)
 
-##[Adjust CAN Settings](../mcc/changing-camera-settings/adjust-can-settings.html)
+##[Adjust CAN Settings](../mcc/changing-camera-settings/changing-can-setings.html)
 
 ##[Video Output](../mcc/changing-camera-settings/video-output.html)
 
