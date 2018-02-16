@@ -24,7 +24,7 @@
         * [Apply RGB WB](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/apply-rgb-wb.md)
         * [Enable Beeps](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/enable-beeps.md)
         * [External Trigger is PWM](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/external-trigger-is-pwm.md)
-        * External Trigger Mode
+        * [External Trigger Mode](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/external-trigger-mode.md)
         * [Media Per Folder](interfacing-with-kernel/software-interface/mcc/changing-camera-settings/media-per-folder.md)
         * Capture Mode
         * Set Interval
