@@ -16,7 +16,7 @@ To adjust a camera's settings, simply select the camera from the top drop-down a
 
 ##[Video Output](../mcc/changing-camera-settings/video-output.html)
 
-##[Apply RGB White Balance](../mcc/changing-camera-settings/apply-rgb-white-balance.html)
+##[Apply RGB White Balance](../mcc/changing-camera-settings/apply-rgb-wb.html)
 
 ##[Enable Beeps](../mcc/changing-camera-settings/enable-beeps.html)
 
