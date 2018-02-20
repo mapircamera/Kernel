@@ -2,6 +2,8 @@
 
 Manual exposure allows you to lock in a particular exposure setting.
 
+![](/assets/manual_exp.PNG)
+
 ##Shutter Speed:
 
 Shutter speed (or exposure time) represents how long the sensor will capture light. The smaller the number in the fraction (i.e. the 250 in 1/250) the longer or slower the shutter will be (stay open). The longer it stays open the more light gets captured by the sensor.
