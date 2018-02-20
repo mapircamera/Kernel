@@ -16,8 +16,8 @@ If you are using the Kernel cameras from an aerial platform (UAS/drone) and with
 
 **In order to reduce the chances that the captured pixels will be over-exposed we recommend the following settings:**
 
-**3.2MP Sensors (Filters <700nm): 768**
-**3.2MP Sensors (Filters >700nm): 512**
+**3.2MP Sensors (Filters Lower Than 700nm): 768**
+**3.2MP Sensors (Filters Higher Than 700nm): 512**
 **14MP Sensors: 512**
 
 
