@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Capturing Media](kernel-triggering.md)
   * [Relay Trigger From Pixhawk Flight Controller](kernel-triggering/relay-trigger-from-pixhawk-flight-controller.md)
-* [Interfacing with Kernel](interfacing-with-kernel.md)
+* [Connecting to Kernel](interfacing-with-kernel.md)
   * [Hardware Interface](interfacing-with-kernel/hardware-interface.md)
     * [Kernel Port - 40 pin Side Port](interfacing-with-kernel/hardware-interface/kernel-port-40-pin-side-port.md)
     * [Expansion Port - 60 pin Bottom Port](interfacing-with-kernel/hardware-interface/expansion-port-60-pin-bottom-port.md)

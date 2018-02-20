@@ -8,7 +8,7 @@
 
 ###[Capturing Media](../content/kernel-triggering.html)
 
-###[Interfacing with Kernel](../content/interfacing-with-kernel.html)
+###[Connecting to Kernel](../content/interfacing-with-kernel.html)
 
 ###[Kernel Filters](../content/kernel-filters.html)
 
