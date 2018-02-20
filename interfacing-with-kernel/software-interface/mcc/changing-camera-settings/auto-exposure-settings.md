@@ -4,9 +4,15 @@ Auto exposure will sample the exposure of the last 3 frames and adjust the expos
 
 ![](/assets/auto_settings.PNG)
 
-##EV-Control Mode
+##EV-Control Mode (Recommended)
 
-EV-Control is the recommended auto exposure algorithm to use as it is typically more accurate.
+The EV-Control algorithm works by trying to achieve a target overall brightness setpoint, which is usually a medium gray level. It measures the setpoint by calculating the average gray level in the image (for the entire image). 
+
+This EV-based iterative approximation uses the formula:
+```
+EV(n+1) = EVn + log2(BLn) - log2(BL_desired)
+```
+Where BL_desired is the target brightness level (setpoint) and EV is the actual reflected light intensity value of the scene as used in photography (EV ~ log2(F^2/t)), where F is the aperture f-stop and t is the exposure time. The algorithm deducts the EV and finds the optimum shutter time at the minimum gain. If the shutter is too slow (below Max Shutter Speed), it will increase the gain and speed up the shutter to maintain exposure while achieving the shutter speed threshold. 
 
 ####Setpoint: 
 
@@ -43,15 +49,37 @@ Match the F-stop value as close as possible to the f-stop (aperture) of the lens
 
 Having a high ISO means more image noise, which is not preferred. So only set this value as high as necessary.
 
-The defaults we typically se
-t for ISO:
+The defaults we typically set for ISO:
 
 3.2MP Sensors: **400**
 14MP Sensors: **800**
 
 ##P-Controller Mode
+![](/assets/p-control.PNG)
 
+The [proportional control algorithm](https://en.wikipedia.org/wiki/Proportional_control) controls the level of mean brightness level of a captured frame. The mean brightness level calculation is done on the FPGA chip in real-time. The averaging is done on the entire frame, with no possibility of adjusting the area. The P controller is constantly adjusting sensor exposure time (on each frame). The sensor gain is only changed if the sensor exposure time limit has been reached. The controller is trying to keep sensor gain as low as possible in order to reduce sensor noise. 
 
+Before the P controller, there is a hysteresis and moving average filter block (see diagram above), it is used to reduce the oscillations of the system, when the error signal is very small (error signal = set-point – signal from FPGA). The error signal is filtered with moving average filter with depth of 3. If the error signal is small no new calculation of sensor exposure time and gain is made, the previous values are applied instead. The P controller input signal is a mean brightness level error signal. After the P controller, there is an output saturation block, it is used to limit how high the output signal from the P controller can be. The P controller output signal is an exposure time in nanoseconds.
+
+The feedback loop will produce the following result for the next frame, depending on the current frame results:
+```
+P_output(t+1) = AE_Gain x (AE_setpoint - FrameMeanBrightness(t))
+```
+```
+FrameMeanBrightness(t+1) = Sensor_Gain(t) x (exposure_time(t) + P_output(t+1))
+```
+####Setpoint: 
+
+This value sets the mean brightness level (gray) that the camera will attempt to capture.
+
+**In order to reduce the chances that the pixels will be over-exposed during full sun capture we recommend the following settings:**
+
+3.2MP Sensors (Filters Lower Than 700nm): **768**
+3.2MP Sensors (Filters Higher Than 700nm): **512**
+14MP Sensors: **512**
 
 ####P Controller Gain:
 
+Gain values represent how quickly the exposure will be adjusted. We recommend setting as low a value as possible.
+
+#####All options besides setpoint and p-controller gain do not affect exposure if the P-Controller option is selected.
