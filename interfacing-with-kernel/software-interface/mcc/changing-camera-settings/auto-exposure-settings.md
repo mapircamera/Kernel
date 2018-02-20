@@ -22,9 +22,9 @@ If you are using the Kernel cameras from an aerial platform (UAS/drone) and with
 
 **In order to reduce the chances that the pixels will be over-exposed during full sun capture we recommend the following settings:**
 
-3.2MP Sensors (Filters Lower Than 700nm): **768**
-3.2MP Sensors (Filters Higher Than 700nm): **512**
-14MP Sensors: **512**
+3.2MP Sensors (Filters Lower Than 700nm): **768**  
+3.2MP Sensors (Filters Higher Than 700nm): **512**  
+14MP Sensors: **512**  
 
 ####Min Shutter Speed:
 
@@ -38,14 +38,14 @@ By setting the max shutter speed value you are instructing the algorithm that yo
 
 **We recommend the following settings depending on the sensor being used (you can adjust as desired):**
 
-3.2MP Sensors: **1/250**
-14MP Sensors: **1/500**
+3.2MP Sensors: **1/250**  
+14MP Sensors: **1/500**  
 
 #####Note: Due to the way the 14.4MP Kernel sensor is triggered to insure synced exposures in an array you may experience large portions of the captured media having over-exposed pixels if the shutter speed is not set to 1/500s or faster (i.e. 1/1000s).
 
 ####F Stop:
 
-Match the F-stop value as close as possible to the f-stop (aperture) of the lens you are using. More information [here](../content/kernel-lenses.html).
+Match the F-stop value as close as possible to the f-stop (aperture) of the lens you are using. More information [here](https://mapircamera.gitbooks.io/kernel-development-guide/content/kernel-lenses.html).
 
 ####Max ISO:
 
@@ -53,8 +53,8 @@ Having a high ISO means more image noise, which is not preferred. So only set th
 
 The defaults we typically set for ISO:
 
-3.2MP Sensors: **400**
-14MP Sensors: **800**
+3.2MP Sensors: **400**  
+14MP Sensors: **800**  
 
 ##P-Controller Mode
 ![](/assets/p-control.PNG)
