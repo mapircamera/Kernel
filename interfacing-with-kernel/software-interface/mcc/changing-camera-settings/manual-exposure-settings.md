@@ -12,8 +12,8 @@ If the camera is moving quickly over its subject matter there is a limit to how 
 
 **We recommend the following settings (or faster/higher) depending on the sensor being used (you can adjust as desired):**
 
-3.2MP Sensors: **1/250**
-14MP Sensors: **1/500**
+3.2MP Sensors: **1/250**  
+14MP Sensors: **1/500**  
 
 #####Note: Due to the way the 14.4MP Kernel sensor is triggered to insure synced exposures in an array you may experience large portions of the captured media having over-exposed pixels if the shutter speed is not set to 1/500s or faster (i.e. 1/1000s).
 
