@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Kernel Triggering](kernel-triggering.md)
+* [Capturing Media](kernel-triggering.md)
   * [Relay Trigger From Pixhawk Flight Controller](kernel-triggering/relay-trigger-from-pixhawk-flight-controller.md)
 * [Interfacing with Kernel](interfacing-with-kernel.md)
   * [Hardware Interface](interfacing-with-kernel/hardware-interface.md)
@@ -50,7 +50,7 @@
 * [Kernel Sensors](kernel-sensors.md)
   * [Sensor Rotation](kernel-sensors/sensor-rotation.md)
 * [Kernel Lenses](kernel-lenses.md)
-* [Kernel Link Boards](kernel-link-boards.md)
+* [Kernel Array Link Boards](kernel-link-boards.md)
 * [Kernel GPS \(Zubax GNSS 2\)](kernel-gps-zubax-gnss-2.md)
 * [Downloads \(3D Models / 2D Drawings\)](downloads.md)
   * [3D Kernel Models](downloads/3d-kernel-models.md)
