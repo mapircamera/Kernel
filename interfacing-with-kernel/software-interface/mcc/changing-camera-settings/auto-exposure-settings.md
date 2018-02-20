@@ -76,9 +76,9 @@ This value sets the mean brightness level (gray) that the camera will attempt to
 
 **In order to reduce the chances that the pixels will be over-exposed during full sun capture we recommend the following settings:**
 
-3.2MP Sensors (Filters Lower Than 700nm): **768**
-3.2MP Sensors (Filters Higher Than 700nm): **512**
-14MP Sensors: **512**
+3.2MP Sensors (Filters Lower Than 700nm): **768**  
+3.2MP Sensors (Filters Higher Than 700nm): **512**  
+14MP Sensors: **512**  
 
 ####P Controller Gain:
 
