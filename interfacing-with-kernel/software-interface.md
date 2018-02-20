@@ -1,4 +1,8 @@
-#Software Interface Table of Contents
+#Software Interface
+
+####This section details how to communicate with Kernel via software.
+
+##Table of Contents
 
 ##[MCC: MAPIR Camera Control Application](../interfacing-with-kernel/software-interface/mcc.html)
 

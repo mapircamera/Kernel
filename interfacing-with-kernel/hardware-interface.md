@@ -1,4 +1,8 @@
-#Hardware Interface Table of Contents
+#Hardware Interface
+
+####This section details the hardware connections on each Kernel camera.
+
+##Table of Contents
 
 ##[Kernel Port - 40 pin Side Port](../interfacing-with-kernel/hardware-interface/kernel-port-40-pin-side-port.html)
 
@@ -7,3 +11,5 @@
 ##[UAVCAN Port - 4 pin Side Port](../interfacing-with-kernel/hardware-interface/uavcan-port.html)
 
 ##[UART/DAC/PWM Port - 6 pin Side Port](../interfacing-with-kernel/hardware-interface/gps-port.html)
+
+##[Kernel Power Requirments](../interfacing-with-kernel/hardware-interface/powering-kernel.html)
