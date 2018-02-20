@@ -41,6 +41,8 @@ By setting the max shutter speed value you are instructing the algorithm that yo
 3.2MP Sensors: **1/250**
 14MP Sensors: **1/500**
 
+#####Note: Due to the way the 14.4MP Kernel sensor is triggered to insure synced exposures in an array you may experience large portions of the captured media having over-exposed pixels if the shutter speed is not set to 1/500s or faster (i.e. 1/1000s).
+
 ####F Stop:
 
 Match the F-stop value as close as possible to the f-stop (aperture) of the lens you are using. More information [here](../content/kernel-lenses.html).
