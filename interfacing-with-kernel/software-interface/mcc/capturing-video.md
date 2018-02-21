@@ -1,2 +1,4 @@
 ##Capturing Video
-![](/assets/VideoSnip.PNG)
+![](/assets/capture_video.png)
+
+
