@@ -34,7 +34,6 @@
       * [Capturing Images](interfacing-with-kernel/software-interface/mcc/capturing-images.md)
       * [Capturing Video](interfacing-with-kernel/software-interface/mcc/capturing-video.md)
       * [Transferring Media](interfacing-with-kernel/software-interface/mcc/transferring-media.md)
-        * [Mounting And Un-Mounting Cameras](interfacing-with-kernel/software-interface/mcc/transferring-media/mounting-and-un-mounting-cameras.md)
     * [UAVCAN](interfacing-with-kernel/software-interface/uavcan.md)
     * [Updating Kernel Firmware](interfacing-with-kernel/software-interface/updating-kernel-stack-firmware.md)
     * [Licenses](interfacing-with-kernel/software-interface/licenses.md)
