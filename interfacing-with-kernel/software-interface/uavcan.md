@@ -18,17 +18,17 @@ You must use a termination resistor to terminate the bus.
 ![](/assets/can_chaining_non_redundant.png)
 
 ##Default Kernel UAVCAN Settings
-###Bitrate: 1000 kbit/s
-###Sample Point: 800 (80%)
-###CAN Fix Message: Both (Fix1 and Fix2)
-###Node ID: 16
+####Bitrate: 1000 kbit/s
+####Sample Point: 800 (80%)
+####CAN Fix Message: Both (Fix1 and Fix2)
+####Node ID: 16
 
 ##Flight Controller Settings (Pixhawk APM)
 
 Using Mission Planner (or similar program) configure the following parameters as follows:
 
-###BRD_CAN_BITRATE = 1000000
-###BRD_CAN_DEBUG = 0
-###BRD_CAN_ENABLE = 2
-###BRD_CAN_UC_EN = 1
-###BRD_CAN_UC_NODE = 10
+####BRD_CAN_BITRATE = 1000000
+####BRD_CAN_DEBUG = 0
+####BRD_CAN_ENABLE = 2
+####BRD_CAN_UC_EN = 1
+####BRD_CAN_UC_NODE = 10
