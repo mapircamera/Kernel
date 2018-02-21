@@ -4,14 +4,14 @@
 
 Transfer mode mounts the SD cards inside each Kernel camera to your computer so you can browse the contents.
 
-To enter Transfer mode, make sure you have clicked the Connect button and found all the connected cameras. Then click the "Start/Stop Transfer Mode" button. The cameras will go into Transfer mode one at a time. Their SD cards will begin showing up on your computer.
+To enter Transfer mode, make sure you have clicked the Connect button and found all the connected cameras (names should show up in the log). Then click the "Start/Stop Transfer Mode" button. The cameras will go into Transfer mode one at a time. Their SD cards will begin showing up on your computer.
 
 Once all the SD cards are mounted MCC will pop up a window:
 ![](/assets/trans_window.PNG)
 
-Checking the "Transfer Images" box will transfer the contents of the SD cards of all cameras to the "Output Folder" location.
-Checking the "Delete Original Images" box will delete the contents on the SD cards of all cameras after transferring is complete.
-Click the "Browse" button to choose the location to transfer the contents of the SD cards of all cameras to. A folder will be created per camera named after the camera's 3 character name.
+#####Checking the "Transfer Images" box will transfer the contents of the SD cards of all cameras to the "Output Folder" location.
+#####Checking the "Delete Original Images" box will delete the contents on the SD cards of all cameras AFTER transferring is complete.
+#####Click the "Browse" button to choose the location to transfer the contents of the SD cards of all cameras to. A folder will be created per camera named after the camera's 3 character name.
 
 If you want to manage the files on the camera's SD card yourself then you can simply close this window.
 
