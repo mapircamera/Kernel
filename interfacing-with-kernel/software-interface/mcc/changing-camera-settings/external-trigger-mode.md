@@ -12,7 +12,7 @@ This mode will capture images as quickly as possible until another signal is rec
 
 ##Interval
 
-This will capture a photo on a timer according to the [Interval Settings](../set-interval.html).
+This will capture a photo on a timer according to the [Interval Settings](../changing-camera-settings/set-interval.html).
 
 ##Video Recording
 
