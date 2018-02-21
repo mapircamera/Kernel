@@ -4,15 +4,15 @@ Our MAPIR Camera Control (MCC) software is what you will use to interact with Ke
 
 ##[Installing MAPIR Camera Control (MCC) Application](../installation.html)
 
-##[Connecting to Kernel Cameras Using MCC](../mcc/connecting-to-kernel.html)
+##[Connecting to Kernel Cameras Using MCC](../connecting-to-kernel.html)
 
-##[Changing Camera Settings From MCC](../mcc/changing-camera-settings.html)
+##[Changing Camera Settings From MCC](../changing-camera-settings.html)
 
-##[Capturing Images From MCC](../mcc/capturing-images.html)
+##[Capturing Images From MCC](../capturing-images.html)
 
-##[Capturing Video From MCC](../mcc/capturing-video.html)
+##[Capturing Video From MCC](../capturing-video.html)
 
-##[Transferring Media Via USB](../mcc/transferring-media.html)
+##[Transferring Media Via USB](../transferring-media.html)
 
 
 ![](/assets/blank_kernel_tab.PNG)
