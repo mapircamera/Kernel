@@ -4,7 +4,7 @@ Download the package for your OS below, extract, and run the MAPIR\_Camera\_Cont
 
 ### Windows
 
-[Download HERE](https://github.com/mapircamera/MAPIR_Camera_Control/blob/master/Packages/Windows/README.md)
+[DOWNLOAD HERE](https://github.com/mapircamera/MAPIR_Camera_Control/blob/master/Packages/Windows/README.md)
 
 
 
