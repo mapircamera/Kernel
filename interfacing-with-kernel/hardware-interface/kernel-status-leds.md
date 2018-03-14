@@ -4,11 +4,13 @@ Kernel has two RGB color changing LEDs on its front side. When looking at the fr
 
 | Left LED Color | Right LED Color | Status |
 | --- | --- | --- |
-| NONE | ORANGE | Booting |
-| GREEN | NONE | IDLE (SD CARD INSERTED) |
-| GREEN | RED | IDLE (SD CARD NOT INSERTED) |
+| NONE | ORANGE | BOOTING |
+| GREEN | NONE | SINGLE PHOTO MODE IDLE (SD CARD INSERTED) |
+| GREEN | RED | SINGLE PHOTO MODE IDLE (SD CARD NOT INSERTED) |
 | GREEN | BLUE | IMAGE CAPTURE |
-| GREEN | BLUE | IMAGE CAPTURE |
+| GREEN | ORANGE | IMAGE CAPTURE TOO FAST |
+| GREEN | GREEN | SINGLE PHOTO MODE IDLE (SD CARD UNMOUNTED) |
+
 
 
 
