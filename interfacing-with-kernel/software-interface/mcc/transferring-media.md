@@ -2,7 +2,7 @@
 
 ![](/assets/transfer_mode.png)
 
-Transfer mode mounts the SD cards inside each Kernel camera to your computer so you can browse the contents.
+Transfer mode mounts the SD cards inside each Kernel camera to your computer so you can browse the contents. At this point in time Transfer mode only works with 32GB or smaller capacity FAT32 formatted cards.
 
 To enter Transfer mode, make sure you have clicked the Connect button and found all the connected cameras (names should show up in the log). Then click the "Start/Stop Transfer Mode" button. The cameras will go into Transfer mode one at a time. Their SD cards will begin showing up on your computer.
 
