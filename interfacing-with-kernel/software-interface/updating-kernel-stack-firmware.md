@@ -1,6 +1,6 @@
 #Updating Kernel Camera Stack Firmware
 
-The Kernel camera stack is the 3 main circuit boards of the camera (not including the sensor board). The main camera may require periodic firmware updates to provide access to the newest features or performance improvements. Below are the instructions to update the camera firmware:
+The Kernel camera stack is the 3 main circuit boards of the camera (not including the sensor board). The main camera may require periodic firmware updates to provide access to the newest features or performance improvements. When updating each camera please remove the cameras from any array arrangement that uses the link boards. Below are the instructions to update the camera firmware:
 
 ##Powering the Camera On in Boot Mode
 
