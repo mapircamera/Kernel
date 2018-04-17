@@ -22,8 +22,8 @@ This index is an improvement on the NDVI formula by including the green light re
 
 Suggested Kernel Filters:  
 NIR = [F850](https://www.mapir.camera/collections/kernel-camera-filters/products/f850)  
-RED = [F650](https://www.mapir.camera/collections/kernel-camera-filters/products/f650)  
 GREEN = [F550](https://www.mapir.camera/collections/kernel-camera-filters/products/f550)
+BLUE = [F450](https://www.mapir.camera/collections/kernel-camera-filters/products/f450)
 
 ### Chlorophyll Vegetation Index \(CVI\)
 
@@ -141,7 +141,7 @@ RED = [F650](https://www.mapir.camera/collections/kernel-camera-filters/products
 
 \(1\) [https://www.researchgate.net/publication/225681715\_A\_broad-band\_leaf\_chlorophyll\_vegetation\_index\_at\_the\_canopy\_scale](https://www.researchgate.net/publication/225681715_A_broad-band_leaf_chlorophyll_vegetation_index_at_the_canopy_scale)
 
-\(2\) https://maxmax.com/endvi.htm
+\(2\) [https://maxmax.com/endvi.htm](https://maxmax.com/endvi.htm)
 
 _Please browse the sites below which refer to their own further references:_
 
