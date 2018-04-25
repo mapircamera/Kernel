@@ -4,8 +4,8 @@
 
 | **Kernel Sensor** | **Image Format**| **Configuration**    |**Frame-rate** |**Seconds Between Triggers** |
 |-----------------------|-----------------|-----------------|-----------------|
-| 3.2MP                | TIFF | Single Camera    | 2.00 fps    | 0.50 seconds|
-| 3.2MP                | TIFF | Array Camera    | 1.11 fps    | 0.90 seconds|
+| 3.2MP                | RAW | Single Camera    | 2.00 fps    | 0.50 seconds|
+| 3.2MP                | RAW | Array Camera    | 1.11 fps    | 0.90 seconds|
 | 14.4MP                | RAW | Single Camera    | 1.00 fps | 1.00 seconds|
 | 14.4MP                | RAW | Array Camera    | 0.33 fps| 3.00 seconds|
 
