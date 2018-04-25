@@ -7,7 +7,7 @@
 | 3.2MP                | TIFF | Single Camera    | 2.00 fps    | 0.50 seconds|
 | 3.2MP                | TIFF | Array Camera    | 1.11 fps    | 0.90 seconds|
 | 14.4MP                | RAW | Single Camera    | 1.00 fps | 1.00 seconds|
-| 14.4MP                | RAW | Array Camera    | 3.00 fps| 1.00 seconds|
+| 14.4MP                | RAW | Array Camera    | 0.33 fps| 3.00 seconds|
 
 The Kernel cameras can be used in two main configurations: **separate** or **in an array with the link boards**. How they are arranged may affect the rate at which they can be triggered. The SD card speed as well as some camera settings can also affect the trigger response.
 
