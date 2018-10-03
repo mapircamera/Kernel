@@ -2,6 +2,8 @@
 
 To adjust a camera's settings, simply select the camera from the top drop-down and then adjust the setting fields within the red box labeled below. As you make changes they are saved to the camera automatically. Click the following links to learn about each option.
 
+##[Default Settings](../mcc/changing-camera-settings/default-settings.html)
+
 ##[Exposure Mode](../mcc/changing-camera-settings/exposure-mode.html)
 
 ##[Auto Exposure Settings](../mcc/changing-camera-settings/auto-exposure-settings.html)

@@ -1,4 +1,4 @@
-Default Camera Settings
+# Default Camera Settings
 
 Here are the default values that we typically set on a new camera:
 
