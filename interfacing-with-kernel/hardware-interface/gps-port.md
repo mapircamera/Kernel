@@ -7,10 +7,16 @@ The 6-pin PWM/UART/DAC port on an individual Kernel allows you to interface with
 | Pin #    | Name                | Direction    | Description          |
 |----------|---------------------|--------------|----------------------|
 |    1     | VCC_SYS_5V          | OUT          | Power 5VDC               |
-|    2     | UART2_TXD           | OUT          | UART TX|
-|    3     | UART2_RXD           | IN           | UART RX|
+|    2     | UART2_TXD           | IN          | UART TX|
+|    3     | UART2_RXD           | OUT           | UART RX|
 |    4     | DAC1                | OUT          | Analog Video            |
 |    5     | PWM3_IN             | IN           | PWM|
 |    6     | GND                 | -            | Ground |
 
+
+##*Note About UART Connection
+
+The connections are labeled above to match your other device (computer). For instance, connect pin2 to your computer's UART-TX pin and pin3 to your computer's UART-RX pin. Sometimes devices are labeled opposite this, so it's recommended to connect, test and if it's not working swap wires going to pin 2 and 3.
+
 ![](/assets/kernel_side_plugs_bottom_lbl2.png)
+
