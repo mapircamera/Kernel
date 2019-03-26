@@ -10,14 +10,17 @@ Use the below files to help you design your own housings and accessories for the
 | 2 Array Housing (TOP + BOTTOM)| 41|2                     | 1                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uWXO)      | [STL](http://docs.peauproductions.com/kernel/3d_models/2_kernel_housing_assem.STL)                |              |
 | 2 Array Housing (TOP)| 41|2                     | 1                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uWXM)      | [STL](http://docs.peauproductions.com/kernel/3d_models/2_kernel_top.STL)                 |              |
 | 2 Array Housing (BOTTOM)| 41|2                     | 1                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uWXH)      | [STL](http://docs.peauproductions.com/kernel/3d_models/2_kernel_bottom.STL)                 |              |
-| 4 Array Housing (TOP + BOTTOM)| 41|4                     | 2                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uWZn)      | [STL](http://docs.peauproductions.com/kernel/3d_models/4_kernel_housing_assem.STL)                |              |
-| 4 Array Housing (TOP)| 41|4                     | 2                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uWYT)      | [STL](http://docs.peauproductions.com/kernel/3d_models/4_kernel_top.STL)                 ||
-| 4 Array Housing (BOTTOM)| 41|4                     | 2                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uWYM)      | [STL](http://docs.peauproductions.com/kernel/3d_models/4_kernel_bottom.STL)                 ||
-| 6 Array Housing (TOP + BOTTOM) | 87|6                     | 3                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1-rJnUpnsL3oT4rNmryet8fh4Bc7345qw)                | 
-| 6 Array Housing (TOP + BOTTOM) | 41|6                     | 3                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1i14a3cD6q1qd2Xzz2bXFlwhM_WWM8R7D)                | 
+| 4 Array Housing (TOP + BOTTOM)| 87|4                     | 2                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=10laTx8vnWrsX4yasGyklCYWF-yXa2yW3)                |              |
+
+| 4 Array Housing (TOP + BOTTOM)| 41|4                     | 2                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1W9W-H3al4GNg8Hu6B0aH0ddJLGX5ufXn)                |              |
+| 4 Array Housing (TOP)| 87|4                     | 2                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1AxV8LtJZQKWMrtVd5d5muqaACaWsoT9c)                 ||
+| 4 Array Housing (TOP)| 41|4                     | 2                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1uPVXF9H7ICmtwqtjE9U97qY2WZNE0025)                 ||
+| 4 Array Housing (BOTTOM)| 41|4                     | 2                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1d_sW_7jI4JF1RO-4HKWsljlFH6BebdD7)                 ||
+| 6 Array Housing (TOP + BOTTOM) | 87|6                     | 3                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1-rJnUpnsL3oT4rNmryet8fh4Bc7345qw)                |  |
+| 6 Array Housing (TOP + BOTTOM) | 41|6                     | 3                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1i14a3cD6q1qd2Xzz2bXFlwhM_WWM8R7D)                |  |
 | 6 Array Housing (TOP)| 87|6                     | 3                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1O-ybcugrQtGlpF6n5cqJIcXplq7oGOhl)                 |              |
 | 6 Array Housing (TOP)| 41|6                     | 3                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=17dXsXMiaRUT9lTf1IcEIRriuxs0BZX7Q)                 |              |
-| 6 Array Housing (BOTTOM)| 87,41|6                     | 3                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1ZlWYGz8vDlMKO_ZKPvkuPqCUCTWkg3_U)                 ||  
+| 6 Array Housing (BOTTOM)| 87,41|6                     | 3                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1ZlWYGz8vDlMKO_ZKPvkuPqCUCTWkg3_U)                 | |  
 
 
 
