@@ -8,11 +8,9 @@ Use the below files to help you design your own housings and accessories for the
 | Single Kernel Housing (TOP)| 41|1                     | 0                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uXpu)      | [STL](http://docs.peauproductions.com/kernel/3d_models/1_kernel_top.STL)                 |              |
 | Single Kernel Housing (BOTTOM)| 41|1                     | 0                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uXpr)      | [STL](http://docs.peauproductions.com/kernel/3d_models/1_kernel_bottom.STL)                 |              |
 | 2 Array Housing (TOP + BOTTOM)| 87|2                     | 1                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=16wCn2IVNAVaQnKBRwPLDf_4-LyHqSqym)                |              |
-
 | 2 Array Housing (TOP + BOTTOM)| 41|2                     | 1                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1dXoKYfW7mDFWpXK-A-0qObi5gGmDXnin)                |              |
 | 2 Array Housing (TOP)| 87|2                     | 1                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1qWdDuCjb-k617dZcZPublyCAEer4jOpE)                 |              |
 | 2 Array Housing (TOP)| 41|2                     | 1                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1cYX7ncxe7xIC0mohrOVTQI_w4lc7RJxu)                 |              |
-
 | 2 Array Housing (BOTTOM)| 87,41|2                     | 1                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=11cbtJaAlxW0h3eXsY2eysu0CBSCANAWz)                 |              |
 | 4 Array Housing (TOP + BOTTOM)| 87|4                     | 2                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=10laTx8vnWrsX4yasGyklCYWF-yXa2yW3)                |              |
 | 4 Array Housing (TOP + BOTTOM)| 41|4                     | 2                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1W9W-H3al4GNg8Hu6B0aH0ddJLGX5ufXn)                |              |
