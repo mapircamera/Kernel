@@ -13,9 +13,11 @@ Use the below files to help you design your own housings and accessories for the
 | 4 Array Housing (TOP + BOTTOM)| 41|4                     | 2                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uWZn)      | [STL](http://docs.peauproductions.com/kernel/3d_models/4_kernel_housing_assem.STL)                |              |
 | 4 Array Housing (TOP)| 41|4                     | 2                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uWYT)      | [STL](http://docs.peauproductions.com/kernel/3d_models/4_kernel_top.STL)                 ||
 | 4 Array Housing (BOTTOM)| 41|4                     | 2                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uWYM)      | [STL](http://docs.peauproductions.com/kernel/3d_models/4_kernel_bottom.STL)                 ||
-| 6 Array Housing (TOP + BOTTOM) | 41|6                     | 3                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uXnY)      | [STL](http://docs.peauproductions.com/kernel/3d_models/6_kernel_housing_assem.STL)                |              |
-| 6 Array Housing (TOP)| 41|6                     | 3                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uXnU)      | [STL](http://docs.peauproductions.com/kernel/3d_models/6_kernel_top.STL)                 |              |
-| 6 Array Housing (BOTTOM)| 41|6                     | 3                            | Housing, Threaded Inserts|  [VIEW](https://skfb.ly/6uXnN)      | [STL](http://docs.peauproductions.com/kernel/3d_models/6_kernel_bottom.STL)                 ||  
+| 6 Array Housing (TOP + BOTTOM) | 87|6                     | 3                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1-rJnUpnsL3oT4rNmryet8fh4Bc7345qw)                | 
+| 6 Array Housing (TOP + BOTTOM) | 41|6                     | 3                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1i14a3cD6q1qd2Xzz2bXFlwhM_WWM8R7D)                | 
+| 6 Array Housing (TOP)| 87|6                     | 3                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1O-ybcugrQtGlpF6n5cqJIcXplq7oGOhl)                 |              |
+| 6 Array Housing (TOP)| 41|6                     | 3                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=17dXsXMiaRUT9lTf1IcEIRriuxs0BZX7Q)                 |              |
+| 6 Array Housing (BOTTOM)| 87,41|6                     | 3                            | Housing, Threaded Inserts|  [VIEW]()      | [STEP](https://drive.google.com/open?id=1ZlWYGz8vDlMKO_ZKPvkuPqCUCTWkg3_U)                 ||  
 
 
 
