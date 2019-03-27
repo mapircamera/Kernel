@@ -18,7 +18,7 @@ Connect the camera to a 5 volt power source and it will be ready to load new fir
 
 1: Download the most recent firmware from here:
 
-[DOWNLOAD HERE](http://mapir.peauproductions.com/kernel_firmware/kernel_firmware.zip)
+[DOWNLOAD HERE](https://mapircamera.gitbooks.io/kernel-development-guide/content/interfacing-with-kernel/software-interface/updating-kernel-stack-firmware/kernel-firmware.html)
     
 2: Extract the contents of the downloaded folder.
 
