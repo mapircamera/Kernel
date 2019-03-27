@@ -1,6 +1,6 @@
 #Kernel Firmware Downloads
 
-##Firmware is released periodically to provide improved performance or new features for our Kernel camera modules. Firmware below is listed newest to oldest.
+Firmware is released periodically to provide improved performance or new features for our Kernel camera modules. Firmware below is listed newest to oldest.
 
 ####Upload Date: March 2019
 
