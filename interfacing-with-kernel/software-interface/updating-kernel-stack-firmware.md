@@ -16,7 +16,7 @@ Connect the camera to a 5 volt power source and it will be ready to load new fir
 
 ##Loading New Firmware Onto the Camera
 
-1: Download the following package:
+1: Download the most recent firmware from here:
 
 [DOWNLOAD HERE](http://mapir.peauproductions.com/kernel_firmware/kernel_firmware.zip)
     
@@ -32,7 +32,9 @@ Connect the camera to a 5 volt power source and it will be ready to load new fir
 
 6: Press the Start button.
 
-7: After a minute or so you will likely see something like the below screen, which you can simply click the Cancel button to ignore.
+7: After a minute or so you will likely see something like the below screen, which you can simply click the Cancel button to ignore. 
+
+If the small pop-up window does not look like the below photo, and says there was an issue accessing the disk then please click cancel on that window and the MfgTool window, disconnect and connect the camera stack again and press Start on the MfgTool to restart the process. The small window must look like the below in order to successfully update to new firmware.
 
 ![](/assets/mfg2.PNG)
 
