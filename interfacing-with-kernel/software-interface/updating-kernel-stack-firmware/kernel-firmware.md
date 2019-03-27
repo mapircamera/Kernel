@@ -8,6 +8,6 @@
 
 Notes: Improvements to link board power booting reliability, requires updated link board firmware, which ships on all orders starting March 2019.
 
-####Upload Date: 2016-2018 (Original Firmware)
+####Upload Date: January 2016 (Original Firmware)
 
 [DOWNLOAD](https://drive.google.com/open?id=1XsCQ5GEm6RtXhr38G_uNtycUnO_rqO0a)
