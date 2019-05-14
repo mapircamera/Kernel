@@ -29,6 +29,7 @@
 | F808              | MONO                    | 808nm          | 801-815nm          | [VIEW](#f808)           | NIR light indices |
 | F850              | MONO                    | 850nm          | 835-865nm          | [VIEW](#f850)           | NIR light indices |
 | F880              | MONO                    | 880nm          | 867-893nm          | [VIEW](#f880)           | NIR light indices |
+| F905              | MONO                    | 905nm          | 892-920nm          | [VIEW](#f905)           | NIR light indices |
 | F940              | MONO                    | 940nm          | 905-965nm          | [VIEW](#f940)           | NIR light indices |
 | F945              | MONO                    | 945nm          | 941-949nm          | [VIEW](#f945)           | NIR light indices |
 | F395-870          | RGB                     | 395nm & 870nm  | 375-425nm & 745-970nm          | [VIEW](#f395-870)           | Atmospheric indices|
@@ -105,6 +106,10 @@
 #### F880
 [Download Data](https://drive.google.com/open?id=18gSViIwO1LVzcq86AjFUpT1uc1fL0OXx)
 ![](/assets/f880.png)
+#### F905
+[Download Data](https://drive.google.com/open?id=18gSViIwO1LVzcq86AjFUpT1uc1fL0OXx)
+![](/assets/F905.png)
+
 #### F940
 [Download Data](https://drive.google.com/open?id=1f3CpEowGbdFMMsOCCQCZ8N8LKyFrq8Yy)
 ![](/assets/F940.PNG)
