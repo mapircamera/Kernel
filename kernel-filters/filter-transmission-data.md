@@ -13,7 +13,7 @@
 
 | Filter Model Name | Recommended Sensor Type | Peak Wavelength| Transmission Range (50%) | Transmission Chart | Typical Uses |
 |-------------------|-------------------------|----------------|--------------------|--------------------|--------------|
-| F644              | RGB                     | X              | 395-638nm          | [VIEW](#f644)      | Visible light RGB only (Cut-off 648nm) |
+| F250              | MONO                    | 230nm          | 216-256nm (25% Range)         | [VIEW](#f405)           | Ultraviolet (UV) light detection |
 | F405              | MONO                    | 405nm          | 400-415nm          | [VIEW](#f405)           | Ultraviolet (UV) light detection |
 | F450              | MONO                    | 450nm          | 429-459nm          | [VIEW](#f450)           | Blue light indices |
 | F490              | MONO                    | 490nm          | 468-506nm          | [VIEW](#f490)           | Blue light indices |
@@ -24,7 +24,7 @@
 | F632              | MONO                    | 632nm          | 625-655nm          | [VIEW](#f632)           | Red light indices |
 | F650              | MONO                    | 650nm          | 641-672nm          | [VIEW](#f650)           | Red light indices |
 | F685              | MONO                    | 685nm          | 674-698nm          | [VIEW](#f685)           | Red light indices |
-| F725              | MONO                    | 725nm          | 712-735nm          | [VIEW](#f725)           | Red-edge: Deeper canopy penetration, earlier detection of reduction in photosynthesis |
+| F725              | MONO                    | 725nm          | 712-735nm          | [VIEW](#f725)           | Red-edge indices |
 | F780              | MONO                    | 780nm          | 762-796nm          | [VIEW](#f780)           | NIR light indices |
 | F808              | MONO                    | 808nm          | 801-815nm          | [VIEW](#f808)           | NIR light indices |
 | F850              | MONO                    | 850nm          | 835-865nm          | [VIEW](#f850)           | NIR light indices |
@@ -32,6 +32,7 @@
 | F905              | MONO                    | 905nm          | 892-920nm          | [VIEW](#f905)           | NIR light indices |
 | F940              | MONO                    | 940nm          | 905-965nm          | [VIEW](#f940)           | NIR light indices |
 | F945              | MONO                    | 945nm          | 941-949nm          | [VIEW](#f945)           | NIR light indices |
+| F644              | RGB                     | X              | 395-638nm          | [VIEW](#f644)      | Visible light RGB only (Cut-off 648nm) |
 | F395-870          | RGB                     | 395nm & 870nm  | 375-425nm & 745-970nm          | [VIEW](#f395-870)           | Atmospheric indices|
 | F475-550-850      | RGB                     | 475nm & 550nm & 850nm | 468-483nm & 543-558nm & 835-865nm          | [VIEW](#f475-550-850)           | ENDVI, improved NDVI |
 | F550-660-850      | RGB                     | 550nm & 660nm & 850nm | 543-558nm & 653-668nm & 835-865nm          | [VIEW](#f550-660-850)           | NDVI, GNDVI, CVI, NG, NNIR, NR, TVI |
@@ -57,10 +58,9 @@
 [Download Data](http://docs.peauproductions.com/kernel/filters/lens_protector_chart.xlsx)
 
 ###Other Filter Charts
-
-#### F644
-[Download Data](https://drive.google.com/open?id=1KXIcBocpRT0T0D1K6RBvKQnb173TVBP1)
-![](/assets/f644.png)
+#### F250
+[Download Data](https://drive.google.com/open?id=1ucMh4x_1_x2oMynxwlh7qycLc8q2Oj4N)
+![](/assets/f250.png)
 #### F405
 [Download Data](https://drive.google.com/open?id=1vsHdlUmrUqdtKAximoXHhInFhHt7TJaK)
 ![](/assets/f405.png)
@@ -115,6 +115,9 @@
 #### F945
 [Download Data](https://drive.google.com/open?id=1_fIvaFiWJuMvSaybnjWD6qccpg_IVxlI)
 ![](/assets/F945.PNG)
+#### F644
+[Download Data](https://drive.google.com/open?id=1KXIcBocpRT0T0D1K6RBvKQnb173TVBP1)
+![](/assets/f644.png)
 #### F395-870
 [Download Data](https://drive.google.com/open?id=1tt3k2GjjOomKi95G49BJtM17AC4mx0z0)
 ![](/assets/f395-870.png)
