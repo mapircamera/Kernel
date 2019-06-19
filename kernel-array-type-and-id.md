@@ -4,7 +4,7 @@
 
 ##Array ID: 
 
-This value ranges from 0 to n-1, where n is the number of modules in the array, up to a value of 255. The Array ID tells you where the module is located in the array, with 0 being the master camera on the master link board and iterating up from there.
+This value ranges from 0 to n-1, where n is the number of modules in the array, up to a value of 255. The Array ID tells you where the module is located in the array, with 0 being the master camera on the master link board and iterating up from there. 
 
 ##Array Type:
 
