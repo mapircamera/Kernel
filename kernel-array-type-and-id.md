@@ -17,7 +17,7 @@ This corresponds to how the top row of sensor pixels are orientated within the a
 
 | Array Type Value &nbsp;&nbsp;&nbsp;&nbsp; | Common Name | Rotation Orientation| Array ID 0 | Array ID 1 | Array ID 2 |Array ID 3 |Array ID 4 |Array ID 5 |
 |-------------------|-------------------------|----------------|--------------------|--------------------|--------------|--------------------|--------------|--------------|
-| ArrayType 0c| 1 Kernel| A | Yaw: 0, Pitch: 0, Roll: 0         |   |  |  |  |  |
+| ArrayType 0d| 1 Kernel| A | Yaw: 0, Pitch: 0, Roll: 0         |   |  |  |  |  |
 | ArrayType 1| 1 Kernel| B | Yaw: 90, Pitch: (-Roll)  Roll: (Pitch)         |   |  |  |  |  |
 | ArrayType 2| 1 Kernel| C | Yaw: 180, Pitch: (-Pitch), Roll: (-Roll), [Rotate Image]         |   |  |  |  |  |
 | ArrayType 3| 1 Kernel| D | Yaw: 270, Pitch: (Roll), Roll: (-Pitch) |   |  |  |  |  |
