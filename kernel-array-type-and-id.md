@@ -15,7 +15,7 @@ This value ranges from 0 to 255 and tells you which type of array is being used.
 This corresponds to how the top row of sensor pixels are orientated within the array. It also relates to any rotation to the images our software does during processing.
 
 
-| Array Type Value &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Common Name | Rotation Orientation| Array ID 0 | Array ID 1 | Array ID 2 |Array ID 3 |Array ID 4 |Array ID 5 |
+| Array Type Value <img width=200/> | Common Name | Rotation Orientation| Array ID 0 | Array ID 1 | Array ID 2 |Array ID 3 |Array ID 4 |Array ID 5 |
 |-------------------|-------------------------|----------------|--------------------|--------------------|--------------|--------------------|--------------|--------------|
 | ArrayType 0e| 1 Kernel| A | Yaw: 0, Pitch: 0, Roll: 0         |   |  |  |  |  |
 | ArrayType 1| 1 Kernel| B | Yaw: 90, Pitch: (-Roll)  Roll: (Pitch)         |   |  |  |  |  |
