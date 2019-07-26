@@ -8,16 +8,16 @@
 
 ###[Capturing Media](../kernel-development-guide/kernel-triggering.html)
 
-###[Connecting to Kernel](../content/interfacing-with-kernel.html)
+###[Connecting to Kernel](../kernel-development-guide/interfacing-with-kernel.html)
 
-###[Kernel Filters](../content/kernel-filters.html)
+###[Kernel Filters](../kernel-development-guide/kernel-filters.html)
 
-###[Kernel Sensors](../content/kernel-sensors.html)
+###[Kernel Sensors](../kernel-development-guide/kernel-sensors.html)
 
-###[Kernel Lenses](../content/kernel-lenses.html)
+###[Kernel Lenses](../kernel-development-guide/kernel-lenses.html)
 
-###[Kernel Array Link Boards](../content/kernel-link-boards.html)
+###[Kernel Array Link Boards](../kernel-development-guide/kernel-link-boards.html)
 
-###[Kernel GPS (Geo-tagging)](../content/kernel-gps-zubax-gnss-2.html)
+###[Kernel GPS (Geo-tagging)](../kernel-development-guide/kernel-gps-zubax-gnss-2.html)
 
-###[Downloads](../content/downloads.html)
+###[Downloads](../kernel-development-guide/downloads.html)

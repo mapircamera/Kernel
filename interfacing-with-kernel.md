@@ -2,6 +2,6 @@
 
 ####Click the links below to read about connecting to the Kernel cameras.
 
-##[Hardware Interface](../content/interfacing-with-kernel/hardware-interface.html)
+##[Hardware Interface](../kernel-development-guide/interfacing-with-kernel/hardware-interface.html)
 
-##[Software Interface](../content/interfacing-with-kernel/software-interface.html)
+##[Software Interface](../kernel-development-guide/interfacing-with-kernel/software-interface.html)
