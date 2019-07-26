@@ -51,4 +51,6 @@
 * [Kernel Array Link Boards](kernel-link-boards.md)
 * [Kernel GPS \(Zubax GNSS 2\)](kernel-gps-zubax-gnss-2.md)
 * [Downloads](downloads.md)
+  * 3D Kernel Models
+  * 2D Kernel Drawings
 
