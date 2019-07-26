@@ -50,5 +50,5 @@
 * [Kernel Array Link Boards](kernel-link-boards.md)
 * [Kernel Array Type & ID](kernel-array-type-and-id.md)
 * [Kernel GPS \(Zubax GNSS 2\)](kernel-gps-zubax-gnss-2.md)
-* [Kernel Array Type & ID](kernel-array-type-and-id.md)
+* [Downloads](kernel-array-type-and-id.md)
 
