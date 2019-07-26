@@ -4,8 +4,6 @@ Our MAPIR Camera Control (MCC) software is what you will use to interact with Ke
 
 ##[Installing MAPIR Camera Control (MCC) Application](../software-interface/mcc/installation.html)
 
-https://mapircamera.gitbooks.io/kernel-development-guide/interfacing-with-kernel/software-interface/mcc/installation.html
-
 ##[Connecting to Kernel Cameras Using MCC](../software-interface/mcc/connecting-to-kernel.html)
 
 ##[Changing Camera Settings From MCC](../software-interface/mcc/changing-camera-settings.html)
