@@ -47,8 +47,8 @@
 * [Kernel Sensors](kernel-sensors.md)
   * [Sensor Rotation](kernel-sensors/sensor-rotation.md)
 * [Kernel Lenses](kernel-lenses.md)
-* [Kernel Array Link Boards](kernel-link-boards.md)
 * [Kernel Array Type & ID](kernel-array-type-and-id.md)
+* [Kernel Array Link Boards](kernel-link-boards.md)
 * [Kernel GPS \(Zubax GNSS 2\)](kernel-gps-zubax-gnss-2.md)
 * [Downloads](downloads.md)
 
