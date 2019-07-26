@@ -6,7 +6,7 @@
 
 ##TABLE OF CONTENTS
 
-###[Capturing Media](../content/kernel-triggering.html)
+###[Capturing Media](../kernel-triggering.html)
 
 ###[Connecting to Kernel](../content/interfacing-with-kernel.html)
 
