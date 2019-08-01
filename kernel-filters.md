@@ -4,9 +4,9 @@
 
 ###TABLE OF CONTENTS  
 
-##[Kernel Filter Transmission Data](../kernel-development-guide/kernel-filters/filter-transmission-data.html)
-##[How to Install a Kernel Filter](../kernel-development-guide/kernel-filters/kernel-filter-installation.html)
-##[Common Multi-spectral Indices](../kernel-development-guide/kernel-filters/filter-index-list.html)
+##[Kernel Filter Transmission Data](../kernel-filters/filter-transmission-data.html)
+##[How to Install a Kernel Filter](../kernel-filters/kernel-filter-installation.html)
+##[Common Multi-spectral Indices](../kernel-filters/filter-index-list.html)
 
 ![](/assets/kernel_filter_2_w.JPG)
 
