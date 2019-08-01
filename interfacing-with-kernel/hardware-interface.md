@@ -4,7 +4,7 @@
 
 ##Table of Contents
 
-##[Kernel Status LEDs](../kernel-development-guide/interfacing-with-kernel/hardware-interface/kernel-status-leds.html)
+##[Kernel Status LEDs](../interfacing-with-kernel/hardware-interface/kernel-status-leds.html)
 
 ##[Kernel Port - 40 pin Side Port](../kernel-development-guide/interfacing-with-kernel/hardware-interface/kernel-port-40-pin-side-port.html)
 
