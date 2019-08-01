@@ -32,6 +32,7 @@
 | F905              | MONO                    | 905nm          | 892-920nm          | [VIEW](#f905)           | NIR light indices |
 | F940              | MONO                    | 940nm          | 905-965nm          | [VIEW](#f940)           | NIR light indices |
 | F945              | MONO                    | 945nm          | 941-949nm          | [VIEW](#f945)           | NIR light indices |
+| F1000              | MONO                    | 1000nm          | 915-1045nm          | [VIEW](#f1000)           | NIR light indices |
 | F644              | RGB                     | X              | 395-638nm          | [VIEW](#f644)      | Visible light RGB only (Cut-off 648nm) |
 | F395-870          | RGB                     | 395nm & 870nm  | 375-425nm & 745-970nm          | [VIEW](#f395-870)           | Atmospheric indices|
 | F475-550-850      | RGB                     | 475nm & 550nm & 850nm | 468-483nm & 543-558nm & 835-865nm          | [VIEW](#f475-550-850)           | ENDVI, improved NDVI |
@@ -115,6 +116,9 @@
 #### F945
 [Download Data](https://drive.google.com/open?id=1_fIvaFiWJuMvSaybnjWD6qccpg_IVxlI)
 ![](/assets/F945.PNG)
+#### F1000
+[Download Data](https://drive.google.com/file/d/1wd3CPWMYGolfirE74nkG9oRZFhS2RBJW/view?usp=sharing)
+![](/assets/f1000.png)
 #### F644
 [Download Data](https://drive.google.com/open?id=1KXIcBocpRT0T0D1K6RBvKQnb173TVBP1)
 ![](/assets/f644.png)
