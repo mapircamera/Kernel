@@ -13,7 +13,7 @@ The Kernel cameras can be used in two main configurations: **separate** or **in 
 
 ###Sending a Trigger Signal to Kernel
 
-In the Kernel tab of [MAPIR Camera Control (MCC)](../content/interfacing-with-kernel/software-interface/mcc.html) a user can set the camera to respond to either a relay (recommedned) or PWM trigger.
+In the Kernel tab of [MAPIR Camera Control (MCC)](../kernel-development-guide/interfacing-with-kernel/software-interface/mcc.html) a user can set the camera to respond to either a relay (recommedned) or PWM trigger.
 
 **Relay (Voltage) Trigger (RECOMMENDED, DEFAULT):** sending a voltage spike of 3.3 volts for 2ms is the best way to trigger the Kernel camera. The camera has less chance to miss a trigger because it's looking for any voltage spike for at least 2ms duration. Please see our guide [HERE](../content/kernel-triggering/relay-trigger-from-pixhawk-flight-controller.html)
  for setting up the relay triggering on a Pixhawk or similar flight controller.
