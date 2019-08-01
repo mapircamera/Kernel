@@ -39,7 +39,6 @@
     * [UAVCAN](interfacing-with-kernel/software-interface/uavcan.md)
     * [Updating Kernel Firmware](interfacing-with-kernel/software-interface/updating-kernel-stack-firmware.md)
       * [Kernel Firmware](interfacing-with-kernel/software-interface/updating-kernel-stack-firmware/kernel-firmware.md)
-    * [Licenses](interfacing-with-kernel/software-interface/licenses.md)
 * [Kernel Filters](kernel-filters.md)
   * [Filter Transmission Data](kernel-filters/filter-transmission-data.md)
   * [Kernel Filter Installation](kernel-filters/kernel-filter-installation.md)
