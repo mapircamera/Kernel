@@ -2,6 +2,12 @@
 
 Firmware is released periodically to provide improved performance or new features for our Kernel camera modules. Firmware below is listed newest to oldest.
 
-####Upload Date: January 2017 (Original Firmware)
+####Firmware Version: 1.3.26
+#####Release Date: August 1st, 2019
 
-[DOWNLOAD](https://drive.google.com/open?id=1XsCQ5GEm6RtXhr38G_uNtycUnO_rqO0a)
+[DOWNLOAD](https://drive.google.com/file/d/1n3EJ64qRVRUebM475ZyPcHi_4UerM1S4/view?usp=sharing)
+
+####Firmware Version: 1.0 (Original Firmware)
+#####Release Date: January 2017 
+
+[DOWNLOAD](https://drive.google.com/file/d/1XsCQ5GEm6RtXhr38G_uNtycUnO_rqO0a/view?usp=sharing)
