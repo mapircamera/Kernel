@@ -9,3 +9,5 @@ When you purchase a Kernel camera or camera rig from MAPIR, we ask you to specif
 ![](/assets/direction_kernel.png)
 
 ![](/assets/direction_array.png)
+
+![](/assets/link_board_array_id_assignment.jpg)

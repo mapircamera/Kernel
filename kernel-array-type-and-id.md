@@ -6,6 +6,8 @@
 
 This value ranges from 0 to n-1, where n is the number of modules in the array, up to a value of 255. The Array ID tells you where the module is located in the array, with 0 being the master camera on the master link board and iterating up from there. 
 
+![](/assets/link_board_array_id_assignment.jpg)
+
 ##Array Type:
 
 This value ranges from 0 to 255 and tells you which type of array is being used. See the below table for more information.
