@@ -32,7 +32,7 @@ This corresponds to how the top row of sensor pixels are orientated within the a
 | ArrayType 10|4 Kernel| C | Yaw: 180, Pitch: (-Pitch), Roll: (-Roll), [Rotate Image] |Yaw: 0, Pitch: 0, Roll: 0|Yaw: 180, Pitch: (-Pitch), Roll: (-Roll), [Rotate Image] |Yaw: 0, Pitch: 0, Roll: 0 | |Linear|
 | ArrayType 11|4 Kernel| D | Yaw: 270, Pitch: (Roll), Roll: (-Pitch) |Yaw: 90, Pitch: (-Roll)  Roll: (Pitch)|Yaw: 270, Pitch: (Roll), Roll: (-Pitch) |Yaw: 90, Pitch: (-Roll)  Roll: (Pitch) | |Linear|
 | ArrayType 12|6 Kernel| A | YYaw: 0, Pitch: 0, Roll: 0 |Yaw: 180, Pitch: (-Pitch), Roll: (-Roll), [Rotate Image]|Yaw: 0, Pitch: 0, Roll: 0 |Yaw: 180, Pitch: (-Pitch), Roll: (-Roll), [Rotate Image]|Yaw: 0, Pitch: 0, Roll: 0 |Yaw: 180, Pitch: (-Pitch), Roll: (-Roll), [Rotate Image]|Linear|
-| ArrayType 13|6 Kernel| A | YYaw: 0, Pitch: 0, Roll: 0 |Yaw: 180, Pitch: (-Pitch), Roll: (-Roll), [Rotate Image]|Yaw: 0, Pitch: 0, Roll: 0 |Yaw: 180, Pitch: (-Pitch), Roll: (-Roll), [Rotate Image]| |Linear|
+| ArrayType 13|6 Kernel| B | YYaw: 0, Pitch: 0, Roll: 0 |Yaw: 180, Pitch: (-Pitch), Roll: (-Roll), [Rotate Image]|Yaw: 0, Pitch: 0, Roll: 0 |Yaw: 180, Pitch: (-Pitch), Roll: (-Roll), [Rotate Image]| |Linear|
 
 
 
