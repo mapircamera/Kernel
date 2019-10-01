@@ -29,10 +29,10 @@
 | F685 | MONO | 685nm | 674-698nm | [VIEW](filter-transmission-data.md#f685) | Red light indices |
 | F709 | MONO | 709nm |  | VIEW | Red-edge indices |
 | F725 | MONO | 725nm | 712-735nm | [VIEW](filter-transmission-data.md#f725) | Red-edge indices |
-| F750 | MONO | 750nm |  | VIEW | Red-edge indices |
+| F750 | MONO | 750nm | 720-765nm | VIEW | Red-edge indices |
 | F780 | MONO | 780nm | 762-796nm | [VIEW](filter-transmission-data.md#f780) | Red-edge light indices |
 | F808 | MONO | 808nm | 801-815nm | [VIEW](filter-transmission-data.md#f808) | NIR light indices |
-| F830 | MONO | 830nm |  | VIEW | NIR light indices |
+| F830 | MONO | 830nm | 813-844nm | VIEW | NIR light indices |
 | F850 | MONO | 850nm | 835-865nm | [VIEW](filter-transmission-data.md#f850) | NIR light indices |
 | F880 | MONO | 880nm | 867-893nm | [VIEW](filter-transmission-data.md#f880) | NIR light indices |
 | F905 | MONO | 905nm | 892-920nm | [VIEW](filter-transmission-data.md#f905) | NIR light indices |
