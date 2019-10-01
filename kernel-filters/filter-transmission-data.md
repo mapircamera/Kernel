@@ -19,7 +19,7 @@
 | F405 | MONO | 405nm | 400-415nm | [VIEW](filter-transmission-data.md#f405) | Ultraviolet \(UV\) light detection |
 | F450 | MONO | 450nm | 429-459nm | [VIEW](filter-transmission-data.md#f450) | Blue light indices |
 | F490 | MONO | 490nm | 468-506nm | [VIEW](filter-transmission-data.md#f490) | Blue/Green light indices |
-| F510 | MONO | 510nm |  | VIEW | Blue/Green indices |
+| F510 | MONO | 510nm | 504-522nm | VIEW | Blue/Green indices |
 | F518 | MONO | 518nm | 507-527nm | [VIEW](filter-transmission-data.md#f518) | Green light indices |
 | F550 | MONO | 550nm | 535-565nm | [VIEW](filter-transmission-data.md#f550) | Green light indices |
 | F590 | MONO | 590nm | 574-606nm | [VIEW](filter-transmission-data.md#f590) | Yellow light indices |
@@ -41,8 +41,8 @@
 | F1000 | MONO | 1000nm | 915-1045nm | [VIEW](filter-transmission-data.md#f1000) | NIR light indices |
 | F644 | RGB | X | 395-638nm | [VIEW](filter-transmission-data.md#f644) | Visible light RGB only \(Cut-off 648nm\) |
 | F395-870 | RGB | 395nm & 870nm | 375-425nm & 745-970nm | [VIEW](filter-transmission-data.md#f395-870) | Atmospheric indices |
-| F475-550-850 | RGB | 475nm & 550nm & 850nm | 468-483nm & 543-558nm & 835-865nm | [VIEW](filter-transmission-data.md#f475-550-850) | ENDVI, improved NDVI |
-| F550-660-850 | RGB | 550nm & 660nm & 850nm | 543-558nm & 653-668nm & 835-865nm | [VIEW](filter-transmission-data.md#f550-660-850) | NDVI, GNDVI, CVI, NG, NNIR, NR, TVI |
+| F475-550-850 | RGB | 475nm & 550nm & 850nm | 468-483nm & 543-558nm & 835-865nm | [VIEW](filter-transmission-data.md#f475-550-850) | NGB, ENDVI, improved NDVI |
+| F550-660-850 | RGB | 550nm & 660nm & 850nm | 543-558nm & 653-668nm & 835-865nm | [VIEW](filter-transmission-data.md#f550-660-850) | RGN, NDVI, GNDVI, CVI, NG, NNIR, NR, TVI |
 
 ## Top Lens Protector
 
