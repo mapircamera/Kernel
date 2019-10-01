@@ -2,9 +2,9 @@
 
 The Kernel port is the main interface between the camera module and the link boards used in the camera arrays. The Kernel port is a [TE CHAMP 2129260-2](http://www.te.com/usa-en/product-2129260-2.html) and mates to the link board or breakout board's [TE CHAMP 2129261-1](http://www.te.com/usa-en/product-2129261-1.html). For straight connecting cables you would us the [TE CHAMP 2129276-1](http://www.te.com/usa-en/product-2129276-1.html). You can find a list of all the compatible mating CHAMP connectors [here](http://www.te.com/usa-en/plp/Y30jw.html?q=&n=540054&d=545426&type=products&samples=N).
 
-### The Kernel port is mounted to the underside of the connector board with the following pin assignment:
+## The Kernel port is mounted to the underside of the connector board with the following pin assignment:
 
-![](/assets/kernel_champ.PNG)
+![](../../.gitbook/assets/kernel_champ.PNG)
 
 | GROUP | SIGNAL | ROW 1 PIN | ROW 2 PIN | SIGNAL | GROUP |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -29,5 +29,5 @@ The Kernel port is the main interface between the camera module and the link boa
 | PWM | PWM3\_IN | 37 | 38 | OUT\_TMDS\_D2\_P | HDMI |
 | PWM | PWM4\_OUT | 39 | 40 | GND | Power |
 
-![](/assets/kernel_port_plug_lbl_c_9ce75ee3-b64c-4984-9548-5b1666dc0508.png)
+![](../../.gitbook/assets/kernel_port_plug_lbl_c_9ce75ee3-b64c-4984-9548-5b1666dc0508.png)
 

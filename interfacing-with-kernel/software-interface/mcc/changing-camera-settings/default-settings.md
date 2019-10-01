@@ -1,4 +1,4 @@
-# Default Camera Settings
+# Default Settings
 
 Here are the default values that we typically set on a new camera:
 
@@ -19,6 +19,4 @@ Here are the default values that we typically set on a new camera:
 | Media Per Folder | 10000 |
 | Capture Mode | Photo: Single |
 | Array Type | Depends on sensor orientation |
-
-
 
