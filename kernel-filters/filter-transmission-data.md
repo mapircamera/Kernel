@@ -41,8 +41,8 @@
 | F1000 | MONO | 1000nm | 915-1045nm | [VIEW](filter-transmission-data.md#f1000) | NIR light indices |
 | F644 | RGB | X | 395-638nm | [VIEW](filter-transmission-data.md#f644) | Visible light RGB only \(Cut-off 648nm\) |
 | F395-870 | RGB | 395nm & 870nm | 375-425nm & 745-970nm | [VIEW](filter-transmission-data.md#f395-870) | Atmospheric indices |
-| F490-615-808 | RGB | 490nm & 615nm & 808nm | 476-512nm & 598-640nm & 798-848nm | VIEW | OCN, NDVI, GNDVI, CVI, NG, NNIR, NR, TVI |
 | F475-550-850 | RGB | 475nm & 550nm & 850nm | 468-483nm & 543-558nm & 835-865nm | [VIEW](filter-transmission-data.md#f475-550-850) | NGB, ENDVI, improved NDVI |
+| F490-615-808 | RGB | 490nm & 615nm & 808nm | 476-512nm & 598-640nm & 798-848nm | [VIEW](filter-transmission-data.md#f490-615-808) | OCN, NDVI, GNDVI, CVI, NG, NNIR, NR, TVI |
 | F550-660-850 | RGB | 550nm & 660nm & 850nm | 543-558nm & 653-668nm & 835-865nm | [VIEW](filter-transmission-data.md#f550-660-850) | RGN, NDVI, GNDVI, CVI, NG, NNIR, NR, TVI |
 
 ## Top Lens Protector
@@ -205,6 +205,12 @@
 [Download Data](https://drive.google.com/open?id=1t6k9DLTs5rK9Pg8zx7wqijDZBLaoi74c) 
 
 ![](../.gitbook/assets/f475-550-850.png)
+
+#### F490-615-808 \(OCN\)
+
+[Download Data](https://drive.google.com/open?id=1h10DzXghBEnFyB1W8njWyoy8e3sVqbdi) 
+
+![](../.gitbook/assets/f490-615-808.png)
 
 #### F550-660-850 \(RGN\)
 
