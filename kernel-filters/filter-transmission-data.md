@@ -212,8 +212,6 @@
 
 ![](../.gitbook/assets/f490-615-808.png)
 
-![](https://github.com/mapircamera/Kernel/tree/0eba1482a3135e2082b697a13f08fe096fc3beaa/.gitbook/assets/f490-615-808.png)
-
 #### F550-660-850 \(RGN\)
 
 [Download Data](https://drive.google.com/open?id=1x88mDjWm_UcpBueQgvvhcwzX6gEksi6d)
