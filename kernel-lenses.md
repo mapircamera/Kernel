@@ -4,18 +4,18 @@
 
 ## [3.37mm f/2.8 \(14.4MP Sensor\)](https://www.mapir.camera/collections/lenses/products/3-37mm-87hfov-f-2-8-m12)
 
-Lens Focal Length: 3.37mm 
-35mm Equivalent Focal Length: 18.94mm 
-Native Sensor Size Supported: 1/2.3" 
-Aperture: f/2.8 
-Field of View: 100 x 87 x 70 degrees \(Diagonal, Horizontal, Vertical\) 
-Filter Installed: None
-Megapixel Rating: 16.0MP 
-Optical Distortion: &lt;-1.0% 
-Hyperfocal \(Infinity\) Focus Distance: 32.07 inches \(2.67 feet\), 81.46 cm \(0.81 m\) 
-Lens Construction: 4G+3MO \(All Glass Elements\) 
-Weight: 8g 
-Dimensions: 22.32mm Length, 17.40mm Diameter
+Lens Focal Length: 3.37mm  
+35mm Equivalent Focal Length: 18.94mm  
+Native Sensor Size Supported: 1/2.3"  
+Aperture: f/2.8  
+Field of View: 100 x 87 x 70 degrees \(Diagonal, Horizontal, Vertical\)  
+Filter Installed: None 
+Megapixel Rating: 16.0MP  
+Optical Distortion: &lt;-1.0%  
+Hyperfocal \(Infinity\) Focus Distance: 32.07 inches \(2.67 feet\), 81.46 cm \(0.81 m\)  
+Lens Construction: 4G+3MO \(All Glass Elements\)  
+Weight: 8g  
+Dimensions: 22.32mm Length, 17.40mm Diameter  
 
 ## [3.5mm f/2.8 \(3.2MP Sensor\)](https://www.mapir.camera/collections/lenses/products/3-5mm-87hfov-f-2-8-m12)
 
