@@ -38,6 +38,7 @@
       * [Transferring Media](interfacing-with-kernel/software-interface/mcc/transferring-media.md)
     * [UAVCAN](interfacing-with-kernel/software-interface/uavcan.md)
     * [Updating Kernel Firmware](interfacing-with-kernel/software-interface/updating-kernel-stack-firmware/README.md)
+      * [Legacy Kernel Firmware Update Procedure](interfacing-with-kernel/software-interface/updating-kernel-stack-firmware/legacy-kernel-firmware-update-procedure.md)
       * [Kernel Firmware](interfacing-with-kernel/software-interface/updating-kernel-stack-firmware/kernel-firmware.md)
 * [Kernel Filters](kernel-filters/README.md)
   * [Filter Transmission Data](kernel-filters/filter-transmission-data.md)
