@@ -32,7 +32,6 @@ CHANGE LOG:
 
 * Firmware version number now supported in MAPIR Camera Control \(MCC\)
 * Improvements to IMU sensor readings
-* Adjusted trigger debounce to reduce false triggers on noisy power systems
 
 ## Firmware Version: 1.0 \(Original Firmware\)
 
