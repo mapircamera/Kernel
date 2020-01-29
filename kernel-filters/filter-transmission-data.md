@@ -14,7 +14,7 @@
 | Filter Model Name | Recommended Sensor Type | Peak Wavelength | Transmission Range \(50%\) | Transmission Chart | Typical Uses |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | F250 | MONO | 230nm | 216-256nm \(25% Range\) | [VIEW](filter-transmission-data.md#f250) | Ultraviolet \(UV\) light detection |
-| F350 | MONO | 350nm |  | VIEW | Ultraviolet \(UV\) light detection |
+| F350 | MONO | 350nm | 342-358nm | VIEW | Ultraviolet \(UV\) light detection |
 | F390 | MONO | 390nm |  | VIEW | Ultraviolet \(UV\) light detection |
 | F405 | MONO | 405nm | 400-415nm | [VIEW](filter-transmission-data.md#f405) | Ultraviolet \(UV\) light detection |
 | F450 | MONO | 450nm | 429-459nm | [VIEW](filter-transmission-data.md#f450) | Blue light indices |
@@ -73,6 +73,12 @@
 [Download Data](https://drive.google.com/open?id=1ucMh4x_1_x2oMynxwlh7qycLc8q2Oj4N)
 
 ![](../.gitbook/assets/f250.png)
+
+#### F350 <a id="f350"></a>
+
+[Download Data](https://drive.google.com/open?id=1gVxplyQ0qbkwkqZKo05NGFgl6kopeKQ7)
+
+![](../.gitbook/assets/f350.png)
 
 #### F405
 
