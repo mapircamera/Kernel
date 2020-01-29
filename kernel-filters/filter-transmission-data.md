@@ -15,7 +15,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | F250 | MONO | 230nm | 216-256nm \(25% Range\) | [VIEW](filter-transmission-data.md#f250) | Ultraviolet \(UV\) light detection |
 | F350 | MONO | 350nm | 342-358nm | VIEW | Ultraviolet \(UV\) light detection |
-| F390 | MONO | 390nm |  | VIEW | Ultraviolet \(UV\) light detection |
+| F385 | MONO | 385nm | 369-393nm | VIEW | Ultraviolet \(UV\) light detection |
 | F405 | MONO | 405nm | 400-415nm | [VIEW](filter-transmission-data.md#f405) | Ultraviolet \(UV\) light detection |
 | F450 | MONO | 450nm | 429-459nm | [VIEW](filter-transmission-data.md#f450) | Blue light indices |
 | F490 | MONO | 490nm | 468-506nm | [VIEW](filter-transmission-data.md#f490) | Blue/Green light indices |
@@ -79,6 +79,12 @@
 [Download Data](https://drive.google.com/open?id=1gVxplyQ0qbkwkqZKo05NGFgl6kopeKQ7)
 
 ![](../.gitbook/assets/f350.png)
+
+####  F385 <a id="f385"></a>
+
+​[Download Data](https://drive.google.com/open?id=1LfiN3vMfub6rI75umjNywGl3M13BXM1k)
+
+![](../.gitbook/assets/f385.png)
 
 #### F405
 
