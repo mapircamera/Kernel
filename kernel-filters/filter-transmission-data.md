@@ -19,7 +19,7 @@
 | F405 | MONO | 405nm | 400-415nm | [VIEW](filter-transmission-data.md#f405) | Ultraviolet \(UV\) light detection |
 | F450 | MONO | 450nm | 429-459nm | [VIEW](filter-transmission-data.md#f450) | Blue light indices |
 | F490 | MONO | 490nm | 468-506nm | [VIEW](filter-transmission-data.md#f490) | Blue/Green light indices |
-| F510 | MONO | 510nm | 504-522nm | [VIEW](./) | Blue/Green indices |
+| F510 | MONO | 510nm | 504-522nm | VIEW | Blue/Green indices |
 | F518 | MONO | 518nm | 507-527nm | [VIEW](filter-transmission-data.md#f518) | Green light indices |
 | F550 | MONO | 550nm | 535-565nm | [VIEW](filter-transmission-data.md#f550) | Green light indices |
 | F590 | MONO | 590nm | 574-606nm | [VIEW](filter-transmission-data.md#f590) | Yellow light indices |
