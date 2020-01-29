@@ -32,7 +32,7 @@
 | F750 | MONO | 750nm | 736-767nm | VIEW | Red-edge indices |
 | F780 | MONO | 780nm | 762-796nm | [VIEW](filter-transmission-data.md#f780) | Red-edge indices |
 | F808 | MONO | 808nm | 801-815nm | [VIEW](filter-transmission-data.md#f808) | NIR light indices |
-| F830 | MONO | 830nm | 813-844nm | VIEW | NIR light indices |
+| F830 | MONO | 830nm | 811-841nm | VIEW | NIR light indices |
 | F850 | MONO | 850nm | 835-865nm | [VIEW](filter-transmission-data.md#f850) | NIR light indices |
 | F880 | MONO | 880nm | 867-893nm | [VIEW](filter-transmission-data.md#f880) | NIR light indices |
 | F905 | MONO | 905nm | 892-920nm | [VIEW](filter-transmission-data.md#f905) | NIR light indices |
@@ -181,6 +181,12 @@
 [Download Data](https://drive.google.com/open?id=18YNw24ULdjx-uJL1f3h3r1LLdM0_wbV_)
 
 ![](../.gitbook/assets/f808.png)
+
+#### F830
+
+[Download Data](https://drive.google.com/open?id=1yQRPta3zrOxAe8l2Zo0B4roJ_dCqLhsQ)
+
+![](../.gitbook/assets/f830.png)
 
 #### F850
 
