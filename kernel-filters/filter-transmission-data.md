@@ -30,7 +30,7 @@
 | F709 | MONO | 709nm |  | VIEW | Red-edge indices |
 | F725 | MONO | 725nm | 712-735nm | [VIEW](filter-transmission-data.md#f725) | Red-edge indices |
 | F750 | MONO | 750nm | 720-765nm | VIEW | Red-edge indices |
-| F780 | MONO | 780nm | 762-796nm | [VIEW](filter-transmission-data.md#f780) | Red-edge light indices |
+| F780 | MONO | 780nm | 762-796nm | [VIEW](filter-transmission-data.md#f780) | Red-edge indices |
 | F808 | MONO | 808nm | 801-815nm | [VIEW](filter-transmission-data.md#f808) | NIR light indices |
 | F830 | MONO | 830nm | 813-844nm | VIEW | NIR light indices |
 | F850 | MONO | 850nm | 835-865nm | [VIEW](filter-transmission-data.md#f850) | NIR light indices |
@@ -85,6 +85,12 @@
 [Download Data](https://drive.google.com/open?id=1jV3FPhNSCsYZgfRRSVjBl2XwHPE4OeNK)
 
 ![](../.gitbook/assets/f450.png)
+
+#### F510
+
+[Download Data](https://drive.google.com/open?id=1HgMTWX9JfmoFEk3n6k6lJEPZi83_ySWu)
+
+![](../.gitbook/assets/f510.png)
 
 #### F490
 
