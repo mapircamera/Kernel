@@ -27,7 +27,7 @@
 | F632 | MONO | 632nm | 625-655nm | [VIEW](filter-transmission-data.md#f632) | Red light indices |
 | F650 | MONO | 650nm | 641-672nm | [VIEW](filter-transmission-data.md#f650) | Red light indices |
 | F685 | MONO | 685nm | 674-698nm | [VIEW](filter-transmission-data.md#f685) | Red light indices |
-| F709 | MONO | 709nm |  | VIEW | Red-edge indices |
+| F709 | MONO | 709nm | 692-718nm | VIEW | Red-edge indices |
 | F725 | MONO | 725nm | 712-735nm | [VIEW](filter-transmission-data.md#f725) | Red-edge indices |
 | F750 | MONO | 750nm | 720-765nm | VIEW | Red-edge indices |
 | F780 | MONO | 780nm | 762-796nm | [VIEW](filter-transmission-data.md#f780) | Red-edge indices |
